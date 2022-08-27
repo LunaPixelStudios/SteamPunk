@@ -1,0 +1,32 @@
+
+[Common]
+	#Display 'material' for crafting-only items
+	vanillaMaterials = true
+	#Display stat bar for swords
+	swordStat = true
+	#Display stat bar for tools
+	toolStat = true
+	#Display stat bar for armor
+	armorStat = true
+	#Display custom stat bars
+	customStat = true
+
+#The following settings only affect Obscuria Collection Mods
+[Collection]
+
+	[Collection.General]
+		#Display 'material' for crafting-only items
+		collectionMaterials = true
+
+	[Collection.Essentials]
+		#Display usage tips for some items
+		essentialsTips = true
+		#Display common item descriptions
+		essentialsTooltips = true
+
+	[Collection.Aquamirae]
+		#Display usage tips for some items
+		aquamiraeTips = true
+		#Display common item descriptions
+		aquamiraeTooltips = true
+

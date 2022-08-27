@@ -1,0 +1,123 @@
+{
+  "mod_id": "miningmaster",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "miningmaster:ice_sapphire_ore"
+      ],
+      "en_name": "Ice Sapphire Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "ice_sapphire_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:power_pyrite_ore"
+      ],
+      "en_name": "Power Pyrite Ore",
+      "types": [
+        "nether"
+      ],
+      "id": "power_pyrite_ore",
+      "stone": [
+        "netherrack"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:haste_peridot_ore"
+      ],
+      "en_name": "Haste Peridot Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "haste_peridot_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:fire_ruby_ore"
+      ],
+      "en_name": "Fire Ruby Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "fire_ruby_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:kinetic_opal_ore"
+      ],
+      "en_name": "Kinetic Opal Ore",
+      "types": [
+        "nether"
+      ],
+      "id": "kinetic_opal_ore",
+      "stone": [
+        "netherrack"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:heart_rhodonite_ore"
+      ],
+      "en_name": "Heart Rhodonite Ore",
+      "types": [
+        "nether"
+      ],
+      "id": "heart_rhodonite_ore",
+      "stone": [
+        "netherrack"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:spirit_garnet_ore"
+      ],
+      "en_name": "Spirit Garnet Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "spirit_garnet_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:dive_aquamarine_ore"
+      ],
+      "en_name": "Dive Aquamarine Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "dive_aquamarine_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "miningmaster:lucky_citrine_ore"
+      ],
+      "en_name": "Lucky Citrine Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "lucky_citrine_ore",
+      "stone": [
+        "stone"
+      ]
+    }
+  ]
+}

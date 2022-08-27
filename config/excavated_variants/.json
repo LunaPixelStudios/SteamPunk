@@ -1,0 +1,37 @@
+{
+  "mod_id": "",
+  "provided_stones": [
+    {
+      "block_id": "examplemod:examplestone",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "examplemod_examplestone",
+      "en_name": "Example Stone"
+    }
+  ],
+  "provided_ores": [
+    {
+      "block_id": [
+        "examplemod:example_ore",
+        "examplemod:deepslate_example_ore",
+        "examplemod:examplestone_example_ore"
+      ],
+      "en_name": "Example Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "example_ore",
+      "orename": [
+        "random_ore"
+      ],
+      "stone": [
+        "stone",
+        "deepslate",
+        "examplemod_examplestone"
+      ]
+    }
+  ]
+}

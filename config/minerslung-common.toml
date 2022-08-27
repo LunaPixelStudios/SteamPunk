@@ -1,0 +1,34 @@
+#Air qualities at different heights in different dimensions.
+#The syntax is the dimension's resource location, the "default" air level in that dimension,
+#then any number of height:airlevel pairs separated by commas.
+#The air will have that quality starting at that height and above (until the next entry).
+#The entries must be in ascending order of height.
+#If a dimension doesn't have an entry here, it'll be assumed to be green everywhere.
+dimensions = ["minecraft:overworld=yellow,0:green,128:yellow", "minecraft:the_nether=yellow", "minecraft:the_end=red"]
+#Entities that can always breathe.
+#This is in addition to entities where `.canBreatheUnderwater()` returns true (so, fish and undead),
+#and invulnerable players.
+alwaysBreathingEntities = ["minecraft:armor_stand", "minecraft:enderman", "minecraft:endermite", "minecraft:shulker", "minecraft:strider", "minecraft:ghast", "minecraft:ender_dragon", "minecraft:wither"]
+#Whether to allow right-clicking torches to make them spray particle effects
+enableSignalTorches = true
+#How much air a Drowned attack removes
+#Range: > -2147483648
+drownedChoking = 100
+
+[Ranges]
+	#The radius a soul torch projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulTorchRange = 2.0
+	#The radius a soul fire projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulFireRange = 5.0
+	#The radius a soul campfire projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulCampfireRange = 9.0
+	#The radius lava blocks project a bubble of red air around it
+	#Range: 0.0 ~ 32.0
+	lavaRange = 5.0
+	#The radius nether portal blocks project a bubble of green air around it
+	#Range: 0.0 ~ 32.0
+	netherPortalRange = 5.0
+

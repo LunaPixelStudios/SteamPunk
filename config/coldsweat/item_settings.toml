@@ -1,0 +1,43 @@
+
+[BoilerFuelItems]
+	#Defines the items that the Boiler can use as fuel and their values
+	#Format: [[item-id-1, fuel-amount-1], [item-id-2, fuel-amount-2], ...etc]
+	Boiler = [["minecraft:coal", 37], ["minecraft:charcoal", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000]]
+
+[IceboxFuelItems]
+	#Defines the items that the Ice Box can use as fuel and their values
+	#Format: [[item-id-1, fuel-amount-1], [item-id-2, fuel-amount-2], ...etc]
+	Icebox = [["minecraft:snowball", 37], ["minecraft:clay", 37], ["minecraft:snow_block", 333], ["minecraft:water_bucket", 333], ["minecraft:ice", 333], ["minecraft:packed_ice", 1000]]
+
+[HearthFuelItems]
+	#Defines the items that the Hearth can use as fuel and their values
+	#Format: [[item-id-1, fuel-amount-1], [item-id-2, fuel-amount-2], ...etc]
+	#(negative values indicate cold fuel)
+	Hearth = [["minecraft:coal", 37], ["minecraft:charcoal", 37], ["minecraft:coal_block", 333], ["minecraft:magma_block", 333], ["minecraft:lava_bucket", 1000], ["minecraft:snowball", -37], ["minecraft:clay", -37], ["minecraft:snow_block", -333], ["minecraft:water_bucket", -333], ["minecraft:ice", -333], ["minecraft:packed_ice", -1000]]
+
+[HellspringLampItems]
+	#Defines the items that the Hellspring Lamp can use as fuel and their values
+	#Format: [item-id-1, item-id-2, ...etc]
+	"Hellspring Lamp" = ["minecraft:warped_stem", "minecraft:warped_hyphae", "minecraft:stripped_warped_stem", "minecraft:stripped_warped_hyphae", "minecraft:crimson_stem", "minecraft:crimson_hyphae", "minecraft:stripped_crimson_stem", "minecraft:stripped_crimson_hyphae"]
+
+[InsulatorItems]
+	#Defines the items that can be used for insulating armor in the Sewing Table
+	#Format: [["item-id-1"], ["item-id-2"], ...etc]
+	"Sewing Table" = ["minecraft:leather_helmet", "minecraft:leather_chestplate", "minecraft:leather_leggings", "minecraft:leather_boots"]
+
+[InsulatingArmor]
+	#Defines the items that provide insulation when worn
+	#Format: [["item-id-1", amount-1], ["item-id-2", amount-2], ...etc]
+	"Insulating Armor Items" = [["minecraft:leather_helmet", 4], ["minecraft:leather_chestplate", 7], ["minecraft:leather_leggings", 5], ["minecraft:leather_boots", 4]]
+
+[TemperatureFoods]
+	#Defines items that affect the player's temperature when consumed
+	#Format: [[item-id-1, amount-1], [item-id-2, amount-2], ...etc]
+	#Negative values are cold foods, positive values are hot foods
+	"Temperature-Affecting Foods" = []
+
+[HellspringLampValidDimensions]
+	#Defines the dimensions that the Hellspring Lamp can be used in
+	#Format: [dimension-id-1, dimension-id-2, ...etc]
+	"Hellspring Lamp" = ["minecraft:the_nether"]
+

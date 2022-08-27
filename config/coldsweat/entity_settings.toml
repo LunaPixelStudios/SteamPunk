@@ -1,0 +1,7 @@
+
+["Insulated Entities"]
+	#List of entities that will insulate the player when riding them
+	#Format: [Entity ID, Insulation Amount]
+	#(1 is complete insulation, 0 is no insulation)
+	InsulatedEntities = []
+

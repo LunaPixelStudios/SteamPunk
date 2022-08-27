@@ -1,0 +1,49 @@
+#Show the config menu button in the Options menu
+ShowConfigButton = true
+#Overrides all other config options for easy difficulty management
+#Range: 1 ~ 5
+Difficulty = 2
+
+["Item settings"]
+	#Fire Resistance blocks all hot temperatures
+	"Fire Resistance Immunity" = false
+	#Ice Resistance blocks all cold temperatures
+	"Ice Resistance Immunity" = false
+	#Thermometer item is required to see world temperature
+	"Require Thermometer" = true
+
+["Misc things that are affected by temperature"]
+	#Sets whether damage scales with difficulty
+	"Damage Scaling" = true
+
+["Details about how the player is affected by temperature"]
+	#Minimum habitable temperature (default: 0.42857142857142855)
+	#Range: -Infinity ~ Infinity
+	"Minimum Habitable Temperature" = 0.42857142857142855
+	#Maximum habitable temperature (default: 1.619047619047619)
+	#Range: -Infinity ~ Infinity
+	"Maximum Habitable Temperature" = 1.619047619047619
+	#Rate at which the player's body temperature changes (default: 1.0 (100%))
+	#Range: 0.0 ~ Infinity
+	"Rate Multiplier" = 1.0
+
+["Grace Period Details"]
+	#Grace period length in ticks (default: 6000)
+	#Range: > 0
+	"Grace Period Length" = 6000
+	#Enables the grace period (default: true)
+	"Grace Period Enabled" = true
+
+["Block Effects"]
+	#Allows for adding simple BlockEffects without the use of Java mods
+	#Format (All temperatures are in Minecraft units):
+	#["block ids (separated by ",")", <temperature>, <range (max 7)>, <*true/false: weaken over distance>, <*max effect (temperature)>, <*min effect (temperature)>]
+	#(* = optional) (1 °MC = 42 °F/ 23.33 °C)
+	#(the effect of the example below (torch) is so low that it does barely anything. It's purely for demonstration)
+	BlockEffects = [["minecraft:torch,minecraft:wall_torch", 0.01, 4, true, 0.02]]
+
+["Hearth Strength"]
+	#How strong the hearth is (default: 0.5)
+	#Range: 0.0 ~ 1.0
+	"Hearth Strength" = 0.5
+

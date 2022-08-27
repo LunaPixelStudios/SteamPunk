@@ -1,0 +1,21 @@
+{
+  "mod_id": "randomite",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "randomite:randomite_ore",
+        "randomite:deepslate_randomite_ore"
+      ],
+      "en_name": "Randomite Ore",
+      "types": [
+        "stone"
+      ],
+      "id": "randomite_ore",
+      "stone": [
+        "stone",
+        "deepslate"
+      ]
+    }
+  ]
+}
