@@ -11,13 +11,4 @@
 	enableSleepingBagSpawnPoint = false
 	#Enables backpacks spawning in loot chests
 	enableLoot = true
-	toolSlotsAcceptSwords = true
-	disableCrafting = false
-	#Enables wearing backpack directly from ground
-	enableBackpackBlockWearable = true
-	#Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
-	invulnerableBackpack = true
-	enableBackpackAbilities = true
-	#Range: > 250
-	tanksCapacity = 4000
 

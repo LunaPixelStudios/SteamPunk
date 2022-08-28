@@ -2,7 +2,7 @@
   "general": {
     "displayTooltip": true,
     "displayBlocks": true,
-    "displayEntities": true,
+    "displayEntities": false,
     "displayMode": "TOGGLE",
     "hideFromDebug": true,
     "iconMode": "TOP",
@@ -15,15 +15,15 @@
     "debug": false
   },
   "overlay": {
-    "overlayPosX": 0.5,
+    "overlayPosX": 0.0,
     "overlayPosY": 1.0,
-    "overlayScale": 1.0,
-    "overlayAnchorX": 0.5,
+    "overlayScale": 0.99697685,
+    "overlayAnchorX": 0.0,
     "overlayAnchorY": 0.0,
-    "overlaySquare": false,
+    "overlaySquare": true,
     "flipMainHand": false,
     "color": {
-      "alpha": 0.7,
+      "alpha": 0.0,
       "themes": {
         "jade:waila": {
           "id": "jade:waila",
@@ -62,7 +62,7 @@
           "textShadow": true
         }
       },
-      "activeTheme": "jade:dark"
+      "activeTheme": "jade:create"
     },
     "autoScaleThreshold": 0.5
   },

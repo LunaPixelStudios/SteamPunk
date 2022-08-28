@@ -1,0 +1,10 @@
+{
+	id: "7C2D9C5605D4C22A"
+	group: "43045653B3654CAE"
+	order_index: 1
+	filename: "andesite_age"
+	title: "Andesite Age"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

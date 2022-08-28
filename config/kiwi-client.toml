@@ -14,5 +14,5 @@ noMicrosoftTelemetry = true
 	#Allowed values: vanilla, kiwi
 	tooltipNBTFormatter = "vanilla"
 	#Show tips about disabling debug tooltips
-	debugTooltipMsg = true
+	debugTooltipMsg = false
 

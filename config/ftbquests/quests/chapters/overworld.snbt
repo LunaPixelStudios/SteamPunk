@@ -1,0 +1,23 @@
+{
+	id: "292B1EB54741DB72"
+	group: "4D7380FEC0D5EFEB"
+	order_index: 0
+	filename: "overworld"
+	title: "Overworld"
+	icon: "minecraft:grass_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -0.5d
+		y: -0.5d
+		shape: "square"
+		id: "5E57346E0EB9A8CA"
+		tasks: [{
+			id: "6C1016204E6F3D65"
+			type: "dimension"
+			title: "Welcome!"
+			icon: "minecraft:grass_block"
+			dimension: "minecraft:overworld"
+		}]
+	}]
+}

@@ -1,7 +1,7 @@
 "Generates Twigs" = true
 "Generates Pebbles" = true
 "Generaetes Sea Shells" = true
-"Generates Rhyolite" = true
-"Generates Bloodstone" = true
-"Generates Schist" = true
+"Generates Rhyolite" = false
+"Generates Bloodstone" = false
+"Generates Schist" = false
 

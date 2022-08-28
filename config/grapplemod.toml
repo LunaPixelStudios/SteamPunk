@@ -174,7 +174,7 @@ rope_jump_at_angle = false
 rope_jump_cooldown_s = 0.0
 climb_speed = 0.3
 [options.longfallboots]
-longfallbootsrecipe = true
+longfallbootsrecipe = false
 [options.enderstaff]
 ender_staff_strength = 1.5
 ender_staff_recharge = 100

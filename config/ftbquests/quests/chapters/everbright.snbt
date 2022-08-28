@@ -1,0 +1,103 @@
+{
+	id: "550F7D5BA81F435A"
+	group: "4D7380FEC0D5EFEB"
+	order_index: 2
+	filename: "everbright"
+	title: "Blue Skies"
+	icon: "blue_skies:blue_journal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.0d
+			y: -0.5d
+			shape: "square"
+			dependencies: ["1CA03D29908D4C6B"]
+			id: "7A8F5039139E41E1"
+			tasks: [{
+				id: "32DB9E440A5AF3C0"
+				type: "dimension"
+				title: "Enter The Everbright"
+				icon: "blue_skies:everbright_portal"
+				dimension: "minecraft:overworld"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 1.5d
+			shape: "square"
+			dependencies: ["5E1427A60B05E551"]
+			id: "2DE53FECE230AE88"
+			tasks: [{
+				id: "26907253B882C04A"
+				type: "dimension"
+				title: "Enter The Everdawn"
+				icon: "blue_skies:everdawn_portal"
+				dimension: "blue_skies:everdawn"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 0.5d
+			shape: "square"
+			id: "378CED59BE824739"
+			tasks: [{
+				id: "5375202859027053"
+				type: "item"
+				title: "Obtain a Blue Journal from the GateKeeper"
+				icon: "blue_skies:blue_journal"
+				item: "blue_skies:blue_journal"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -0.5d
+			shape: "square"
+			dependencies: ["378CED59BE824739"]
+			id: "1CA03D29908D4C6B"
+			tasks: [{
+				id: "152BC7F6D548257B"
+				type: "item"
+				title: "Obtain 10 Turquoise Stone Bricks"
+				item: "blue_skies:turquoise_stonebrick"
+				count: 10L
+			}]
+			rewards: [{
+				id: "1FFF413880A6B914"
+				type: "item"
+				item: {
+					id: "blue_skies:zeal_lighter"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Obtain 10 Lunar Stone Bricks"
+			x: -0.5d
+			y: 1.5d
+			shape: "square"
+			dependencies: ["378CED59BE824739"]
+			id: "5E1427A60B05E551"
+			tasks: [{
+				id: "32DCE9E757A58582"
+				type: "item"
+				item: "blue_skies:lunar_stonebrick"
+				count: 10L
+			}]
+			rewards: [{
+				id: "65F8393C012A431F"
+				type: "item"
+				item: {
+					id: "blue_skies:zeal_lighter"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

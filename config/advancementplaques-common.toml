@@ -7,7 +7,7 @@
 		on_top = true
 		# The distance from the top or bottom of the screen, in pixels.
 		#Range: 8 ~ 256
-		distance = 16
+		distance = 50
 		# The horizontal offset from the center, in pixels.
 		#Range: -256 ~ 256
 		horizontal_offset = 0
