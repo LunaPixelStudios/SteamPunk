@@ -4,14 +4,20 @@
 	#If true, backpack can only be worn by placing it in curios 'Back' slot
 	#WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
 	curiosIntegration = false
-	enableBackpackAbilities = true
 	#Places backpack at place where player died
 	backpackDeathPlace = true
 	#Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 	backpackForceDeathPlace = false
-	#Enables button in backpack gui, which allows to empty tank
-	enableEmptyTankButton = true
 	enableSleepingBagSpawnPoint = false
 	#Enables backpacks spawning in loot chests
 	enableLoot = true
+	toolSlotsAcceptSwords = true
+	disableCrafting = false
+	#Enables wearing backpack directly from ground
+	enableBackpackBlockWearable = true
+	#Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
+	invulnerableBackpack = true
+	enableBackpackAbilities = true
+	#Range: > 250
+	tanksCapacity = 4000
 

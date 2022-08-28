@@ -1,0 +1,29 @@
+
+#Format: [["dimension-1", temperature-1], ["dimension-2", temperature-2]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+#Note: all temperatures are in Minecraft units
+#°F to MC = (x - 32) / 42
+#°C to MC = x / 23.3
+[Dimensions]
+	#Applies an offset to the world's temperature across an entire dimension
+	"Dimension Temperature Offsets" = [["minecraft:the_nether", 1.0], ["minecraft:the_end", -0.1]]
+	#Overrides existing dimension temperatures & offsets
+	#Also overrides temperatures of all biomes in the dimension
+	"Dimension Temperatures" = []
+
+#Format: [["biome-1", temperature-1], ["biome-2", temperature-2]... etc]
+#Note: all temperatures are in Minecraft units
+[Biomes]
+	#Applies an offset to the temperature of a biome
+	"Biome Temperature Offsets" = [["minecraft:soul_sand_valley", -0.5], ["minecraft:plains", 0.5], ["minecraft:forest", 0.3], ["minecraft:bamboo_jungle", 0.5], ["minecraft:jungle", 0.5], ["minecraft:sparse_jungle", 0.3], ["minecraft:desert", -0.2], ["minecraft:giant_spruce_taiga", 0.2], ["minecraft:giant_spruce_taiga_hills", 0.2], ["minecraft:savanna", -0.2], ["minecraft:savanna_plateau", -0.2], ["minecraft:windswept_savanna", -0.2], ["minecraft:taiga", 0.2], ["minecraft:old_growth_pine_taiga", 0.2], ["minecraft:old_growth_spruce_taiga", 0.2], ["minecraft:snowy_taiga", 0.2], ["minecraft:snowy_slopes", 0.2]]
+	#Overrides existing biome temperatures & offsets
+	"Biome Temperatures" = []
+
+#Format: [season-start, season-mid, season-end]
+#Applied as an offset to the world's temperature
+["Season Temperatures"]
+	Summer = [0.4, 0.6, 0.4]
+	Autumn = [0.2, 0, -0.2]
+	Winter = [-0.4, -0.6, -0.4]
+	Spring = [-0.2, 0, 0.2]
+

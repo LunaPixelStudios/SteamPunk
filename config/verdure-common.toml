@@ -5,7 +5,7 @@
 	#Generate smooth dirt patch
 	generateSmoothDirtPatch = true
 	#Generate humus patch in the jungle
-	generateHumusPatch = false
+	generateHumusPatch = true
 	#Generate clover patch
 	generateCloverPatch = true
 	#Generate daisies patch
@@ -36,7 +36,7 @@
 	#Range: 0.0 ~ 1.0
 	fallenLeavesChance = 0.1
 	#Dark Oak trees will spawn with a patch of humus underneath.
-	generateDarkOakHumus = false
+	generateDarkOakHumus = true
 
 ["Gameplay Settings"]
 	#Mushrooms can be placed and survive regardless of light level.

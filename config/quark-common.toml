@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = false
+	"Enable 'q' Button" = true
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#Disable this to turn off the quark system that makes features turn off when specified mods with the same content are loaded
@@ -132,7 +132,7 @@
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
-		"Replace Worldgen Chests" = false
+		"Replace Worldgen Chests" = true
 		"Enable Reverting Wooden Chests" = true
 		#Chests to put in each structure. The format per entry is "structure=chest", where "structure" is a structure ID, and "chest" is a block ID, which must correspond to a standard chest block.
 		"Structure Chests" = ["minecraft:village_plains=quark:oak_chest", "minecraft:igloo=quark:spruce_chest", "minecraft:village_snowy=quark:spruce_chest", "minecraft:village_taiga=quark:spruce_chest", "minecraft:desert_pyramid=quark:birch_chest", "minecraft:jungle_pyramid=quark:jungle_chest", "minecraft:village_desert=quark:jungle_chest", "minecraft:village_savanna=quark:acacia_chest", "minecraft:mansion=quark:dark_oak_chest", "minecraft:pillager_outpost=quark:dark_oak_chest", "minecraft:ruined_portal=quark:crimson_chest", "minecraft:bastion_remnant=quark:crimson_chest", "minecraft:fortress=quark:nether_brick_chest", "minecraft:end_city=quark:purpur_chest"]
@@ -261,14 +261,14 @@
 		"Enable Shift Lock" = true
 
 [tools]
-	Trowel = false
+	Trowel = true
 	"Slime In A Bucket" = true
 	"Seed Pouch" = true
-	Pickarang = false
+	Pickarang = true
 	"Pathfinder Maps" = true
 	"Parrot Eggs" = true
 	"Endermosh Music Disc" = true
-	"Color Runes" = false
+	"Color Runes" = true
 	Camera = true
 	"Bundle Recipe" = true
 	"Bottled Cloud" = true
@@ -543,14 +543,14 @@
 	"Spiral Spires" = true
 	Permafrost = true
 	"No More Lava Pockets" = true
-	"New Stone Types" = false
+	"New Stone Types" = true
 	"Nether Obsidian Spikes" = true
-	"Monster Box" = false
+	"Monster Box" = true
 	"Glimmering Weald" = true
-	"Fairy Rings" = false
-	Corundum = false
+	"Fairy Rings" = true
+	Corundum = true
 	"Chorus Vegetation" = true
-	"Blossom Trees" = false
+	"Blossom Trees" = true
 	"Big Stone Clusters" = true
 	"Big Dungeon" = true
 	"Azalea Wood" = true
@@ -1437,7 +1437,7 @@
 	"Greener Grass" = true
 	"Chest Searching" = true
 	"Back Button Keybind" = true
-	"Auto Walk Keybind" = false
+	"Auto Walk Keybind" = true
 
 	[client.variant_animal_textures]
 		"Enable Cow" = true
@@ -1550,13 +1550,13 @@
 		"Vertical Shift" = 0
 
 [oddities]
-	"Totem Of Holding" = false
-	"Tiny Potato" = false
+	"Totem Of Holding" = true
+	"Tiny Potato" = true
 	Pipes = true
-	"Matrix Enchanting" = false
+	"Matrix Enchanting" = true
 	Magnets = true
 	Crate = true
-	Backpack = false
+	Backpack = true
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.

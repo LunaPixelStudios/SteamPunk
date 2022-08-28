@@ -7,7 +7,7 @@
 		show_through_walls = true
 		# If markers should include an arrow under the profession-specific icon.
 		show_arrow = true
-		# If icons should show on minimaps. (Currently supports Xaero's Minimap).
+		# If icons should show on minimaps. (Currently supports Xaero's Minimap, FTB Chunks, and JourneyMap).
 		show_on_minimap = true
 		# Which overlay graphic to use (0 = backpack, 1 = emerald, 2 = coin stack, 3 = bag, 4 = profession level, -1 = none).
 		#Range: -1 ~ 4
@@ -24,12 +24,12 @@
 		# How large in-world markers should appear.
 		#Range: 0.5 ~ 2.0
 		icon_scale = 1.0
-		# How large markers should appear on minimaps.
+		# How large markers should appear on minimaps. (Only applicable for maps without a built-in icon scale option.)
 		#Range: 0.5 ~ 2.0
 		minimap_icon_scale = 0.75
 		# How high above villagers markers should appear.  The default position (0) is right above name plates.
 		#Range: -128 ~ 128
-		vertical_offset = 10
+		vertical_offset = 0
 		# The types of markers to show above villagers.  Can be one of either "items", "jobs", "generic", or "custom".  These options mean:
 		#    "items" - Shows items from the associated item list below.
 		#    "jobs" - Shows the texture from the villager's job site block (like the brewing stand for clerics, and so on).

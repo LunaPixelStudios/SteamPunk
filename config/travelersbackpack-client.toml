@@ -3,8 +3,6 @@
 [client]
 	#Displays warning about item deletion after updating from older version
 	displayWarning = true
-	#Enables auto message with backpack coords after player dies
-	enableBackpackCoordsMessage = true
 	#Enables tool cycling via keybind (Default Z) + scroll combination, while backpack is worn
 	enableToolCycling = true
 	#Allows tool cycling using keybinding only (Default Z)
@@ -15,6 +13,8 @@
 	renderTools = true
 	#Render backpack if elytra is present
 	renderBackpackWithElytra = true
+	#Disable backpack rendering
+	disableBackpackRender = false
 
 	#The position of the Overlay on the screen
 	[client.overlay]

@@ -3,8 +3,8 @@
 	"Max Distance" = 24
 	"Render with Interface Disabled (F1)" = false
 	"Height Above Mob" = 0.6
-	"Draw Background" = false
-	"Background Padding" = 0
+	"Draw Background" = true
+	"Background Padding" = 2
 	"Background Height" = 6
 	"Health Bar Height" = 4
 	"Plate Size" = 25
@@ -12,14 +12,14 @@
 	"Show Attributes" = true
 	"Show Armor" = true
 	"Group Armor (condense 5 iron icons into 1 diamond icon)" = true
-	"Color Health Bar by Type (instead of health percentage)" = true
+	"Color Health Bar by Type (instead of health percentage)" = false
 	"HP Text Height" = 14
-	"Show Max HP" = false
-	"Show Current HP" = false
-	"Show HP Percentage" = false
+	"Show Max HP" = true
+	"Show Current HP" = true
+	"Show HP Percentage" = true
 	"Display on Players" = true
 	"Display on Bosses" = true
-	"Only show the health bar for the entity looked at" = true
+	"Only show the health bar for the entity looked at" = false
 	"Show entities with full health" = true
 	"Show Debug Info with F3" = true
 	#Blacklist uses entity IDs, not their display names. Use F3 to see them in the Neat bar.

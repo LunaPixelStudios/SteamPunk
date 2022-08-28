@@ -26,15 +26,15 @@
 	#Item Config
 	["Loot Beams".Items]
 		#If all Items Loot Beams should be rendered. Has priority over only_equipment and only_rare.
-		all_items = false
+		all_items = true
 		#If Loot Beams should only be rendered on items with rarity.
-		only_rare = true
+		only_rare = false
 		#If Loot Beams should only be rendered on equipment. (Equipment includes: Swords, Tools, Armor, Shields, Bows, Crossbows, Tridents, Arrows, and Fishing Rods)
-		only_equipment = true
+		only_equipment = false
 		#Registry names of items that Loot Beams should render on. Example: "minecraft:stone", "minecraft:iron_ingot", You can also specify modids for a whole mod's items.
 		whitelist = []
 		#Registry names of items that Loot Beams should NOT render on. This has priority over everything. You can also specify modids for a whole mod's items.
-		blacklist = ["dannys_expansion:blue_slime", "relics:relic_contract", "bountiful:bounty"]
+		blacklist = []
 
 	#Item nametags
 	["Loot Beams".Nametags]

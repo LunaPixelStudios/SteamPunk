@@ -12,11 +12,11 @@
 		#If tutorial toasts are blocked.
 		tutorial = true
 		#If all vanilla toasts are blocked.
-		global_vanilla = true
+		global_vanilla = false
 		#If all non-vanilla toasts are blocked.
-		global_modded = true
+		global_modded = false
 		#If all toasts are blocked.
-		global = true
+		global = false
 		#Toast Classes that are blocked from being shown.
 		blocked_classes = []
 

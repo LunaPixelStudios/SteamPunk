@@ -56,7 +56,7 @@
 [IngredientList]
 	#Max number of rows shown
 	#Range: 1 ~ 100
-	MaxRows = 23
+	MaxRows = 16
 	#Max number of columns shown
 	#Range: 4 ~ 100
 	MaxColumns = 9
