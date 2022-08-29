@@ -1,0 +1,837 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 28, 2022, 3:31:03 PM
+
+#repurposed_structures:collections/villages
+- repurposed_structures:village_badlands
+- repurposed_structures:village_birch
+- repurposed_structures:village_crimson
+- repurposed_structures:village_dark_forest
+- repurposed_structures:village_giant_taiga
+- repurposed_structures:village_jungle
+- repurposed_structures:village_mountains
+- repurposed_structures:village_mushroom
+- repurposed_structures:village_oak
+- repurposed_structures:village_swamp
+- repurposed_structures:village_warped
+
+#repurposed_structures:collections/temples
+- repurposed_structures:temple_nether_basalt
+- repurposed_structures:temple_nether_crimson
+- repurposed_structures:temple_nether_soul
+- repurposed_structures:temple_nether_warped
+- repurposed_structures:temple_nether_wasteland
+
+#terralith:zpointer/minecraft_meadow
+- terralith:zpointer/minecraft_meadow
+
+#terralith:zpointer/terralith_temperate_highlands
+- terralith:zpointer/terralith_temperate_highlands
+
+#terralith:zpointer/minecraft_jungle
+- terralith:zpointer/minecraft_jungle
+
+#terralith:zpointer/minecraft_beach
+- terralith:zpointer/minecraft_beach
+
+#blue_skies:on_poison_maps
+- blue_skies:poison_dungeon
+
+#terralith:zpointer/terralith_windswept_spires
+- terralith:zpointer/terralith_windswept_spires
+
+#terralith:zpointer/minecraft_frozen_river
+- terralith:zpointer/minecraft_frozen_river
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure
+
+#morevillagers:on_mineshaft_explorer_maps
+- minecraft:mineshaft
+- #bettermineshafts:better_mineshafts
+
+#terralith:zpointer/minecraft_sparse_jungle
+- terralith:zpointer/minecraft_sparse_jungle
+
+#terralith:zpointer/terralith_white_mesa
+- terralith:zpointer/terralith_white_mesa
+
+#terralith:zpointer/terralith_yosemite_lowlands
+- terralith:zpointer/terralith_yosemite_lowlands
+
+#terralith:zpointer/terralith_frozen_cliffs
+- terralith:zpointer/terralith_frozen_cliffs
+
+#repurposed_structures:collections/strongholds
+- repurposed_structures:stronghold_nether
+- repurposed_structures:stronghold_end
+
+#terralith:zpointer/minecraft_deep_warm_ocean
+- terralith:zpointer/minecraft_deep_warm_ocean
+
+#terralith:zpointer/terralith_mirage_isles
+- terralith:zpointer/terralith_mirage_isles
+
+#morevillagers:on_end_city_explorer_maps
+- minecraft:end_city
+
+#terralith:zpointer/terralith_cloud_forest
+- terralith:zpointer/terralith_cloud_forest
+
+#terralith:zpointer/minecraft_warm_ocean
+- terralith:zpointer/minecraft_warm_ocean
+
+#terralith:zpointer/terralith_alpha_islands
+- terralith:zpointer/terralith_alpha_islands
+
+#terralith:zpointer/minecraft_snowy_beach
+- terralith:zpointer/minecraft_snowy_beach
+
+#terralith:zpointer/terralith_snowy_badlands
+- terralith:zpointer/terralith_snowy_badlands
+
+#terralith:zpointer/minecraft_deep_lukewarm_ocean
+- terralith:zpointer/minecraft_deep_lukewarm_ocean
+
+#repurposed_structures:less_jungle_bushes
+- repurposed_structures:outpost_jungle
+- repurposed_structures:village_jungle
+
+#pneumaticcraft:no_oil_lakes
+- repurposed_structures:bastion_underground
+- #repurposed_structures:collections/villages
+- #repurposed_structures:collections/mansions
+- #repurposed_structures:collections/witch_huts
+
+#terralith:zpointer/terralith_sandstone_valley
+- terralith:zpointer/terralith_sandstone_valley
+
+#terralith:zpointer/terralith_skylands_winter
+- terralith:zpointer/terralith_skylands_winter
+
+#terralith:zpointer/minecraft_savanna_plateau
+- terralith:zpointer/minecraft_savanna_plateau
+
+#morevillagers:on_fortress_explorer_maps
+- minecraft:fortress
+
+#repurposed_structures:collections/witch_huts
+- repurposed_structures:witch_hut_birch
+- repurposed_structures:witch_hut_dark_forest
+- repurposed_structures:witch_hut_giant_tree_taiga
+- repurposed_structures:witch_hut_oak
+- repurposed_structures:witch_hut_taiga
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert
+- minecraft:ruined_portal_jungle
+- minecraft:ruined_portal_mountain
+- minecraft:ruined_portal_nether
+- minecraft:ruined_portal_ocean
+- minecraft:ruined_portal
+- minecraft:ruined_portal_swamp
+- repurposed_structures:ruined_portal_end
+
+#terralith:zpointer/terralith_tropical_jungle
+- terralith:zpointer/terralith_tropical_jungle
+
+#terralith:zpointer/terralith_desert_oasis
+- terralith:zpointer/terralith_desert_oasis
+
+#repurposed_structures:collections/ruins
+- repurposed_structures:ruins_land_icy
+- repurposed_structures:ruins_land_cold
+- repurposed_structures:ruins_land_warm
+- repurposed_structures:ruins_land_hot
+- repurposed_structures:ruins_nether
+
+#repurposed_structures:explorer_maps/nether_fortress
+- minecraft:fortress
+
+#terralith:zpointer/minecraft_lukewarm_ocean
+- terralith:zpointer/minecraft_lukewarm_ocean
+
+#morevillagers:on_jungle_temple_explorer_maps
+- minecraft:jungle_pyramid
+
+#terralith:zpointer/minecraft_jagged_peaks
+- terralith:zpointer/minecraft_jagged_peaks
+
+#terralith:zpointer/minecraft_windswept_gravelly_hills
+- terralith:zpointer/minecraft_windswept_gravelly_hills
+
+#terralith:zpointer/terralith_skylands_spring
+- terralith:zpointer/terralith_skylands_spring
+
+#terralith:zpointer/terralith_sakura_valley
+- terralith:zpointer/terralith_sakura_valley
+
+#terralith:zpointer/minecraft_sunflower_plains
+- terralith:zpointer/minecraft_sunflower_plains
+
+#terralith:zpointer/terralith_forested_highlands
+- terralith:zpointer/terralith_forested_highlands
+
+#repurposed_structures:no_lakes
+- repurposed_structures:bastion_underground
+- #repurposed_structures:collections/villages
+- #repurposed_structures:collections/mansions
+- #repurposed_structures:collections/witch_huts
+
+#terralith:zpointer/terralith_hot_shrubland
+- terralith:zpointer/terralith_hot_shrubland
+
+#minecraft:desert_pyramid
+- minecraft:desert_pyramid
+
+#repurposed_structures:explorer_maps/stronghold_end
+- repurposed_structures:stronghold_end
+
+#terralith:zpointer/terralith_alpine_grove
+- terralith:zpointer/terralith_alpine_grove
+
+#repurposed_structures:collections/mineshafts
+- repurposed_structures:mineshaft_birch
+- repurposed_structures:mineshaft_crimson
+- repurposed_structures:mineshaft_dark_forest
+- repurposed_structures:mineshaft_desert
+- repurposed_structures:mineshaft_end
+- repurposed_structures:mineshaft_icy
+- repurposed_structures:mineshaft_jungle
+- repurposed_structures:mineshaft_nether
+- repurposed_structures:mineshaft_ocean
+- repurposed_structures:mineshaft_savanna
+- repurposed_structures:mineshaft_stone
+- repurposed_structures:mineshaft_swamp
+- repurposed_structures:mineshaft_taiga
+- repurposed_structures:mineshaft_warped
+
+#terralith:zpointer/minecraft_old_growth_pine_taiga
+- terralith:zpointer/minecraft_old_growth_pine_taiga
+
+#terralith:zpointer/terralith_yellowstone
+- terralith:zpointer/terralith_yellowstone
+
+#terralith:zpointer/terralith_alpha_islands_winter
+- terralith:zpointer/terralith_alpha_islands_winter
+
+#terralith:zpointer/minecraft_swamp
+- terralith:zpointer/minecraft_swamp
+
+#terralith:zpointer/minecraft_plains
+- terralith:zpointer/minecraft_plains
+
+#repurposed_structures:explorer_maps/pyramid_end
+- repurposed_structures:pyramid_end
+
+#bettermineshafts:better_mineshafts
+- bettermineshafts:mineshaft_acacia
+- bettermineshafts:mineshaft_desert
+- bettermineshafts:mineshaft_dripstone
+- bettermineshafts:mineshaft_forest
+- bettermineshafts:mineshaft_ice
+- bettermineshafts:mineshaft_jungle
+- bettermineshafts:mineshaft_lush
+- bettermineshafts:mineshaft_mesa
+- bettermineshafts:mineshaft_mushroom
+- bettermineshafts:mineshaft_oak
+- bettermineshafts:mineshaft_red_desert
+- bettermineshafts:mineshaft_spruce
+- bettermineshafts:mineshaft_spruce_snowy
+
+#terralith:zpointer/minecraft_mushroom_fields
+- terralith:zpointer/minecraft_mushroom_fields
+
+#idas:idas_structures
+- idas:labyrinth
+- idas:pillager_fortress
+- idas:wizardtower
+- idas:enchantingtower
+- idas:castle
+- idas:cottage
+- idas:brickhouse
+- idas:hauntedhouse
+- idas:abandonedhouse
+- idas:ancient_mines
+- idas:bearclaw_inn
+- idas:sunken_ship
+- idas:hunters_cabin
+- idas:farmhouse
+- idas:witches_treestump
+- idas:hermits_hollow
+- idas:apothecary_abode
+- idas:fishermans_lodge
+- idas:redhorn_guild
+
+#terralith:zpointer/terralith_siberian_taiga
+- terralith:zpointer/terralith_siberian_taiga
+
+#terralith:zpointer/terralith_amethyst_canyon
+- terralith:zpointer/terralith_amethyst_canyon
+
+#morevillagers:on_swamp_hut_explorer_maps
+- betterwitchhuts:witch_hut
+- minecraft:swamp_hut
+
+#terralith:zpointer/terralith_snowy_maple_forest
+- terralith:zpointer/terralith_snowy_maple_forest
+
+#repurposed_structures:explorer_maps/ruins_nether
+- repurposed_structures:ruins_nether
+
+#terralith:zpointer/terralith_painted_mountains
+- terralith:zpointer/terralith_painted_mountains
+
+#repurposed_structures:collections/bastions
+- repurposed_structures:bastion_underground
+
+#terralith:zpointer/terralith_gravel_beach
+- terralith:zpointer/terralith_gravel_beach
+
+#repurposed_structures:explorer_maps/bastion_remnant
+- minecraft:bastion_remnant
+
+#terralith:zpointer/terralith_blooming_valley
+- terralith:zpointer/terralith_blooming_valley
+
+#repurposed_structures:no_lavafalls
+- repurposed_structures:bastion_underground
+- repurposed_structures:mineshaft_icy
+
+#terralith:zpointer/minecraft_stony_peaks
+- terralith:zpointer/minecraft_stony_peaks
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin
+- #minecraft:shipwreck
+- repurposed_structures:pyramid_ocean
+
+#terralith:zpointer/terralith_yosemite_cliffs
+- terralith:zpointer/terralith_yosemite_cliffs
+
+#terralith:zpointer/minecraft_old_growth_birch_forest
+- terralith:zpointer/minecraft_old_growth_birch_forest
+
+#terralith:zpointer/terralith_savanna_slopes
+- terralith:zpointer/terralith_savanna_slopes
+
+#terralith:zpointer/terralith_steppe
+- terralith:zpointer/terralith_steppe
+
+#terralith:zpointer/terralith_haze_mountain
+- terralith:zpointer/terralith_haze_mountain
+
+#minecraft:shipwreck
+- minecraft:shipwreck
+- minecraft:shipwreck_beached
+
+#terralith:zpointer/terralith_snowy_shield
+- terralith:zpointer/terralith_snowy_shield
+
+#betterstrongholds:stronghold
+- betterstrongholds:stronghold
+
+#terralith:zpointer/minecraft_dripstone_caves
+- terralith:zpointer/minecraft_dripstone_caves
+
+#terralith:zpointer/terralith_wintry_forest
+- terralith:zpointer/terralith_wintry_forest
+
+#morevillagers:on_bastion_remnant_explorer_maps
+- minecraft:bastion_remnant
+
+#terralith:zpointer/minecraft_dark_forest
+- terralith:zpointer/minecraft_dark_forest
+
+#terralith:zpointer/terralith_siberian_grove
+- terralith:zpointer/terralith_siberian_grove
+
+#terralith:zpointer/terralith_volcanic_peaks
+- terralith:zpointer/terralith_volcanic_peaks
+
+#terralith:zpointer/minecraft_windswept_forest
+- terralith:zpointer/minecraft_windswept_forest
+
+#repurposed_structures:larger_locate_search
+- #repurposed_structures:collections/mineshafts
+
+#terralith:zpointer/terralith_warm_river
+- terralith:zpointer/terralith_warm_river
+
+#terralith:zpointer/terralith_emerald_peaks
+- terralith:zpointer/terralith_emerald_peaks
+
+#terralith:zpointer/minecraft_deep_frozen_ocean
+- terralith:zpointer/minecraft_deep_frozen_ocean
+
+#terralith:zpointer/terralith_scarlet_mountains
+- terralith:zpointer/terralith_scarlet_mountains
+
+#blue_skies:dungeons
+- blue_skies:everbright_blinding_dungeon
+- blue_skies:everdawn_blinding_dungeon
+- blue_skies:nature_dungeon
+- blue_skies:poison_dungeon
+
+#terralith:zpointer/minecraft_lush_caves
+- terralith:zpointer/minecraft_lush_caves
+
+#terralith:zpointer/terralith_orchid_swamp
+- terralith:zpointer/terralith_orchid_swamp
+
+#terralith:zpointer/terralith_fractured_savanna
+- terralith:zpointer/terralith_fractured_savanna
+
+#terralith:zpointer/minecraft_taiga
+- terralith:zpointer/minecraft_taiga
+
+#terralith:zpointer/terralith_ice_marsh
+- terralith:zpointer/terralith_ice_marsh
+
+#terralith:zpointer/minecraft_bamboo_jungle
+- terralith:zpointer/minecraft_bamboo_jungle
+
+#terralith:zpointer/minecraft_frozen_ocean
+- terralith:zpointer/minecraft_frozen_ocean
+
+#quark:soul_bead_target
+- minecraft:fortress
+
+#repurposed_structures:collections/shipwrecks
+- repurposed_structures:shipwreck_crimson
+- repurposed_structures:shipwreck_end
+- repurposed_structures:shipwreck_nether_bricks
+- repurposed_structures:shipwreck_warped
+
+#repurposed_structures:explorer_maps/end_city
+- minecraft:end_city
+
+#terralith:zpointer/terralith_brushland
+- terralith:zpointer/terralith_brushland
+
+#terralith:zpointer/terralith_gravel_desert
+- terralith:zpointer/terralith_gravel_desert
+
+#repurposed_structures:collections/cities
+- repurposed_structures:city_overworld
+- repurposed_structures:city_nether
+
+#terralith:zpointer/terralith_white_cliffs
+- terralith:zpointer/terralith_white_cliffs
+
+#terralith:zpointer/minecraft_birch_forest
+- terralith:zpointer/minecraft_birch_forest
+
+#terralith:zpointer/minecraft_windswept_hills
+- terralith:zpointer/minecraft_windswept_hills
+
+#blue_skies:on_bunker_maps
+- blue_skies:frozen_bunker
+
+#terralith:zpointer/terralith_birch_taiga
+- terralith:zpointer/terralith_birch_taiga
+
+#minecraft:igloo
+- minecraft:igloo
+
+#repurposed_structures:collections/pyramids
+- repurposed_structures:pyramid_badlands
+- repurposed_structures:pyramid_dark_forest
+- repurposed_structures:pyramid_end
+- repurposed_structures:pyramid_flower_forest
+- repurposed_structures:pyramid_giant_tree_taiga
+- repurposed_structures:pyramid_icy
+- repurposed_structures:pyramid_jungle
+- repurposed_structures:pyramid_mushroom
+- repurposed_structures:pyramid_nether
+- repurposed_structures:pyramid_ocean
+- repurposed_structures:pyramid_snowy
+
+#terralith:zpointer/terralith_highlands
+- terralith:zpointer/terralith_highlands
+
+#terralith:zpointer/minecraft_flower_forest
+- terralith:zpointer/minecraft_flower_forest
+
+#repurposed_structures:spawn_black_cats
+- #repurposed_structures:collections/witch_huts
+
+#conjurer_illager:on_theater_maps
+- conjurer_illager:theatre
+
+#terralith:zpointer/terralith_glacial_chasm
+- terralith:zpointer/terralith_glacial_chasm
+
+#terralith:zpointer/minecraft_deep_ocean
+- terralith:zpointer/minecraft_deep_ocean
+
+#terralith:zpointer/terralith_desert_spires
+- terralith:zpointer/terralith_desert_spires
+
+#terralith:zpointer/minecraft_windswept_savanna
+- terralith:zpointer/minecraft_windswept_savanna
+
+#terralith:zpointer/minecraft_savanna
+- terralith:zpointer/minecraft_savanna
+
+#terralith:zpointer/minecraft_snowy_plains
+- terralith:zpointer/minecraft_snowy_plains
+
+#blue_skies:on_blinding_maps
+- blue_skies:everbright_blinding_dungeon
+- blue_skies:everdawn_blinding_dungeon
+
+#repurposed_structures:collections/fortresses
+- repurposed_structures:fortress_jungle
+
+#minecraft:bastion_remnant
+- minecraft:bastion_remnant
+
+#terralith:zpointer/terralith_skylands_summer
+- terralith:zpointer/terralith_skylands_summer
+
+#terralith:zpointer/minecraft_old_growth_spruce_taiga
+- terralith:zpointer/minecraft_old_growth_spruce_taiga
+
+#terralith:zpointer/terralith_ashen_savanna
+- terralith:zpointer/terralith_ashen_savanna
+
+#terralith:zpointer/terralith_mountain_steppe
+- terralith:zpointer/terralith_mountain_steppe
+
+#terralith:zpointer/terralith_arid_highlands
+- terralith:zpointer/terralith_arid_highlands
+
+#terralith:zpointer/minecraft_ocean
+- terralith:zpointer/minecraft_ocean
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument
+
+#minecraft:jungle_pyramid
+- minecraft:jungle_pyramid
+
+#blue_skies:tree_disallowed
+- #blue_skies:on_nature_maps
+- blue_skies:village_calming_skies
+- blue_skies:village_crystal_dunes
+- blue_skies:village_brightlands
+- blue_skies:village_sunset_maple_forest
+- blue_skies:village_slushlands
+
+#minecraft:swamp_hut
+- minecraft:swamp_hut
+
+#morevillagers:on_pillager_outpost_explorer_maps
+- minecraft:pillager_outpost
+
+#terralith:zpointer/terralith_rocky_shrubland
+- terralith:zpointer/terralith_rocky_shrubland
+
+#repurposed_structures:collections/ruined_portals
+- repurposed_structures:ruined_portal_end
+
+#minecraft:village
+- minecraft:village_plains
+- minecraft:village_desert
+- minecraft:village_savanna
+- minecraft:village_snowy
+- minecraft:village_taiga
+- blue_skies:village_calming_skies
+- blue_skies:village_crystal_dunes
+- blue_skies:village_brightlands
+- blue_skies:village_shaded_woodlands
+- blue_skies:village_sunset_maple_forest
+- blue_skies:village_slushlands
+- repurposed_structures:village_badlands
+- repurposed_structures:village_birch
+- repurposed_structures:village_crimson
+- repurposed_structures:village_dark_forest
+- repurposed_structures:village_giant_taiga
+- repurposed_structures:village_jungle
+- repurposed_structures:village_mountains
+- repurposed_structures:village_mushroom
+- repurposed_structures:village_oak
+- repurposed_structures:village_swamp
+- repurposed_structures:village_warped
+
+#minecraft:end_city
+- minecraft:end_city
+
+#repurposed_structures:no_basalt
+- repurposed_structures:mineshaft_nether
+- repurposed_structures:mineshaft_crimson
+- repurposed_structures:mineshaft_warped
+- repurposed_structures:temple_nether_basalt
+- repurposed_structures:shipwreck_nether_bricks
+- repurposed_structures:outpost_nether_brick
+- repurposed_structures:village_crimson
+- repurposed_structures:village_warped
+- repurposed_structures:ruins_nether
+
+#supplementaries:adventure_map_destinations
+- #minecraft:village
+- #minecraft:shipwreck
+- #minecraft:mineshaft
+- #minecraft:ocean_ruin
+- #minecraft:ruined_portal
+- #minecraft:swamp_hut
+- #minecraft:bastion_remnant
+- #minecraft:jungle_pyramid
+- #minecraft:desert_pyramid
+- #minecraft:pillager_outpost
+- #minecraft:igloo
+- #minecraft:end_city
+
+#terralith:zpointer/terralith_jungle_mountains
+- terralith:zpointer/terralith_jungle_mountains
+
+#minecraft:mineshaft
+- minecraft:mineshaft
+- minecraft:mineshaft_mesa
+- repurposed_structures:mineshaft_birch
+- repurposed_structures:mineshaft_crimson
+- repurposed_structures:mineshaft_dark_forest
+- repurposed_structures:mineshaft_desert
+- repurposed_structures:mineshaft_end
+- repurposed_structures:mineshaft_icy
+- repurposed_structures:mineshaft_jungle
+- repurposed_structures:mineshaft_nether
+- repurposed_structures:mineshaft_ocean
+- repurposed_structures:mineshaft_savanna
+- repurposed_structures:mineshaft_stone
+- repurposed_structures:mineshaft_swamp
+- repurposed_structures:mineshaft_taiga
+- repurposed_structures:mineshaft_warped
+- bettermineshafts:mineshaft_acacia
+- bettermineshafts:mineshaft_desert
+- bettermineshafts:mineshaft_ice
+- bettermineshafts:mineshaft_jungle
+- bettermineshafts:mineshaft_lush
+- bettermineshafts:mineshaft_mesa
+- bettermineshafts:mineshaft_mushroom
+- bettermineshafts:mineshaft_oak
+- bettermineshafts:mineshaft_red_desert
+- bettermineshafts:mineshaft_spruce
+- bettermineshafts:mineshaft_spruce_snowy
+- bettermineshafts:mineshaft_forest
+- bettermineshafts:mineshaft_dripstone
+
+#terralith:zpointer/terralith_valley_clearing
+- terralith:zpointer/terralith_valley_clearing
+
+#terralith:zpointer/terralith_moonlight_grove
+- terralith:zpointer/terralith_moonlight_grove
+
+#terralith:zpointer/terralith_amethyst_rainforest
+- terralith:zpointer/terralith_amethyst_rainforest
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold
+- #repurposed_structures:collections/strongholds
+- #betterstrongholds:stronghold
+
+#terralith:zpointer/terralith_rocky_mountains
+- terralith:zpointer/terralith_rocky_mountains
+
+#terralith:zpointer/minecraft_ice_spikes
+- terralith:zpointer/minecraft_ice_spikes
+
+#terralith:zpointer/terralith_granite_cliffs
+- terralith:zpointer/terralith_granite_cliffs
+
+#terralith:zpointer/terralith_lavender_valley
+- terralith:zpointer/terralith_lavender_valley
+
+#terralith:zpointer/minecraft_desert
+- terralith:zpointer/minecraft_desert
+
+#terralith:zpointer/minecraft_frozen_peaks
+- terralith:zpointer/minecraft_frozen_peaks
+
+#terralith:zpointer/terralith_stony_spires
+- terralith:zpointer/terralith_stony_spires
+
+#terralith:zpointer/minecraft_forest
+- terralith:zpointer/minecraft_forest
+
+#bygonenether:no_basalt
+- minecraft:bastion_remnant
+- bygonenether:piglin_manor
+- minecraft:fortress
+- bygonenether:citadel
+- bygonenether:catacomb
+
+#terralith:zpointer/minecraft_stony_shore
+- terralith:zpointer/minecraft_stony_shore
+
+#terralith:zpointer/terralith_skylands_autumn
+- terralith:zpointer/terralith_skylands_autumn
+
+#terralith:zpointer/terralith_sakura_grove
+- terralith:zpointer/terralith_sakura_grove
+
+#terralith:zpointer/terralith_warped_mesa
+- terralith:zpointer/terralith_warped_mesa
+
+#blue_skies:on_nature_maps
+- blue_skies:nature_dungeon
+
+#terralith:zpointer/terralith_basalt_cliffs
+- terralith:zpointer/terralith_basalt_cliffs
+
+#terralith:zpointer/terralith_bryce_canyon
+- terralith:zpointer/terralith_bryce_canyon
+
+#repurposed_structures:collections/igloos
+- repurposed_structures:igloo_grassy
+- repurposed_structures:igloo_mushroom
+- repurposed_structures:igloo_stone
+
+#terralith:zpointer/minecraft_snowy_taiga
+- terralith:zpointer/minecraft_snowy_taiga
+
+#repurposed_structures:explorer_maps/city_nether
+- repurposed_structures:city_nether
+
+#terralith:zpointer/minecraft_eroded_badlands
+- terralith:zpointer/minecraft_eroded_badlands
+
+#terralith:zpointer/terralith_ancient_sands
+- terralith:zpointer/terralith_ancient_sands
+
+#terralith:zpointer/minecraft_wooded_badlands
+- terralith:zpointer/minecraft_wooded_badlands
+
+#repurposed_structures:collections/outposts
+- repurposed_structures:outpost_badlands
+- repurposed_structures:outpost_birch
+- repurposed_structures:outpost_crimson
+- repurposed_structures:outpost_desert
+- repurposed_structures:outpost_end
+- repurposed_structures:outpost_giant_tree_taiga
+- repurposed_structures:outpost_icy
+- repurposed_structures:outpost_jungle
+- repurposed_structures:outpost_nether_brick
+- repurposed_structures:outpost_oak
+- repurposed_structures:outpost_snowy
+- repurposed_structures:outpost_taiga
+- repurposed_structures:outpost_warped
+
+#terralith:zpointer/terralith_alpine_highlands
+- terralith:zpointer/terralith_alpine_highlands
+
+#terralith:zpointer/terralith_shrubland
+- terralith:zpointer/terralith_shrubland
+
+#terralith:zpointer/terralith_red_oasis
+- terralith:zpointer/terralith_red_oasis
+
+#terralith:zpointer/terralith_moonlight_valley
+- terralith:zpointer/terralith_moonlight_valley
+
+#terralith:zpointer/terralith_blooming_plateau
+- terralith:zpointer/terralith_blooming_plateau
+
+#terralith:zpointer/terralith_shield_clearing
+- terralith:zpointer/terralith_shield_clearing
+
+#terralith:zpointer/terralith_lavender_forest
+- terralith:zpointer/terralith_lavender_forest
+
+#minecraft:pillager_outpost
+- minecraft:pillager_outpost
+
+#terralith:zpointer/terralith_cold_shrubland
+- terralith:zpointer/terralith_cold_shrubland
+
+#repurposed_structures:explorer_maps/bastion_underground
+- repurposed_structures:bastion_underground
+
+#terralith:zpointer/minecraft_river
+- terralith:zpointer/minecraft_river
+
+#repurposed_structures:collections/mansions
+- repurposed_structures:mansion_birch
+- repurposed_structures:mansion_desert
+- repurposed_structures:mansion_jungle
+- repurposed_structures:mansion_oak
+- repurposed_structures:mansion_savanna
+- repurposed_structures:mansion_snowy
+- repurposed_structures:mansion_taiga
+
+#terralith:zpointer/minecraft_grove
+- terralith:zpointer/minecraft_grove
+
+#supplementaries:way_sign_destinations
+- #minecraft:village
+- repurposed_structures:village_badlands?
+- repurposed_structures:village_dark_oak?
+- repurposed_structures:village_birch?
+- repurposed_structures:village_giant_taiga?
+- repurposed_structures:village_jungle?
+- repurposed_structures:village_mountains?
+- repurposed_structures:village_oak?
+- repurposed_structures:village_swamp?
+- pokecube_legends:village?
+- pokecube_legends:village/ocean?
+- valhelsia_structures:castle?
+- valhelsia_structures:castle_ruin?
+- valhelsia_structures:small_castle?
+- valhelsia_structures:tower_ruin?
+- stoneholm:underground_village?
+- blue_skies:gatekeeper_house?
+- feywild:library?
+- feywild:blacksmith?
+- repurposed_structures:village_mushroom?
+
+#terralith:zpointer/terralith_volcanic_crater
+- terralith:zpointer/terralith_volcanic_crater
+
+#terralith:zpointer/minecraft_badlands
+- terralith:zpointer/minecraft_badlands
+
+#repurposed_structures:explorer_maps/stronghold_nether
+- repurposed_structures:stronghold_nether
+
+#terralith:zpointer/terralith_skylands
+- terralith:zpointer/terralith_skylands
+
+#terralith:zpointer/terralith_caldera
+- terralith:zpointer/terralith_caldera
+
+#terralith:zpointer/minecraft_snowy_slopes
+- terralith:zpointer/minecraft_snowy_slopes
+
+#terralith:zpointer/minecraft_deep_cold_ocean
+- terralith:zpointer/minecraft_deep_cold_ocean
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold
+- minecraft:ocean_ruin_warm
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion
+- biomemakeover:mansion
+
+#repurposed_structures:collections/monuments
+- repurposed_structures:monument_jungle
+- repurposed_structures:monument_icy
+- repurposed_structures:monument_nether
+- repurposed_structures:monument_desert
+
+#terralith:zpointer/terralith_rocky_jungle
+- terralith:zpointer/terralith_rocky_jungle
+
+#minecraft:fortress
+- minecraft:fortress
+
+#terralith:zpointer/terralith_shield
+- terralith:zpointer/terralith_shield
+
+#terralith:zpointer/terralith_lush_valley
+- terralith:zpointer/terralith_lush_valley
+
+#terralith:zpointer/minecraft_cold_ocean
+- terralith:zpointer/minecraft_cold_ocean
+
+#terralith:zpointer/terralith_savanna_badlands
+- terralith:zpointer/terralith_savanna_badlands

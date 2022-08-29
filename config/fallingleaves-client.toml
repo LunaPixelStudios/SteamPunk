@@ -23,10 +23,3 @@ disableWind = false
 #windless dimensions
 windlessDimension = ["minecraft:the_nether", "minecraft:the_end"]
 
-["Serene Seasons"]
-	#spawnrate modifier per season/subseason
-	#Format: '<season>:<modifier>'; eg 'SUMMER:0.23'
-	#Subseasons override seasons
-	#Allowed seasons: SPRING,SUMMER,AUTUMN,WINTER,EARLY_SPRING,MID_SPRING,LATE_SPRING,EARLY_SUMMER,MID_SUMMER,LATE_SUMMER,EARLY_AUTUMN,MID_AUTUMN,LATE_AUTUMN,EARLY_WINTER,MID_WINTER,LATE_WINTER
-	seasonFallRate = ["SPRING:0", "AUTUMN:1", "SUMMER:0.2", "WINTER:0.2"]
-

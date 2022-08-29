@@ -6,9 +6,9 @@ Difficulty = 2
 
 ["Item settings"]
 	#Fire Resistance blocks all hot temperatures
-	"Fire Resistance Immunity" = false
+	"Fire Resistance Immunity" = true
 	#Ice Resistance blocks all cold temperatures
-	"Ice Resistance Immunity" = false
+	"Ice Resistance Immunity" = true
 	#Thermometer item is required to see world temperature
 	"Require Thermometer" = true
 
@@ -40,7 +40,7 @@ Difficulty = 2
 	#["block ids (separated by ",")", <temperature>, <range (max 7)>, <*true/false: weaken over distance>, <*max effect (temperature)>, <*min effect (temperature)>]
 	#(* = optional) (1 °MC = 42 °F/ 23.33 °C)
 	#(the effect of the example below (torch) is so low that it does barely anything. It's purely for demonstration)
-	BlockEffects = [["minecraft:torch,minecraft:wall_torch", 0.01, 4, true, 0.02]]
+	BlockEffects = [["minecraft:torch,minecraft:wall_torch", 0.01, 4, true, 0.02], ["minecraft:campfire", 1.19, 5, true, 1.23], ["minecraft:soul_campfire", 1.19, 5, true, 1.23], ["minecraft:ice", -0.6, 2, false], ["minecraft:blue_ice", -1.19, 2, false], ["minecraft:packed_ice", -1, 2, false], ["minecraft:snow", -0.4, 1, false], ["minecraft:snow_block", -0.6, 2, false]]
 
 ["Hearth Strength"]
 	#How strong the hearth is (default: 0.5)

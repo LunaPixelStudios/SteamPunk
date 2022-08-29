@@ -1,0 +1,9 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 28, 2022, 3:31:03 PM
+
+#structure_gel:lake_proof
+- minecraft:pillager_outpost
+- minecraft:mansion
+- minecraft:jungle_pyramid
+- minecraft:desert_pyramid
+- minecraft:igloo
+- minecraft:stronghold

@@ -1,7 +1,7 @@
 
 ["Temperature display preferences"]
 	#Sets all temperatures to be displayed in Celsius
-	Celsius = true
+	Celsius = false
 	#(Visually) offsets the temperature for personalization (default: 0, so a Plains biome is 75 °F or 21 °C)
 	#Range: > 0
 	"Temperature Offset" = 0
