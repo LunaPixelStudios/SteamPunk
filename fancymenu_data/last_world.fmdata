@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = C:/Users/jojom/curseforge/minecraft/Instances/SteamPunk/saves/New World
-}
-
