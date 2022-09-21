@@ -1,0 +1,34 @@
+{
+  "mod_id": "oreganized",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "oreganized:lead_ore"
+      ],
+      "en_name": "Lead Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "lead_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "oreganized:silver_ore"
+      ],
+      "en_name": "Silver Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "silver_ore",
+      "stone": [
+        "stone"
+      ]
+    }
+  ]
+}

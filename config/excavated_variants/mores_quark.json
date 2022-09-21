@@ -1,0 +1,137 @@
+{
+  "mod_id": [
+    "mores",
+    "quark"
+  ],
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "mores:jasper_lapis_ore",
+        "mores:shale_lapis_ore"
+      ],
+      "en_name": "Lapis Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "lapis_ore",
+      "stone": [
+        "quark_jasper",
+        "quark_shale"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:shale_gold_ore",
+        "mores:jasper_gold_ore"
+      ],
+      "en_name": "Gold Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "gold_ore",
+      "stone": [
+        "quark_shale",
+        "quark_jasper"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:shale_copper_ore",
+        "mores:jasper_copper_ore"
+      ],
+      "en_name": "Copper Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "copper_ore",
+      "stone": [
+        "quark_shale",
+        "quark_jasper"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:jasper_iron_ore",
+        "mores:shale_iron_ore"
+      ],
+      "en_name": "Iron Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "iron_ore",
+      "stone": [
+        "quark_jasper",
+        "quark_shale"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:jasper_diamond_ore",
+        "mores:shale_diamond_ore"
+      ],
+      "en_name": "Diamond Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "diamond_ore",
+      "stone": [
+        "quark_jasper",
+        "quark_shale"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:shale_redstone_ore",
+        "mores:jasper_redstone_ore"
+      ],
+      "en_name": "Redstone Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "redstone_ore",
+      "stone": [
+        "quark_shale",
+        "quark_jasper"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:shale_coal_ore",
+        "mores:jasper_coal_ore"
+      ],
+      "en_name": "Coal Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "coal_ore",
+      "stone": [
+        "quark_shale",
+        "quark_jasper"
+      ]
+    },
+    {
+      "block_id": [
+        "mores:jasper_emerald_ore",
+        "mores:shale_emerald_ore"
+      ],
+      "en_name": "Emerald Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "emerald_ore",
+      "stone": [
+        "quark_jasper",
+        "quark_shale"
+      ]
+    }
+  ]
+}

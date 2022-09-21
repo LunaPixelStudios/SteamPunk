@@ -1,0 +1,31 @@
+
+#Format: [["dimension-1", temperature-1], ["dimension-2", temperature-2]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+#Note: all temperatures are in Minecraft units
+#°F to MC = (x - 32) / 42
+#°C to MC = x / 23.3
+[Dimensions]
+	#Applies an offset to the world's temperature across an entire dimension
+	"Dimension Temperature Offsets" = [["minecraft:the_nether", 0.7], ["minecraft:the_end", -0.1]]
+	#Overrides existing dimension temperatures & offsets
+	#Also overrides temperatures of all biomes in the dimension
+	"Dimension Temperatures" = []
+
+#Format: [["biome-1", value-1], ["biome-2", value-2]... etc]
+#Note: all temperatures are in Minecraft units
+[Biomes]
+	#Applies an offset to the temperature of a biome (in Minecraft units).
+	"Biome Temperature Offsets" = [["minecraft:soul_sand_valley", -0.5], ["minecraft:old_growth_birch_forest", 0.2], ["minecraft:jungle", 0.0], ["minecraft:bamboo_jungle", 0.0], ["minecraft:sparse_jungle", 0.0], ["minecraft:river", 0.2], ["minecraft:swamp", 0.2], ["minecraft:desert", -0.6], ["minecraft:giant_spruce_taiga", 0.2], ["minecraft:giant_spruce_taiga_hills", 0.2], ["minecraft:savanna", -0.5], ["minecraft:savanna_plateau", -0.4], ["minecraft:windswept_savanna", -0.4], ["minecraft:taiga", 0.2], ["minecraft:old_growth_pine_taiga", 0.2], ["minecraft:old_growth_spruce_taiga", 0.2], ["minecraft:snowy_taiga", 0.2], ["minecraft:stony_shore", 0.4], ["minecraft:snowy_beach", 0.1], ["minecraft:snowy_slopes", 0.2], ["minecraft:windswept_forest", 0.2], ["minecraft:frozen_peaks", 0.2], ["minecraft:warm_ocean", 0.3], ["minecraft:deep_frozen_ocean", -0.3], ["minecraft:badlands", -0.35], ["minecraft:wooded_badlands", -0.35], ["minecraft:eroded_badlands", -0.35]]
+	#Defines the temperature of a biome, overriding existing biome temperatures & offsets (in Minecraft units).
+	"Biome Temperatures" = []
+	#Defines the temperature variation caused by time-of-day (in Minecraft units). Uses biome humidity if unspecified
+	"Biome Variance" = [["biomesoplenty:lavender_forest", 0.2], ["biomesoplenty:lavender_field", 0.3], ["minecraft:forest", 0.3], ["minecraft:old_growth_birch_forest", 0.3], ["minecraft:desert", 0.85], ["minecraft:badlands", 0.7], ["minecraft:wooded_badlands", 0.7], ["minecraft:eroded_badlands", 0.7]]
+
+#Format: [season-start, season-mid, season-end]
+#Applied as an offset to the world's temperature
+["Season Temperatures"]
+	Summer = [0.4, 0.6, 0.4]
+	Autumn = [0.2, 0, -0.2]
+	Winter = [-0.4, -0.6, -0.4]
+	Spring = [-0.2, 0, 0.2]
+

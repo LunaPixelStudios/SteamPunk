@@ -1,0 +1,7 @@
+
+[endrem]
+	#Toggle Ender Eyes Actions (Throwing and Placing in Portal Frames)
+	ender_eyes = false
+	#Percentage chance of eyes breaking when thrown
+	eye_break_chance = 10
+

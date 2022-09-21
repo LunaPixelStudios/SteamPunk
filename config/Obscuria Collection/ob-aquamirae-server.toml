@@ -1,0 +1,156 @@
+
+[IceMaze]
+	#Chance to generate a Pillagers Ship in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	shipChance = 0.06
+	#Chance to generate a Pillagers Tower in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	shiptowerChance = 0.05
+	#Chance to generate a Pillagers Shelter in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	shelterChance = 0.04
+	#Chance to generate a Camp in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	campChance = 0.4
+	#Chance to generate a Small Tower in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	smalltowerChance = 0.5
+	#Chance to generate a Chest in Ice in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	chestiniceChance = 0.3
+	#Chance to generate a Stone in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	stoneChance = 0.8
+	#Chance to generate a Spike in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	spikeChance = 0.8
+	#Chance to generate a Pillar in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	pillarChance = 0.8
+	#Chance to generate a Wisteria in the Ice Maze
+	#Range: 0.0 ~ 1.0
+	wisteriaChance = 0.8
+
+[Creatures]
+
+	[Creatures.GhostOfCaptainCornelia]
+		#Movement speed
+		#Range: 0.0 ~ 10.0
+		corneliaSpeed = 0.2
+		#Health points
+		#Range: 1.0 ~ 100000.0
+		corneliaHealth = 160.0
+		#Armor points
+		#Range: 0.0 ~ 1000.0
+		corneliaArmor = 16.0
+		#Melee damage
+		#Range: 1.0 ~ 1000.0
+		corneliaDamage = 6.0
+		#Knockback resistance
+		#Range: 0.0 ~ 10.0
+		corneliaKnockbackResistance = 0.5
+		#Attack knockback
+		#Range: 0.0 ~ 10.0
+		corneliaAttackKnockback = 1.5
+		#Follow range
+		#Range: 1.0 ~ 256.0
+		corneliaFollowRange = 128.0
+
+	[Creatures.MotherOfTheMaze]
+		#Swim speed
+		#Range: 0.0 ~ 100.0
+		mazemotherSwimSpeed = 3.0
+		#Health points
+		#Range: 1.0 ~ 100000.0
+		mazemotherHealth = 100.0
+		#Armor points
+		#Range: 0.0 ~ 1000.0
+		mazemotherArmor = 6.0
+		#Melee damage
+		#Range: 1.0 ~ 1000.0
+		mazemotherDamage = 5.0
+		#Knockback resistance
+		#Range: 0.0 ~ 10.0
+		mazemotherKnockbackResistance = 0.2
+		#Attack knockback
+		#Range: 0.0 ~ 10.0
+		mazemotherAttackKnockback = 0.5
+		#Follow range
+		#Range: 1.0 ~ 256.0
+		mazemotherFollowRange = 128.0
+
+	[Creatures.Anglerfish]
+		#Swim speed
+		#Range: 0.0 ~ 100.0
+		anglerfishSwimSpeed = 3.0
+		#Health points
+		#Range: 1.0 ~ 100000.0
+		anglerfishHealth = 40.0
+		#Armor points
+		#Range: 0.0 ~ 1000.0
+		anglerfishArmor = 0.0
+		#Melee damage
+		#Range: 1.0 ~ 1000.0
+		anglerfishDamage = 6.0
+		#Knockback resistance
+		#Range: 0.0 ~ 10.0
+		anglerfishKnockbackResistance = 0.0
+		#Attack knockback
+		#Range: 0.0 ~ 10.0
+		anglerfishAttackKnockback = 1.0
+		#Follow range
+		#Range: 1.0 ~ 256.0
+		anglerfishFollowRange = 48.0
+
+	[Creatures.Maw]
+		#Movement speed
+		#Range: 0.0 ~ 10.0
+		mawSpeed = 0.2
+		#Swim speed
+		#Range: 0.0 ~ 100.0
+		mawSwimSpeed = 5.0
+		#Health points
+		#Range: 1.0 ~ 100000.0
+		mawHealth = 20.0
+		#Armor points
+		#Range: 0.0 ~ 1000.0
+		mawArmor = 0.0
+		#Melee damage
+		#Range: 1.0 ~ 1000.0
+		mawDamage = 4.0
+		#Knockback resistance
+		#Range: 0.0 ~ 10.0
+		mawKnockbackResistance = 0.0
+		#Attack knockback
+		#Range: 0.0 ~ 10.0
+		mawAttackKnockback = 0.3
+		#Follow range
+		#Range: 1.0 ~ 256.0
+		mawFollowRange = 24.0
+
+	[Creatures.TorturedSoul]
+		#Movement speed
+		#Range: 0.0 ~ 10.0
+		soulSpeed = 0.2
+		#Swim speed
+		#Range: 0.0 ~ 100.0
+		soulSwimSpeed = 3.0
+		#Health points
+		#Range: 1.0 ~ 100000.0
+		soulHealth = 30.0
+		#Armor points
+		#Range: 0.0 ~ 1000.0
+		soulArmor = 4.0
+		#Melee damage
+		#Range: 1.0 ~ 1000.0
+		soulDamage = 7.0
+		#Knockback resistance
+		#Range: 0.0 ~ 10.0
+		soulKnockbackResistance = 0.0
+		#Attack knockback
+		#Range: 0.0 ~ 10.0
+		soulAttackKnockback = 0.7
+		#Follow range
+		#Range: 1.0 ~ 256.0
+		soulFollowRange = 24.0
+

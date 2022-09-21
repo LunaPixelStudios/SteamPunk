@@ -1,0 +1,14 @@
+
+#Common config settings
+[common]
+	#If true, backpack can only be worn by placing it in curios 'Back' slot
+	#WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
+	curiosIntegration = false
+	#Places backpack at place where player died
+	backpackDeathPlace = true
+	#Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
+	backpackForceDeathPlace = false
+	enableSleepingBagSpawnPoint = false
+	#Enables backpacks spawning in loot chests
+	enableLoot = true
+

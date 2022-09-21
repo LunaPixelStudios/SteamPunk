@@ -1,0 +1,21 @@
+
+[Ambient]
+	#Spawn particles in the Ice Maze
+	iceMazeParticles = true
+	#Play ambient sounds in the Ice Maze
+	iceMazeAmbient = true
+	#Munimum delay between sounds in seconds
+	#Range: 1 ~ 600
+	iceMazeAmbientMin = 30
+	#Maximum delay between sounds in seconds
+	#Range: 1 ~ 600
+	iceMazeAmbientMax = 90
+	#Play music in the Ice Maze
+	iceMazeMusic = true
+	#Munimum delay between music in seconds
+	#Range: 1 ~ 3600
+	iceMazeMusicMin = 180
+	#Maximum delay between music in seconds
+	#Range: 1 ~ 3600
+	iceMazeMusicMax = 600
+

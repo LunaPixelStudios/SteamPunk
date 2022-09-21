@@ -1,0 +1,6 @@
+
+[Gameplay]
+	#Chance to apply the Massacre effect to hostile mob (Page I+)
+	#Range: 0.0 ~ 1.0
+	monsterMassacreChance = 0.01
+

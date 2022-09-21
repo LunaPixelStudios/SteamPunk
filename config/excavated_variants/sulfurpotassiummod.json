@@ -1,0 +1,37 @@
+{
+  "mod_id": "sulfurpotassiummod",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "sulfurpotassiummod:sulfur_nether_ore",
+        "sulfurpotassiummod:sulfur_ore"
+      ],
+      "en_name": "Sulfur Ore",
+      "types": [
+        "stone",
+        "nether"
+      ],
+      "texture_count": 5,
+      "id": "sulfur_ore",
+      "stone": [
+        "netherrack",
+        "deepslate"
+      ]
+    },
+    {
+      "block_id": [
+        "sulfurpotassiummod:potassium_ore"
+      ],
+      "en_name": "Potassium Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "potassium_ore",
+      "stone": [
+        "stone"
+      ]
+    }
+  ]
+}

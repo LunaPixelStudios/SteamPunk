@@ -1,0 +1,142 @@
+{
+  "mod_id": "mythicmetals",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "mythicmetals:deepslate_adamantite_ore",
+        "mythicmetals:adamantite_ore"
+      ],
+      "en_name": "Adamantite Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "adamantite_ore",
+      "stone": [
+        "deepslate",
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:tuff_orichalcum_ore",
+        "mythicmetals:deepslate_orichalcum_ore",
+        "mythicmetals:smooth_basalt_orichalcum_ore",
+        "mythicmetals:orichalcum_ore"
+      ],
+      "en_name": "Orichalcum Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "orichalcum_ore",
+      "stone": [
+        "tuff",
+        "deepslate",
+        "smooth_basalt",
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:platinum_ore"
+      ],
+      "en_name": "Platinum Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "platinum_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:osmium_ore"
+      ],
+      "en_name": "Osmium Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "osmium_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:tin_ore"
+      ],
+      "en_name": "Tin Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "tin_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:palladium_ore"
+      ],
+      "en_name": "Palladium Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "palladium_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:manganese_ore"
+      ],
+      "en_name": "Manganese Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "manganese_ore",
+      "stone": [
+        "stone"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:mythril_ore",
+        "mythicmetals:deepslate_mythril_ore"
+      ],
+      "en_name": "Mythril Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "mythril_ore",
+      "stone": [
+        "stone",
+        "deepslate"
+      ]
+    },
+    {
+      "block_id": [
+        "mythicmetals:silver_ore"
+      ],
+      "en_name": "Silver Ore",
+      "types": [
+        "stone"
+      ],
+      "texture_count": 5,
+      "id": "silver_ore",
+      "stone": [
+        "stone"
+      ]
+    }
+  ]
+}

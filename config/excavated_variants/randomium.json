@@ -1,0 +1,25 @@
+{
+  "mod_id": "randomium",
+  "provided_stones": [],
+  "provided_ores": [
+    {
+      "block_id": [
+        "randomium:randomium_ore",
+        "randomium:randomium_ore_end",
+        "randomium:randomium_ore_deepslate"
+      ],
+      "en_name": "Randomium Ore",
+      "types": [
+        "stone",
+        "end"
+      ],
+      "texture_count": 5,
+      "id": "randomium_ore",
+      "stone": [
+        "stone",
+        "end_stone",
+        "deepslate"
+      ]
+    }
+  ]
+}

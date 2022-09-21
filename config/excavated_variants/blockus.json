@@ -1,0 +1,30 @@
+{
+  "mod_id": "blockus",
+  "provided_stones": [
+    {
+      "block_id": "blockus:limestone",
+      "types": [
+        "stone"
+      ],
+      "id": "blockus_limestone",
+      "en_name": "Limestone"
+    },
+    {
+      "block_id": "blockus:marble",
+      "types": [
+        "stone"
+      ],
+      "id": "blockus_marble",
+      "en_name": "Marble"
+    },
+    {
+      "block_id": "blockus:bluestone",
+      "types": [
+        "stone"
+      ],
+      "id": "blockus_bluestone",
+      "en_name": "Bluestone"
+    }
+  ],
+  "provided_ores": []
+}
