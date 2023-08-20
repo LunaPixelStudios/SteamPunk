@@ -1,0 +1,34 @@
+#Air qualities at different heights in different dimensions.
+#The syntax is the dimension's resource location, the "default" air level in that dimension,
+#then any number of height:airlevel pairs separated by commas.
+#The air will have that quality starting at that height and above (until the next entry).
+#The entries must be in ascending order of height.
+#If a dimension doesn't have an entry here, it'll be assumed to be green everywhere.
+dimensions = ["minecraft:overworld=yellow,0:green,128:yellow"]
+#Entities that can always breathe.
+#This is in addition to entities where `.canBreatheUnderwater()` returns true (so, fish and undead),
+#and invulnerable players.
+alwaysBreathingEntities = ["raided:savager", "raided:necromancer", "raided:inquisitor", "raided:incinerator", "raided:electromancer", "environmental:yak", "environmental:slabfish", "environmental:koi", "environmental:duck", "environmental:deer", "undead_unleashed:flamebreather", "undead_unleashed:shadewraith", "undead_unleashed:haunter", "undead_unleashed:graveriser", "undead_unleashed:frenzied_knight", "undead_unleashed:flamebreather", "conjurer_illager:conjurer", "strawgolem:strawnggolem", "strawgolem:strawgolem", "roamers:roamer", "roamers:roamer", "roamers:bandit", "quark:wraith", "quark:forgotten", "alexsmobs:underminer", "alexsmobs:underminer", "alexsmobs:tiger", "alexsmobs:sunbird", "alexsmobs:snow_leopard", "alexsmobs:skreecher", "alexsmobs:moose", "alexsmobs:centipede", "alexsmobs:froststalker", "enemyexpansion:angler", "enemyexpansion:baker", "enemyexpansion:biter", "enemyexpansion:propeller", "enemyexpansion:boar", "enemyexpansion:bouncer", "enemyexpansion:bull", "enemyexpansion:cakerover", "enemyexpansion:caster", "enemyexpansion:cinder", "enemyexpansion:cockatrice", "enemyexpansion:crawler", "enemyexpansion:equestian", "enemyexpansion:errant", "enemyexpansion:flutterfly", "enemyexpansion:frigid", "enemyexpansion:gabble", "enemyexpansion:gallant", "enemyexpansion:ghoul", "enemyexpansion:gladilad", "enemyexpansion:gladius", "enemyexpansion:goblin", "enemyexpansion:huntsmanskeleton", "enemyexpansion:intruder", "enemyexpansion:kelpie", "enemyexpansion:ladybug", "enemyexpansion:meature", "enemyexpansion:petriman", "enemyexpansion:piecrab", "enemyexpansion:propeller", "enemyexpansion:ram", "enemyexpansion:rancher", "enemyexpansion:rooster", "enemyexpansion:scorpion", "enemyexpansion:senior", "enemyexpansion:silverking", "enemyexpansion:slugger", "enemyexpansion:spectre", "enemyexpansion:sprinter", "enemyexpansion:tarantula", "enemyexpansion:troll", "enemyexpansion:vampire", "enemyexpansion:wasp", "enemyexpansion:wolfsbane", "enemyexpansion:zadybug", "enemyexpansion:zobgoblin", "scguns:wool_man", "scguns:trauma_unit", "scguns:training_dummy", "scguns:supply_scamp", "scguns:subjugator", "scguns:girl_railway_bandit", "scguns:sky_carrier", "scguns:railway_bandit", "scguns:railway_bandit_chief", "scguns:kiln_man", "scguns:hat_railway_bandit", "scguns:gun_railway_bandit", "scguns:girl_railway_bandit", "scguns:fatty_railway_bandit", "scguns:dissident", "scguns:defective_trauma_unit", "scguns:cog_minion", "scguns:cog_knight", "scguns:club_railway_bandit", "scguns:broken_mining_unit", "scguns:broken_grinder_unit", "scguns:bound_one", "scguns:adjudicator", "deep_dark_regrowth:vault_chest", "deep_dark_regrowth:tentacle_lamp", "deep_dark_regrowth:stalker_statue", "deep_dark_regrowth:stalker", "deep_dark_regrowth:spreader", "deep_dark_regrowth:spectator", "deep_dark_regrowth:soul_key_awake", "deep_dark_regrowth:sculk_parasite", "deep_dark_regrowth:replicate", "deep_dark_regrowth:observer", "deep_dark_regrowth:corrupted_skeleton", "deep_dark_regrowth:annihilator", "deep_dark_regrowth:abomination", "irons_spellbooks:cryomancer", "irons_spellbooks:pyromancer", "irons_spellbooks:necromancer", "irons_spellbooks:keeper", "irons_spellbooks:dead_king_corpse", "irons_spellbooks:dead_king", "irons_spellbooks:archevoker", "irons_spellbooks:priest", "goblintraders:vein_goblin_trader", "goblintraders:goblin_trader", "minecraft:parrot", "minecraft:polar_bear", "minecraft:skeleton_horse", "minecraft:zombie_villager", "minecraft:bee", "minecraft:rabbit", "minecraft:stray", "minecraft:cat", "minecraft:ocelot", "minecraft:fox", "minecraft:mooshroom", "minecraft:llama", "minecraft:panda", "minecraft:phantom", "minecraft:guardian", "minecraft:axolotl", "minecraft:elder_guardian", "minecraft:cave_spider", "minecraft:horse", "minecraft:donkey", "minecraft:pig", "minecraft:chicken", "minecraft:sheep", "minecraft:cow", "minecraft:witch", "minecraft:wandering_trader", "minecraft:glow_squid", "minecraft:squid", "minecraft:illusioner", "minecraft:vex", "minecraft:wolf", "minecraft:warden", "minecraft:spider", "minecraft:skeleton", "minecraft:zombie", "minecraft:goat", "minecraft:illusioner", "minecraft:bat", "minecraft:allay", "minecraft:illusioner", "minecraft:evoker", "minecraft:ravager", "minecraft:vindicator", "minecraft:pillager", "minecraft:villager", "minecraft:armor_stand", "minecraft:enderman", "minecraft:endermite", "minecraft:shulker", "minecraft:strider", "minecraft:ghast", "minecraft:piglin", "minecraft:hoglin", "minecraft:piglin_brute", "minecraft:blaze", "minecraft:magma_cube", "minecraft:ender_dragon", "minecraft:wither", "minecraft:iron_golem"]
+#Whether to allow right-clicking torches to make them spray particle effects
+enableSignalTorches = true
+#How much air a Drowned attack removes
+#Range: > -2147483648
+drownedChoking = 100
+
+[Ranges]
+	#The radius a soul torch projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulTorchRange = 2.0
+	#The radius a soul fire projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulFireRange = 5.0
+	#The radius a soul campfire projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulCampfireRange = 9.0
+	#The radius lava blocks project a bubble of red air around it
+	#Range: 0.0 ~ 32.0
+	lavaRange = 5.0
+	#The radius nether portal blocks project a bubble of green air around it
+	#Range: 0.0 ~ 32.0
+	netherPortalRange = 5.0
+

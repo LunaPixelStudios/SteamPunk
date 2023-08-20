@@ -1,0 +1,275 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:427992c3-cac1-48e7-9a80-a0072ab06e841688213716156] = essential
+  renderorder = foreground
+  randommode = false
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:ad22e8d5-d6a6-4baf-8830-71816cd185381688214480834] = tlskincape
+  [loading_requirement:fancymenu_loading_requirement_is_mod_loaded][requirement_mode:if][req_id:5e02d8c6-3729-43c3-84e9-a61fc4bfda741688214469646] = optifine
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = steampunkpanorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 23
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = 102
+  action = movebutton
+  y = 45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 102
+  action = movebutton
+  y = 70
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  width = 18
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376358%
+  orientation = top-right
+  x = -25
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 1
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 70
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 67
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -122
+  action = movebutton
+  y = 70
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 306
+  width = 243
+  action = deep_customization_element:title_screen_forge_top
+  actionid = dd0a4ae5-36ab-4c27-9e2d-0954862a46021687501252407
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 104
+  action = deep_customization_element:title_screen_branding
+  actionid = 8ee90abe-5854-460f-94f4-0b03d7af506c1687501252407
+  y = 405
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 660
+  width = 193
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = b7a721e6-eaef-46f5-bd45-03913fc64eb21687501252407
+  y = 437
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 530
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 1faa1265-d277-4aea-9b64-f543ff433d5d1687501252407
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 1ad3532c-8670-48bc-8faf-88cd7fe56e981687501252407
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-centered
+  splash_color = #ffff00
+  hidden = false
+  x = -93
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = c40109a6-376b-4cf8-95a4-99da377636421687501252407
+  y = -84
+  height = 30
+}
+
+customization {
+  path = resourcepacks/graphics/steampunk.png
+  orientation = mid-centered
+  x = -130
+  width = 261
+  action = addtexture
+  actionid = 84f42f71-3eb2-4b41-b8c7-98f31b2645ae1687501276870
+  y = -135
+  height = 136
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  hoverlabel = Use CODE LunaPixel for 25% OFF!
+  restartbackgroundanimations = true
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 2983af03-f29c-40e2-bc35-b698fd2969f91687501397321
+  y = 45
+  label = Bisect Server Hosting
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/LunaPixelStudios/SteamPunk/wiki/Performance-Guide%btnaction_splitter_fm%
+  x = 2
+  width = 100
+  action = addbutton
+  actionid = a74b019f-c0fb-4b84-b79d-d7357b7d96401687502597024
+  y = -22
+  label = Performance Guide!
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = false
+  shadow = true
+  scale = 0.9
+  source = This Modpack is not Compatible with Essential, please either use the Server Pack or Bisect Hosting
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -187
+  width = 431
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 1d6d25b8-f7fe-4382-af00-51cdb3ebd6541688213759224
+  y = 4
+  alignment = left
+  height = 14
+}
+

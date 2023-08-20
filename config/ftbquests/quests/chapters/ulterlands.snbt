@@ -1,0 +1,1147 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ulterlands"
+	group: "5E3CAACB575722D6"
+	icon: "ulterlands:obsidian_b_12"
+	id: "47BC98BAE7AC940B"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/ancient_seal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/ancient_seal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/ancient_seal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/ancient_seal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ulterlands:textures/blocks/obsidianb12.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.9d
+			hover: [ ]
+			image: "ulterlands:textures/items/xenogene.png"
+			rotation: 80.0d
+			width: 0.9d
+			x: -6.0d
+			y: -2.2d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 0.9d
+			hover: [ ]
+			image: "ulterlands:textures/items/xenogene.png"
+			rotation: 80.0d
+			width: 0.9d
+			x: 3.0d
+			y: -2.2d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			hide: false
+			id: "511D5661CC1230B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "127DCA8DED8B766F"
+				table_id: 1511897575099731575L
+				type: "choice"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "To enter the &5Ulterlands&r, create a portal frame made of &1Obsidian B-12&r, and ignite it using a &3Rift &8Totem&r."
+			tasks: [{
+				icon: {
+					Count: 1b
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "ulterlands:blocks/wormhole"
+					}
+				}
+				id: "5A0E152A4D167A1A"
+				observe_type: 0
+				timer: 0L
+				to_observe: "ulterlands:ulterlands_dimension_portal"
+				type: "observation"
+			}]
+			title: "Observe an &5Ulterlands &rPortal"
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "68BB299ABF32B901"
+			subtitle: "Drops a &dphantasmal key&r."
+			tasks: [{
+				advancement: "ulterlands:temple_runner"
+				criterion: ""
+				id: "5B0CCFA2AD39A0D1"
+				title: "Slay a&l Oriath Queen"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "71EE0D8F6403D632"
+			subtitle: "Drops &aetherite&r when mined. Used for various crafts like the &calchemical table&r. Mined with &ciron or above&r."
+			tasks: [{
+				advancement: "ulterlands:primary_spells"
+				criterion: ""
+				id: "27AFB615F034DFC1"
+				title: "Mine &3Etherite Ore"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "7EFAC6F4B0DBCB03"
+			subtitle: "Drops &c&lbloodstone shards&r which are used in bombs or to lift/drop blocks. Mined with &ciron or above&r."
+			tasks: [{
+				advancement: "ulterlands:roses_are_red_rubies_are_too"
+				criterion: ""
+				id: "36BA6F4CE4898582"
+				title: "Mine &cBloodstone Ore"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			icon: "ulterlands:cosmic_matter"
+			id: "33E577490FF2026B"
+			subtitle: "Deep space with mishappen landscape of curious matter, &ounorthodox plants&r, broken constructs and bright lights."
+			tasks: [{
+				advancement: "ulterlands:it_came_from_space"
+				criterion: ""
+				id: "2AAE5748271159A0"
+				title: "Find &ethe Cosmic Plane Biome"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "3984E19FE1608B9B"
+			subtitle: "Molten rock, magma and &opillars of stone&r. Has &cgysers&r and &bmushrooms&r."
+			tasks: [{
+				advancement: "ulterlands:burning_hills"
+				criterion: ""
+				id: "55AA007EF8919E70"
+				title: "Find&c the Crimson Cinders Biome"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "67295043DCE1B7DE"
+			subtitle: "Has many &bminerals&r and &bstones&r."
+			tasks: [{
+				advancement: "ulterlands:tectonic_terrain"
+				criterion: ""
+				id: "11733548C2A23206"
+				title: "Find the Quagmic Slopes"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "7CB8842E9F77A03F"
+			subtitle: "&2Lush forest&r with &cdangerous fauna&r. Occasionally find &bice floe&r or &amossy rock&r."
+			tasks: [{
+				advancement: "ulterlands:exalted_woodlands"
+				criterion: ""
+				id: "017719B1430F8346"
+				title: "Find the &8Paramount Woods"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["511D5661CC1230B8"]
+			id: "21D1D4EB35AE69F1"
+			subtitle: "Empty landscape with only &dpurple stalks&r. Cold landscape with dry stone. &cFloating rocks&r in the sky."
+			tasks: [{
+				advancement: "ulterlands:hollow_expanses"
+				criterion: ""
+				id: "0A7E4726D316DB5B"
+				title: "Find the&e Edge Wastelands Biome"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["21D1D4EB35AE69F1"]
+			id: "0F591AF627042233"
+			subtitle: "Edge Battalions have a chance of spawning in the &cEdge Wastelands&r. Each one features a &cStarglyph Block&r and an inactive &cDark Gate&r. &9Right-Click&r the Starglyph Block and the &cEdgerider&r will spawn. Drops a &bWorld Seed&r."
+			tasks: [{
+				advancement: "ulterlands:adv_godbutcher"
+				criterion: ""
+				id: "5EEC89152512E397"
+				title: "Slay a &3Edge Rider"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["67295043DCE1B7DE"]
+			id: "05F2B38B4C6A4607"
+			subtitle: "They drop &dWeathered Tooths&r."
+			tasks: [{
+				advancement: "ulterlands:sand_tiger"
+				criterion: ""
+				id: "629A07368C0A3EF9"
+				title: "Slay a &2Aegin"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["67295043DCE1B7DE"]
+			id: "37BA6867EFA0E311"
+			subtitle: "They drop &bSoul Stone Shards&r."
+			tasks: [{
+				advancement: "ulterlands:rolling_stones"
+				criterion: ""
+				id: "58A57D26EAE1F8B8"
+				title: "Slay a &4Kyroc"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33E577490FF2026B"]
+			id: "293D9EE1799BE478"
+			subtitle: "Drops a &aCelestial Tear&r that is used to make &6Notch Apples&r (Enchanted golden apples)."
+			tasks: [{
+				advancement: "ulterlands:impossible_feat"
+				criterion: ""
+				id: "6453E6EF9EAC2454"
+				title: "Kill a &5Riftborn"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["33E577490FF2026B"]
+			id: "3525B9ED40698B4B"
+			tasks: [{
+				advancement: "ulterlands:star_baker"
+				criterion: ""
+				id: "1270CB6F13BBC965"
+				title: "Craft a &aNebulous Cake"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68BB299ABF32B901"]
+			id: "018BCC1A0AEF9810"
+			subtitle: "The hidden third prize of the Farlight Temple is a weapon that shoots the &eQueen's Beams&r. It has a low durability."
+			tasks: [{
+				advancement: "ulterlands:spirit_specialist"
+				criterion: ""
+				id: "26E2CCCAF8FCC16A"
+				title: "Find &athe Wraith's Core"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["018BCC1A0AEF9810"]
+			description: [
+				"1-19: 9 dmg. 20-39: 18 dmg. 40-59: 36 dmg. 60-79: 54 dmg. 80-99: 72 dmg. 100+: 81 dmg."
+				"Ranges is &4Enemy HP."
+			]
+			id: "07C7C009A657276A"
+			subtitle: "&cDeals&r &cdmg&r proportional to the &cmax health&r of the &cenemy&r."
+			tasks: [{
+				advancement: "ulterlands:distant_warrior"
+				criterion: ""
+				id: "28CF1FCB5BFDA6A5"
+				title: "Recieve &dthe FARSLAYER"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["018BCC1A0AEF9810"]
+			id: "07FD1BB728C99B33"
+			subtitle: "Similar to &cAether wand&r but less &cXP drain&r and a built-in &cMiasma Spell&r."
+			tasks: [{
+				advancement: "ulterlands:archmages_tendencies"
+				criterion: ""
+				id: "4F5B3CE7C36EC614"
+				title: "Obtain &dthe Luminous Arc"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["21D1D4EB35AE69F1"]
+			id: "353A2387ABA49853"
+			subtitle: "Drops &cArcane Horn&r which is used for the &cAlchemical Table&r."
+			tasks: [{
+				advancement: "ulterlands:space_dream_believer"
+				criterion: ""
+				id: "287EC874243F7F16"
+				title: "Kill a &4Starshot"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["21D1D4EB35AE69F1"]
+			id: "19CB9B9F9F9308EA"
+			subtitle: "Used to craft &cLift/Drop blocks&r or turn into &cenderpearls&r."
+			tasks: [{
+				advancement: "ulterlands:six_feet_down"
+				criterion: ""
+				id: "38B25519D73B962D"
+				title: "Kill a &4Undertaker"
+				type: "advancement"
+			}]
+			title: "Kill an Endertaker"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["21D1D4EB35AE69F1"]
+			id: "732F6654247BEF34"
+			subtitle: "Drops &csturdy shells&r. Can be turned into &cshulker shells&r or used to make an &coxy-capsule&r."
+			tasks: [{
+				advancement: "ulterlands:mobile_bunker"
+				criterion: ""
+				id: "77E0EE598062F24F"
+				title: "Kill a &cFortross"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["21D1D4EB35AE69F1"]
+			description: ["Use a world seed to light the portal."]
+			id: "5938B9CBAC8BB039"
+			subtitle: "&lDark Gate.&r A wondrous feat of technology created using high-end science. It tears through the fabric of the Ulterlands and sends the user to Parapax. Although, it's quite fickle and will spit you out at a random location when you exit it."
+			tasks: [{
+				advancement: "ulterlands:calm_void"
+				criterion: ""
+				id: "7CC0FFCEA70093B4"
+				title: "Enter &5the Parapax Subdimension"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["353A2387ABA49853"]
+			description: [
+				"[Blast Powder - 4 Gunpowder]  [Ironwood Chunk - 4 Iron Ingots]"
+				"[Pyre Plate - 2 Blaze Rods]  [Sturdy Shell - 2 Shulker Shells]"
+				"[Dark Pearl - 2 Ender Pearls]  [Pentagram - Nether Star]"
+			]
+			id: "627A051756ACB199"
+			subtitle: "&cTransmutes&r otherworldly items."
+			tasks: [{
+				advancement: "ulterlands:equivalent_exchange"
+				criterion: ""
+				id: "2C115701DE18D3AB"
+				title: "Craft a &6Alchemical Table"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["732F6654247BEF34"]
+			description: [
+				"This intriguing item is capable of containing a specific amount of air (approximately a block's worth) inside it. Once released, the air forms in some "
+				"pocket"
+				"bubble"
+				" and no fluids can enter but as long as a bit of the player stands in it, they will be able to &cbreathe&r."
+				"If the player jumps while within it, the gases will raise them up (akin to a &cladder&r)."
+			]
+			id: "000EB879D02DFF2C"
+			subtitle: "Air in a capsule."
+			tasks: [{
+				advancement: "ulterlands:pocket_air"
+				criterion: ""
+				id: "5F4A524B613F4CFE"
+				title: "Make a &bOxy-Capsule"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5938B9CBAC8BB039"]
+			id: "0CF2B75267A6CF64"
+			subtitle: "A &cformidable substance&r found only in the &ccaverns of Parapax&r. Whether or not it is &cmetal&r or some other form of matter is currently unknown."
+			tasks: [{
+				advancement: "ulterlands:starsteel"
+				criterion: ""
+				id: "45E5F2FBAD73475D"
+				title: "Mine Astrum"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5938B9CBAC8BB039"]
+			id: "216B00CF377C13D9"
+			subtitle: "A &cuniversal drop&r from all mobs of &cParapax&r. These can be placed in an &cAlchemical Table&r to create a &cHeart of Villainy&r. Unfortunately, some &cgenes&r are less valuable than others (and more genes will be required)."
+			tasks: [{
+				advancement: "ulterlands:diabolic_science"
+				criterion: ""
+				id: "6AB303A26A7772C9"
+				title: "Procure a &bXenogene"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["0CF2B75267A6CF64"]
+			id: "05B10AB0746820DB"
+			subtitle: " However, it is extremely &cdurable&r under stress (which allows it to nullify &cknockback&r and resist powerful attacks despite its &clightness&r). It is a whole two tiers above the &cNetherite&r and &cPykrete&r sets."
+			tasks: [{
+				advancement: "ulterlands:cover_me_in_stars"
+				criterion: ""
+				id: "2C79862F43445DDC"
+				title: "Craft Astrum Armour"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["216B00CF377C13D9"]
+			id: "6C9D9897AE3C79D3"
+			subtitle: "A &cunique object&r imbued with the &cgenetic material&r of the monsters of &cParapax&r. Upon consumption, a human will be able to gain their genetic traits and evolve into a higher &cspecies&r."
+			tasks: [{
+				advancement: "ulterlands:metahuman"
+				criterion: ""
+				id: "50FB720D84648CED"
+				title: "Obtain a Hear of Villainy"
+				type: "advancement"
+			}]
+			title: "Obtain a &cHeart of Villiany"
+			x: -4.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["6C9D9897AE3C79D3"]
+			description: [
+				"ADAPTATIONS"
+				""
+				"SUPERIOR BEING: PASSIVE"
+				"Resistance effect constantly."
+				""
+				"CELL ACTIVATION: PASSIVE"
+				"Recovery and Strength applied when below 5❤."
+				"[Ending only when your health is full once again]"
+				""
+				"SHADOW DASH: ACTIVE"
+				"You'll become Invisible and gain Speed when sprinting."
+				""
+				"PRIMAL SCREAM: ACTIVE"
+				"Shoot a scream from an extra mouth by right-clicking your skill slot."
+				"[Deals 3❤ of damage and applies Disorientation for 3 seconds]"
+				"[Skill slot replaces the spot of the Heart of Villainy]"
+				""
+				"DRAWBACKS"
+				""
+				"VOLATILE BODY"
+				"Increased damage from fire and lava."
+				"[While on fire, Cell Regeneration is blocked]"
+				""
+				"ALTERNATE GRAVITY"
+				"While in the Nether and End, your Superior Being perks are replaced with Slowness and Weakness."
+				""
+				"Disorientation"
+				""
+				"A state of confusion as a result of a powerful scream. When disoriented, you'll find it hard to move; leaving you exposed to danger."
+				""
+				"Recovery"
+				""
+				"A much more efficient form of regeneration; restoring a greater amount of hearts in a smaller amount of time."
+			]
+			id: "5987686181BDB390"
+			subtitle: "AFTER THE CONSUMPTION OF A &cHEART OF VILLAINY&r, THE PLAYER WILL EVOLVE INTO A NEW &cSPECIES&r. HOWEVER, FOR EASE OF PLAYER CUSTOMISATION, &cMILK&r WILL BE CAPABLE OF NULLIFYING THE EFFECT."
+			tasks: [{
+				advancement: "ulterlands:becoming_metahuman"
+				criterion: ""
+				id: "686088C372E086D7"
+				title: "Become a &2Sonoroid"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["3984E19FE1608B9B"]
+			id: "010D0DD43E8E8C51"
+			subtitle: "Drops &cdry bones&r used for a &cSoul Spire&r. They also apply the &cwither effect&r."
+			tasks: [{
+				advancement: "ulterlands:shivers_down_your_spine"
+				criterion: ""
+				id: "4BA5CA1407DFD117"
+				title: "Kill a &lOsteon"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["010D0DD43E8E8C51"]
+			id: "78CDC4858D25B24D"
+			subtitle: "Step 1: Procure &cwither skeleton skull&r. Step 2: Craft a &csoul spire&r. Step 3: Place &csoul spire&r on ground. Step 4: Right click spire with &cwither skeleton skull&r. (Careful, &cexplosions&r!)"
+			tasks: [{
+				advancement: "ulterlands:soul_channel"
+				criterion: ""
+				id: "70D4F96E9BDAB818"
+				title: "Make a &5Soul Spire"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["78CDC4858D25B24D"]
+			id: "149DC2293983109D"
+			subtitle: "A cruel variant of the &cwither&r. First flies and shoots &cwither 2 projectiles&r, then &cmelee slams&r you.."
+			tasks: [{
+				advancement: "ulterlands:trigonomic_death"
+				criterion: ""
+				id: "1B91C9AF591B0D15"
+				title: "Defeat &cThe Perished"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["149DC2293983109D"]
+			id: "171BDD8C829B0422"
+			subtitle: "Used alongside &caether orbs&r to do different magical feats. Consumes &cXP&r then &cLifeforce&r."
+			tasks: [{
+				advancement: "ulterlands:scarlet_wizard"
+				criterion: ""
+				id: "71BA98A68D9D4BAE"
+				title: "Craft an &lAether Wand"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7CB8842E9F77A03F"]
+			id: "2EDA2F716B98278C"
+			subtitle: "They drop &cironwood chunks&r which can be made into &carmor/tools&r or a &cbattlelute&r. Can be turned into &ciron&r."
+			tasks: [{
+				advancement: "ulterlands:old_guardians"
+				criterion: ""
+				id: "06B6B7C6154AC9C8"
+				title: "Defeat an &4Ent"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2EDA2F716B98278C"]
+			description: ["Tentacule, End, Perish"]
+			id: "28199307F0157E82"
+			subtitle: "Hitting mobs with this will make them drop a &cmusic disc&r. Find them all!"
+			tasks: [{
+				advancement: "ulterlands:music_to_my_ears"
+				criterion: ""
+				id: "734B911AB8DF878B"
+				title: "Craft a &2Battlelute"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "2F6C587861E7B1D3"
+			subtitle: " (USED IN OFFHAND) &lRage:&r Twin lightning. &lGrace:&r Bolts will heal 10 hearts. &lDivine curses:&r Apply blindness, weakness, and slowness. &lDivine summons:&r Spawns 2 Osteons to protect you. &lDivine Radiance:&r Cause levitation and apply inferno, which is basically Greek fire."
+			tasks: [
+				{
+					id: "54DD4AFF5522C38B"
+					item: "ulterlands:grace_orb"
+					type: "item"
+				}
+				{
+					id: "2D8211EEC2D9120A"
+					item: "ulterlands:rage_orb"
+					type: "item"
+				}
+				{
+					id: "46A1CADE24817DD5"
+					item: "ulterlands:curse_orb"
+					type: "item"
+				}
+				{
+					id: "78ED23BB99E53B7B"
+					item: "ulterlands:summon_orb"
+					type: "item"
+				}
+				{
+					id: "7A8A83E1635CFF5D"
+					item: "ulterlands:flames_orb"
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -6.0d
+		}
+	]
+	title: " &3Ulterlands"
+}

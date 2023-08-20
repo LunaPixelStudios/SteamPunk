@@ -1,0 +1,765 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tetra"
+	group: "50C9D5775BEB220E"
+	icon: "tetra:basic_workbench"
+	id: "4B48B9A96ED76230"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/crafting_table_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/forged_bench_top.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/crafting_table_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/crafting_table_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "tetra:textures/blocks/crafting_table_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 4.0d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "269E1CA97135A899"
+			subtitle: "Shows the types of &e&ltools and weapons&r which can be made using &e&lTetra crafting&r, alongside all possible materials. Attachments are not shown in the holosphere, and instead are shown on the tools themselves. Can be upgraded into a scanner with an &5&lEye of Ender&r. An additional &5&lEye of Ender&r will extend the range which it can find &c&lRuins&r.&r"
+			tasks: [{
+				id: "23C63DF5EB0FD9FC"
+				item: {
+					Count: 1b
+					id: "tetra:holo"
+					tag: {
+						"holo/core": "holo/core"
+						"holo/core_material": "frame/dim"
+						"holo/frame": "holo/frame"
+						"holo/frame_material": "core/ancient"
+					}
+				}
+				type: "item"
+			}]
+			title: "Obtain a &2Holosphere"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "1406D0626D933662"
+			subtitle: "Crafted in a crafting table with 4 pieces of &f&lstring&r.&r"
+			tasks: [{
+				id: "6C0A7D71AD8CE5CF"
+				item: {
+					Count: 1b
+					id: "tetra:modular_toolbelt"
+					tag: {
+						"toolbelt/belt": "toolbelt/belt"
+						"toolbelt/belt_material": "belt/rope"
+						"toolbelt/slot1": "toolbelt/strap_slot1"
+						"toolbelt/strap_slot1_material": "strap1/leather"
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &dToolbelt"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1406D0626D933662"]
+			id: "2EA9A37F8162C75A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "396AA7F7274E22D5"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Upgraded in the Tetra Workbench."
+			tasks: [{
+				advancement: "tetra:upgrades/toolbelt_upgraded"
+				criterion: ""
+				id: "2CD5C1D6E9FC52A1"
+				type: "advancement"
+			}]
+			title: "Fully &bupgrade a Toolbelt"
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "7503B6E9DAE8C887"
+			subtitle: "&d&lTools&r can be upgraded by placing them in a &e&lTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/tool_upgrade"
+				criterion: ""
+				id: "5ED04403520DEB5D"
+				type: "advancement"
+			}]
+			title: "Upgrade a &5Tool"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "15CD386ED7C532AD"
+			subtitle: "&d&lShields&r can be upgraded by placing them in a &e&lTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/shield_upgrade"
+				criterion: ""
+				id: "0E13D413CD0E06DA"
+				type: "advancement"
+			}]
+			title: "Upgrade a &7Shield"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "591B08D47E895511"
+			subtitle: "&dBows&r can be upgraded by placing them in a &eTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/bow_upgrade"
+				criterion: ""
+				id: "1431981BDAC0FC85"
+				type: "advancement"
+			}]
+			title: "Upgrade a &7Bow"
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "0F2274923F1BF709"
+			subtitle: "&4Swords&r can be upgraded by placing them in a &eTetra Workbench&r."
+			tasks: [{
+				advancement: "tetra:upgrades/sword_upgrade"
+				criterion: ""
+				id: "22A314C0E5FDC39A"
+				type: "advancement"
+			}]
+			title: "Upgrade a &7Sword"
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["23866778F7DF1E9F"]
+			id: "5BA7D5536C9A251A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30D780AD6CEB3F9D"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "&4Swords&r can be &astrengthened&r in a &eTetra Workbench&r."
+			tasks: [{
+				advancement: "tetra:upgrades/sword_integrity"
+				criterion: ""
+				id: "0E0C5A73EB34C27C"
+				type: "advancement"
+			}]
+			title: "&4Strengthen&r a Sword"
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0F2274923F1BF709"]
+			id: "23866778F7DF1E9F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "123E53F68DE37E81"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "A &eTetra Sword&r can be &bhoned&r in a &eTetra Workbench&r after the sword is used a sufficient amount.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/sword_hone"
+				criterion: ""
+				id: "12F220468DEFEC6A"
+				type: "advancement"
+			}]
+			title: "Hone a &2Sword"
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "5B0D80D74CCDCD4D"
+			subtitle: "Stores &etools&r for easy access.&r"
+			tasks: [{
+				id: "04873446E6B41D23"
+				item: "tetra:rack"
+				type: "item"
+			}]
+			title: "Craft a &bRack"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "5EFF129AC4A1F0F0"
+			subtitle: "Upgrade a &bwooden hammer&r to a &estone hammer&r using the &eTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_2"
+				criterion: ""
+				id: "4FB61098C882A59C"
+				type: "advancement"
+			}]
+			title: "Upgrade to a &2Tier 2 Hammer"
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5EFF129AC4A1F0F0"]
+			id: "3FC663CD2DF9F961"
+			subtitle: "Created in a &eTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_3"
+				criterion: ""
+				id: "79D7EF8BE9E6ED37"
+				type: "advancement"
+			}]
+			title: "Create a &4Tier 3 Hammer"
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3FC663CD2DF9F961"]
+			id: "073F87BF33BDBBF3"
+			subtitle: "Created in a &eTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_4"
+				criterion: ""
+				id: "6C676A162142C2B5"
+				type: "advancement"
+			}]
+			title: "Create a &6Tier 4 Hammer"
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"073F87BF33BDBBF3"
+				"5BA7D5536C9A251A"
+			]
+			id: "3ED36C88E00DC483"
+			subtitle: "Created in a &eTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_5"
+				criterion: ""
+				id: "385CE2EE4FE9C656"
+				type: "advancement"
+			}]
+			title: "Create a &6Tier 5 Hammer"
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3ED36C88E00DC483"]
+			id: "468D559F14A7FF8C"
+			subtitle: "Created in a &eTetra Workbench&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/hammer_6"
+				criterion: ""
+				id: "034BDE6D75EE2D80"
+				type: "advancement"
+			}]
+			title: "Create a &5Tier 6 Hammer"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["269E1CA97135A899"]
+			id: "3D5F381AC35B9517"
+			subtitle: "An &eupgraded holosphere&r will make this much easier.&r"
+			tasks: [{
+				advancement: "tetra:spelunking/ancient_ruins"
+				criterion: ""
+				id: "7B327F7DAE9BBB12"
+				type: "advancement"
+			}]
+			title: "Find &4Ancient Ruins"
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3D5F381AC35B9517"]
+			id: "4A70A68E61C23EE6"
+			subtitle: "&cChthonic Extractors&r are found within &aAncient Ruins&r. When placed on &dBedrock&r and hit with a &c&lhammer&r, it will extract materials.&r"
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_hammer"
+				criterion: ""
+				id: "3B060F0D878002AE"
+				type: "advancement"
+			}]
+			title: "Use a &6Chtonic Extractor"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"7A7D8268516C5F6F"
+				"4A70A68E61C23EE6"
+			]
+			id: "2507D60DF04D046E"
+			subtitle: "Place a &bForge Hammer&r above an &cExtractor&r and power it with &4Redstone&r to automatically hammer it into &dBedrock&r.&r"
+			tasks: [{
+				advancement: "tetra:spelunking/chthonic_automation"
+				criterion: ""
+				id: "1AD23B9C2C92DB24"
+				type: "advancement"
+			}]
+			title: "Automate a &6Chtonic Extractor"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["60E72B7FDD2BCE38"]
+			id: "103F757FA61543D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A043CC346B37A3C"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "&bThermal Cells&r can be charged in &dCore Extractors&r, which are found in &aAncient Ruins&r.&r"
+			tasks: [{
+				advancement: "tetra:spelunking/refill_cell"
+				criterion: ""
+				id: "5B4D5646B1E229C7"
+				type: "advancement"
+			}]
+			title: "Charge a &2Thermal Cell"
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["103F757FA61543D7"]
+			id: "7A7D8268516C5F6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "20C35AE580C05091"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Requires two &bCharged Thermal Cells&r and two &eupgrades&r.&r"
+			tasks: [{
+				advancement: "tetra:spelunking/hammer_fix"
+				criterion: ""
+				id: "0AC120936BEC01D4"
+				type: "advancement"
+			}]
+			title: "Repair a &4Forge Hammer"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["05E6FEEE2CE9413B"]
+			id: "60E72B7FDD2BCE38"
+			subtitle: "Found in &aAncient Ruins&r.&r"
+			tasks: [{
+				advancement: "tetra:spelunking/find_cell"
+				criterion: ""
+				id: "08909CE48E75B648"
+				type: "advancement"
+			}]
+			title: "Find a &7Thermal Cell"
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "05E6FEEE2CE9413B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4FFA14A000D47421"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "&dRight click&r a &9Crafting Table&r with a &bWooden Hammer&r.&r"
+			tasks: [{
+				advancement: "tetra:upgrades/workbench"
+				criterion: ""
+				id: "2FB720E19023317C"
+				type: "advancement"
+			}]
+			title: "Construct a &4Workbench"
+			x: -2.0d
+			y: 0.0d
+		}
+	]
+	title: " &7Tetra"
+}

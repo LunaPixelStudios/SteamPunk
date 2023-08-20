@@ -1,0 +1,1041 @@
+
+[castle]
+
+	[castle.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 56
+		#Range: > 1
+		spacing = 56
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 37
+		#Range: > 0
+		offset = 37
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 42
+		#Range: 0 ~ 100
+		probability = 42
+
+	[castle.structures]
+
+		[castle.structures.structure]
+
+			[castle.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#forge:is_cold/overworld", "#forge:is_snowy", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach"]
+				biomes = ["#forge:is_cold/overworld", "#forge:is_snowy", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach"]
+
+			[castle.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[deep_crypt]
+
+	[deep_crypt.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 35
+		#Range: > 1
+		spacing = 35
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 23
+		#Range: > 0
+		offset = 23
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 75
+		#Range: 0 ~ 100
+		probability = 75
+
+	[deep_crypt.structures]
+
+		[deep_crypt.structures.structure]
+
+			[deep_crypt.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld"]
+				biomes = ["#minecraft:is_overworld"]
+
+			[deep_crypt.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[desert_temple]
+
+	[desert_temple.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 31
+		#Range: > 1
+		spacing = 31
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 20
+		#Range: > 0
+		offset = 20
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 60
+		#Range: 0 ~ 100
+		probability = 60
+
+	[desert_temple.structures]
+
+		[desert_temple.structures.structure]
+
+			[desert_temple.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["minecraft:desert"]
+				biomes = ["minecraft:desert"]
+
+			[desert_temple.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[desert_tomb]
+
+	[desert_tomb.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 29
+		#Range: > 1
+		spacing = 29
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 19
+		#Range: > 0
+		offset = 19
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 65
+		#Range: 0 ~ 100
+		probability = 65
+
+	[desert_tomb.structures]
+
+		[desert_tomb.structures.structure]
+
+			[desert_tomb.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["minecraft:desert"]
+				biomes = ["minecraft:desert"]
+
+			[desert_tomb.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[druid_circle]
+
+	[druid_circle.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 39
+		#Range: > 1
+		spacing = 39
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 26
+		#Range: > 0
+		offset = 26
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 40
+		#Range: 0 ~ 100
+		probability = 40
+
+	[druid_circle.structures]
+
+		[druid_circle.structures.structure]
+
+			[druid_circle.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld", "!#forge:is_cold/overworld", "!#forge:is_hot/overworld", "!#minecraft:is_forest", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+				biomes = ["#minecraft:is_overworld", "!#forge:is_cold/overworld", "!#forge:is_hot/overworld", "!#minecraft:is_forest", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+
+			[druid_circle.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[dungeon_variant]
+
+	[dungeon_variant.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 16
+		#Range: > 1
+		spacing = 16
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 10
+		#Range: > 0
+		offset = 10
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 80
+		#Range: 0 ~ 100
+		probability = 80
+
+	[dungeon_variant.structures]
+
+		[dungeon_variant.structures.structure]
+
+			[dungeon_variant.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld"]
+				biomes = ["#minecraft:is_overworld"]
+
+			[dungeon_variant.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[elders_temple]
+
+	[elders_temple.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 34
+		#Range: > 1
+		spacing = 34
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 22
+		#Range: > 0
+		offset = 22
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 82
+		#Range: 0 ~ 100
+		probability = 82
+
+	[elders_temple.structures]
+
+		[elders_temple.structures.structure]
+
+			[elders_temple.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_ocean"]
+				biomes = ["#minecraft:is_ocean"]
+
+			[elders_temple.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[fishing_ship]
+
+	[fishing_ship.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 48
+		#Range: > 1
+		spacing = 48
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 32
+		#Range: > 0
+		offset = 32
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 68
+		#Range: 0 ~ 100
+		probability = 68
+
+	[fishing_ship.structures]
+
+		[fishing_ship.structures.structure]
+
+			[fishing_ship.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_ocean"]
+				biomes = ["#minecraft:is_ocean"]
+
+			[fishing_ship.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[flying_dutchman]
+
+	[flying_dutchman.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 67
+		#Range: > 1
+		spacing = 67
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 44
+		#Range: > 0
+		offset = 44
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 40
+		#Range: 0 ~ 100
+		probability = 40
+
+	[flying_dutchman.structures]
+
+		[flying_dutchman.structures.structure]
+
+			[flying_dutchman.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_ocean"]
+				biomes = ["#minecraft:is_ocean"]
+
+			[flying_dutchman.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[hay_storage]
+
+	[hay_storage.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 24
+		#Range: > 1
+		spacing = 24
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 16
+		#Range: > 0
+		offset = 16
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 75
+		#Range: 0 ~ 100
+		probability = 75
+
+	[hay_storage.structures]
+
+		[hay_storage.structures.structure]
+
+			[hay_storage.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_savanna"]
+				biomes = ["#minecraft:is_savanna"]
+
+			[hay_storage.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[ice_pit]
+
+	[ice_pit.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 35
+		#Range: > 1
+		spacing = 35
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 23
+		#Range: > 0
+		offset = 23
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 70
+		#Range: 0 ~ 100
+		probability = 70
+
+	[ice_pit.structures]
+
+		[ice_pit.structures.structure]
+
+			[ice_pit.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#forge:is_snowy", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach"]
+				biomes = ["#forge:is_snowy", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach"]
+
+			[ice_pit.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[jungle_monument]
+
+	[jungle_monument.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 41
+		#Range: > 1
+		spacing = 41
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 27
+		#Range: > 0
+		offset = 27
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 75
+		#Range: 0 ~ 100
+		probability = 75
+
+	[jungle_monument.structures]
+
+		[jungle_monument.structures.structure]
+
+			[jungle_monument.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_jungle"]
+				biomes = ["#minecraft:is_jungle"]
+
+			[jungle_monument.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[large_dungeon]
+
+	[large_dungeon.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 39
+		#Range: > 1
+		spacing = 39
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 26
+		#Range: > 0
+		offset = 26
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 35
+		#Range: 0 ~ 100
+		probability = 35
+
+	[large_dungeon.structures]
+
+		[large_dungeon.structures.structure]
+
+			[large_dungeon.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld", "!#forge:is_hot/overworld", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+				biomes = ["#minecraft:is_overworld", "!#forge:is_hot/overworld", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+
+			[large_dungeon.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[miners_mouse]
+
+	[miners_mouse.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 24
+		#Range: > 1
+		spacing = 24
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 16
+		#Range: > 0
+		offset = 16
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 80
+		#Range: 0 ~ 100
+		probability = 80
+
+	[miners_mouse.structures]
+
+		[miners_mouse.structures.structure]
+
+			[miners_mouse.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_badlands"]
+				biomes = ["#minecraft:is_badlands"]
+
+			[miners_mouse.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[monster_maze]
+
+	[monster_maze.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 34
+		#Range: > 1
+		spacing = 34
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 22
+		#Range: > 0
+		offset = 22
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 50
+		#Range: 0 ~ 100
+		probability = 50
+
+	[monster_maze.structures]
+
+		[monster_maze.structures.structure]
+
+			[monster_maze.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["minecraft:dark_forest"]
+				biomes = ["minecraft:dark_forest"]
+
+			[monster_maze.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[mushroom_house]
+
+	[mushroom_house.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 15
+		#Range: > 1
+		spacing = 15
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 10
+		#Range: > 0
+		offset = 10
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 75
+		#Range: 0 ~ 100
+		probability = 75
+
+	[mushroom_house.structures]
+
+		[mushroom_house.structures.structure]
+
+			[mushroom_house.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["minecraft:mushroom_fields", "minecraft:mushroom_field_shore"]
+				biomes = ["minecraft:mushroom_fields", "minecraft:mushroom_field_shore"]
+
+			[mushroom_house.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[pillager_camp]
+
+	[pillager_camp.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 49
+		#Range: > 1
+		spacing = 49
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 32
+		#Range: > 0
+		offset = 32
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 35
+		#Range: 0 ~ 100
+		probability = 35
+
+	[pillager_camp.structures]
+
+		[pillager_camp.structures.structure]
+
+			[pillager_camp.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld", "!#forge:is_cold/overworld", "!#forge:is_hot/overworld", "!#minecraft:is_forest", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+				biomes = ["#minecraft:is_overworld", "!#forge:is_cold/overworld", "!#forge:is_hot/overworld", "!#minecraft:is_forest", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+
+			[pillager_camp.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[pirate_ship]
+
+	[pirate_ship.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 65
+		#Range: > 1
+		spacing = 65
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 43
+		#Range: > 0
+		offset = 43
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 49
+		#Range: 0 ~ 100
+		probability = 49
+
+	[pirate_ship.structures]
+
+		[pirate_ship.structures.structure]
+
+			[pirate_ship.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_ocean"]
+				biomes = ["#minecraft:is_ocean"]
+
+			[pirate_ship.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[ruined_building]
+
+	[ruined_building.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 27
+		#Range: > 1
+		spacing = 27
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 18
+		#Range: > 0
+		offset = 18
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 45
+		#Range: 0 ~ 100
+		probability = 45
+
+	[ruined_building.structures]
+
+		[ruined_building.structures.structure]
+
+			[ruined_building.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld", "!#forge:is_hot/overworld", "!#forge:is_water", "!#forge:is_mountain", "!#forge:is_underground"]
+				biomes = ["#minecraft:is_overworld", "!#forge:is_hot/overworld", "!#forge:is_water", "!#forge:is_mountain", "!#forge:is_underground"]
+
+			[ruined_building.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[stables]
+
+	[stables.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 46
+		#Range: > 1
+		spacing = 46
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 30
+		#Range: > 0
+		offset = 30
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 32
+		#Range: 0 ~ 100
+		probability = 32
+
+	[stables.structures]
+
+		[stables.structures.structure]
+
+			[stables.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld", "!#forge:is_cold/overworld", "!#forge:is_hot/overworld", "!#minecraft:is_forest", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+				biomes = ["#minecraft:is_overworld", "!#forge:is_cold/overworld", "!#forge:is_hot/overworld", "!#minecraft:is_forest", "!#forge:is_water", "!#forge:is_mountain", "!#minecraft:is_beach", "!#forge:is_underground"]
+
+			[stables.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[sunken_shrine]
+
+	[sunken_shrine.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 32
+		#Range: > 1
+		spacing = 32
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 21
+		#Range: > 0
+		offset = 21
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 55
+		#Range: 0 ~ 100
+		probability = 55
+
+	[sunken_shrine.structures]
+
+		[sunken_shrine.structures.structure]
+
+			[sunken_shrine.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_ocean"]
+				biomes = ["#minecraft:is_ocean"]
+
+			[sunken_shrine.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[tall_witch_hut]
+
+	[tall_witch_hut.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 18
+		#Range: > 1
+		spacing = 18
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 12
+		#Range: > 0
+		offset = 12
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 60
+		#Range: 0 ~ 100
+		probability = 60
+
+	[tall_witch_hut.structures]
+
+		[tall_witch_hut.structures.structure]
+
+			[tall_witch_hut.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#forge:is_swamp"]
+				biomes = ["#forge:is_swamp"]
+
+			[tall_witch_hut.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[tower_of_the_undead]
+
+	[tower_of_the_undead.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 37
+		#Range: > 1
+		spacing = 37
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 24
+		#Range: > 0
+		offset = 24
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 35
+		#Range: 0 ~ 100
+		probability = 35
+
+	[tower_of_the_undead.structures]
+
+		[tower_of_the_undead.structures.structure]
+
+			[tower_of_the_undead.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_overworld", "!#forge:is_sandy", "!#forge:is_water", "!#minecraft:is_beach", "!#forge:is_underground"]
+				biomes = ["#minecraft:is_overworld", "!#forge:is_sandy", "!#forge:is_water", "!#minecraft:is_beach", "!#forge:is_underground"]
+
+			[tower_of_the_undead.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[tree_house]
+
+	[tree_house.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 29
+		#Range: > 1
+		spacing = 29
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 19
+		#Range: > 0
+		offset = 19
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 40
+		#Range: 0 ~ 100
+		probability = 40
+
+	[tree_house.structures]
+
+		[tree_house.structures.structure]
+
+			[tree_house.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_jungle"]
+				biomes = ["#minecraft:is_jungle"]
+
+			[tree_house.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[watch_tower]
+
+	[watch_tower.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 33
+		#Range: > 1
+		spacing = 33
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 22
+		#Range: > 0
+		offset = 22
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 45
+		#Range: 0 ~ 100
+		probability = 45
+
+	[watch_tower.structures]
+
+		[watch_tower.structures.structure]
+
+			[watch_tower.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#forge:is_cold/overworld", "!#forge:is_water"]
+				biomes = ["#forge:is_cold/overworld", "!#forge:is_water"]
+
+			[watch_tower.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+
+[witch_tower]
+
+	[witch_tower.placement]
+		#
+		# The average distance between structures of this type, measured in chunks.
+		# Default: 29
+		#Range: > 1
+		spacing = 29
+		#
+		# A random offset applied to spacing. Values closer to 0 produce a grid effect while values closer to spacing are more random.
+		# Default: 19
+		#Range: > 0
+		offset = 19
+		#
+		# Percent chance of generating in an allowed chunk.
+		# Default: 45
+		#Range: 0 ~ 100
+		probability = 45
+
+	[witch_tower.structures]
+
+		[witch_tower.structures.structure]
+
+			[witch_tower.structures.structure.biomes]
+				#
+				# A filter for which biomes this structure should generate in. Entries are formatted as follows:
+				# - Biome: "minecraft:plains"
+				# - Tag: "#minecraft:is_forest"
+				# - Prefix an entry with ! to exclude it: "!#minecraft:is_ocean"
+				# Example: ["#minecraft:is_forest", "!minecraft:flower_forest"] This will include all biomes tagged as forests except for flower forests.
+				# Default: ["#minecraft:is_taiga"]
+				biomes = ["#minecraft:is_taiga"]
+
+			[witch_tower.structures.structure.dimensions]
+				#
+				# What dimensions this structure should generate in. Leave empty to allow all dimensions.
+				# Example: ["minecraft:overworld", "minecraft:the_nether"]
+				# Default: ["minecraft:overworld"]
+				dimensions = ["minecraft:overworld"]
+

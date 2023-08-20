@@ -1,0 +1,41 @@
+{
+	icon: {
+		Count: 64b
+		id: "minecraft:diamond_block"
+		tag: {
+			Enchantments: [{
+				id: "minecraft:projectile_protection"
+				lvl: 1
+			}]
+		}
+	}
+	id: "24B842B34426E835"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ count: 3, icon: "aquamirae:poseidons_breakfast", item: "aquamirae:poseidons_breakfast" }
+		{ count: 3, item: "forbidden_arcanus:orb_of_temporary_flight" }
+		{ count: 16, item: "minecraft:diamond" }
+		{
+			icon: "vitalize:experience_cubed"
+			type: "xp_levels"
+			weight: 3.0f
+			xp_levels: 20
+		}
+		{
+			type: "xp_levels"
+			weight: 2.0f
+			xp_levels: 25
+		}
+		{
+			type: "xp_levels"
+			xp_levels: 30
+		}
+		{ count: 32, item: "minecraft:iron_ingot", weight: 2.0f }
+		{ count: 64, item: "minecraft:oak_log", weight: 2.0f }
+		{ count: 3, item: "create:brass_ingot" }
+		{ count: 20, item: "create:andesite_alloy" }
+		{ count: 2, item: "minecraft:netherite_ingot" }
+	]
+	title: "High Tier"
+}

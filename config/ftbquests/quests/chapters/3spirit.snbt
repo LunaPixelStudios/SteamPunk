@@ -1,0 +1,1099 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3spirit"
+	group: "50C9D5775BEB220E"
+	icon: "spirit:soul_cage"
+	id: "42EBB664AE29EE6C"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "spirit:textures/block/soul_cage_sides.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -7.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_beastia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "spirit:textures/block/soul_cage_sides.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -8.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_possessio.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "spirit:textures/block/soul_cage_sides.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_dilato.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "spirit:textures/block/soul_cage_sides.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "reaper:textures/block/rune_block_efficacia.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2C07A0719268880B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6870BD432689A722"
+				table_id: 1511897575099731575L
+				type: "choice"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "A base material for the mod. &e&lJEI&r is very much needed for this mod. Press &d&lR&r and &d&lU&r when hovering over the items to see &a&lRecipes&r and &a&lUses&r respectively.&r"
+			tasks: [{
+				id: "0712F003472E4E2E"
+				item: "spirit:soul_steel_ingot"
+				type: "item"
+			}]
+			title: "Craft&5 Soul Steel Ingot"
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["23F95CE90B5CA8A0"]
+			description: ["Requires a Soul Crystal and Power"]
+			id: "08FCD2C0FD9E15E9"
+			subtitle: "Simulate the death of any mob with a new machine called the '&6&lSoul Revitalizer&r'. You can upgrade the machine with various different pylons that can affect the &b&lspeed, &d&lenergy usage, &a&ldrops&r and &c&lconditions&r of the revitalizer.&r"
+			tasks: [{
+				id: "19115C1D939118A1"
+				item: "vitalize:soul_revitalizer"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2C07A0719268880B"]
+			id: "3FCEC17760D80C1E"
+			subtitle: "The &d&lSoul Beacon&r, which can use the souls in a soul crystal to give effects to mobs nearby. The &d&lSoul Beacon&r requires a similar structure to a normal beacon, where the &c&l3x3 area under it&r (except the middle block) requires either a &6&lSoul Steel block&r or a &b&lrune block&r of some kind. The &b&lrune block&r functionality is as follows:&r"
+			tasks: [{
+				id: "51DBD7C5C9C85377"
+				item: "reaper:soul_beacon"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2C07A0719268880B"]
+			id: "3839D63FF0AB9A9C"
+			subtitle: "The &c&lReaper Generator&r, which can generate energy from damaging nearby mobs. The &c&lReaper Generator&r has &e&l4 slots for runes&r. Each rune has a different functionality when inside the machine, and only a single rune is needed in order to activate its"
+			tasks: [{
+				id: "4F9FD0C8EA1EA79D"
+				item: "reaper:reaper_generator"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3839D63FF0AB9A9C"]
+			id: "4273633DB9632887"
+			subtitle: "The &b&lSpiritus rune&r enables player-only drops when the &c&lReaper Generator&r kills an entity, but removes its ability to generate energy.&r"
+			tasks: [{
+				id: "70F26A00EBA1124E"
+				item: "reaper:rune_spiritus"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3839D63FF0AB9A9C"]
+			id: "7324D26B81537BB7"
+			subtitle: "The &b&lSpiritus rune&r enables player-only drops when the &c&lReaper Generator&r kills an entity, but removes its ability to generate energy.&r"
+			tasks: [{
+				id: "3AFCA4B11523C791"
+				item: "reaper:rune_velocitas"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3839D63FF0AB9A9C"]
+			id: "345DB98DE35D3F21"
+			subtitle: "The &d&lDilato rune&r will increase the current range of the &c&lReaper Generator&r.&r"
+			tasks: [{
+				id: "65AF222846A4A409"
+				item: "reaper:rune_dilato"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3839D63FF0AB9A9C"]
+			id: "01FA66F2D21F194A"
+			subtitle: "The &e&lHumano rune&r will enable the &c&lReaper Generator&r to extract energy from hitting players.&r"
+			tasks: [{
+				id: "5106F1D6C23E6F3F"
+				item: "reaper:rune_humano"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3839D63FF0AB9A9C"]
+			id: "1E5E41B8852DFB1A"
+			subtitle: "The &5&lObitus rune&r will enable the &c&lReaper Generator&r to instantly kill anything.&r"
+			tasks: [{
+				id: "5E18FBF6AD34A81D"
+				item: "reaper:rune_obitus"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3839D63FF0AB9A9C"]
+			id: "0D3F719B75CFEE3A"
+			subtitle: "The &a&lReficiat rune&r increases the amount of energy generated per heart of damage dealt.&r"
+			tasks: [{
+				id: "05E5E6157FB0F0D4"
+				item: "reaper:rune_reficiat"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3FCEC17760D80C1E"]
+			id: "25FE6B40121FAC59"
+			subtitle: "The &d&lPossessio rune&r will either prevent a particular player from being affected by the &c&lSoul Beacon&r, or adds that player to the whitelist of players who can be affected by the &c&lSoul Beacon&r.&r"
+			tasks: [{
+				id: "030830F30A7CF2E3"
+				item: "reaper:rune_block_possessio"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3FCEC17760D80C1E"]
+			id: "1FC2673E94A8C0F0"
+			subtitle: "The &4&lHostilis rune&r enables the &c&lSoul Beacon&r to hit hostile mobs.&r"
+			tasks: [{
+				id: "0E45CA85B22440CF"
+				item: "reaper:rune_block_hostilis"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3FCEC17760D80C1E"]
+			id: "5764314FBE30A305"
+			subtitle: "The &e&lBeastia rune&r enables the &c&lSoul Beacon&r to hit neutral and passive mobs.&r"
+			tasks: [{
+				id: "526944266C90139A"
+				item: "reaper:rune_block_beastia"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["3FCEC17760D80C1E"]
+			id: "6687A24AD0920FD8"
+			subtitle: "The &a&lDilato rune&r will increase the current range of the &c&lSoul Beacon&r.&r"
+			tasks: [{
+				id: "35C6C00E471FBED3"
+				item: "reaper:rune_block_dilato"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3FCEC17760D80C1E"]
+			id: "48809BBF529B8502"
+			subtitle: "The &e&lDuplici rune&r will make the action of the &c&lSoul Beacon&r trigger twice in a cycle.&r"
+			tasks: [{
+				id: "4B5F4B5433582353"
+				item: "reaper:rune_block_duplici"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3FCEC17760D80C1E"]
+			id: "747EFEBD8450721B"
+			subtitle: "The &a&lEfficacia rune&r reduces the energy cost of the &c&lSoul Beacon&r.&r"
+			tasks: [{
+				id: "7DBEF2EED95721CA"
+				item: "reaper:rune_block_efficacia"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2C07A0719268880B"]
+			id: "23F95CE90B5CA8A0"
+			subtitle: "The Interactable Mob Spawner is an &b&lintegrated machine&r that requires a filled &6&lSoul Gem&r to function. You can remove the Soul Gem by &e&lshift right-clicking&r.&r"
+			tasks: [{
+				id: "271B492366C4C3E2"
+				item: "spirit:soul_cage"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08FCD2C0FD9E15E9"]
+			id: "5B2AD538F878AF0B"
+			subtitle: "8 &cPylons&r &cmax&r. &bNeutral&r doesn't do anything special."
+			tasks: [{
+				id: "2DED36A0D0694025"
+				item: "vitalize:pylon_base"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "318A050375F50E05"
+			subtitle: "5 &cMax&r -15% power usage per &cPylon&r."
+			tasks: [{
+				id: "3CBD5BD746C4DC05"
+				item: "vitalize:pylon_efficiency"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "7197DFA6D559BB3C"
+			subtitle: "3 &cMax&r +35% power usage &5% beheading chance per &cPylon&r."
+			tasks: [{
+				id: "0018C0119B498A8F"
+				item: "vitalize:pylon_beheading"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "655E8D1F3259BCFF"
+			subtitle: "3 &cMax&r +25% power usage +1 &blooting&r per &cPylon&r."
+			tasks: [{
+				id: "45607A8A79E760EC"
+				item: "vitalize:pylon_looting"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "2338245FB8872A8C"
+			subtitle: "5 &cMax&r +25% power usage -15% time per &cPylon&r."
+			tasks: [{
+				id: "1AA308691BA0A706"
+				item: "vitalize:pylon_speed"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "2DFCB0BA69A57426"
+			subtitle: "5 &cMax&r +25% power usage -15% time per &cPylon&r."
+			tasks: [{
+				id: "3FD887761C593E23"
+				item: "vitalize:pylon_experience"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "57E0BEDE8371FD9B"
+			subtitle: "1 &cMax&r +7.5% power usage Applies &cBurning&r."
+			tasks: [{
+				id: "70B18CE0EFB3133F"
+				item: "vitalize:pylon_flame"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5B2AD538F878AF0B"]
+			id: "40A2DD0110D5FEAC"
+			subtitle: "1 &cMax&r +50% power usage +15% chance per &ctrigger&r +1 &csoul&r on &ctrigger&r."
+			tasks: [{
+				id: "25B9FB6A519BC194"
+				item: "vitalize:pylon_recursive"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2C07A0719268880B"]
+			id: "71CF02A811A92828"
+			tasks: [{
+				id: "3A250C1975AA7D66"
+				item: "spirit:crystal_pedestal"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["71CF02A811A92828"]
+			id: "067F2E74EC4431CC"
+			tasks: [{
+				id: "739A8C864F0042BE"
+				item: "spirit:soul_pedestal"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["067F2E74EC4431CC"]
+			id: "4E76AD92D7BF629B"
+			tasks: [{
+				id: "2B4560E943342832"
+				item: "spirit:soul_steel_wand"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			description: ["When empowered, your equipment will have a special ability, depending on which &cmob souls&r are stored within your &cSoul Crystal&r. Items can inflict effects like &cPoison&r, &cSlow Falling&r, &cBlindness&r, or even cause &cExplosions&r when striking a target. Each time these effects take place, a &cSoul&r will be consumed from the &cCrystal&r."]
+			id: "089BCF8A6697E16E"
+			subtitle: "Performance similar to &cDiamond&r. Repairable in &cSoul Fire&r. Grants extra &cSoul&r on kill."
+			tasks: [{
+				id: "5958ADC197A7D0E3"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			description: ["When empowered, your equipment will have a special ability, depending on which mob souls are stored within your Soul Crystal. Items can inflict effects like &cPoison, &eSlow Falling, &9Blindness, or even cause &4Explosions&r when striking a target. Each time these effects take place, a Soul will be consumed from the Crystal."]
+			id: "0B312231277589CE"
+			subtitle: "Performance similar to &bDiamond&r. Repairable in &cSoul Fire&r. Grants extra soul on kill."
+			tasks: [{
+				id: "086628101955B75B"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			description: ["When empowered, your equipment will have a special ability, depending on which mob souls are stored within your &bSoul Crystal&r. Items can inflict effects like &cPoison&r, &eSlow Falling&r, &9Blindness&r, or even cause &4Explosions&r when striking a target. Each time these effects take place, a Soul will be consumed from the Crystal."]
+			id: "28F5B9D70763BDDC"
+			subtitle: "Performance similar to &bDiamond&r. Repairable in &cSoul Fire&r. Grants extra soul on kill."
+			tasks: [{
+				id: "19EC9A93E931B27F"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			description: ["When empowered, your equipment will have a special ability, depending on which mob souls are stored within your Soul Crystal. Items can inflict effects like &cPoison&r, &9Slow Falling&r, &0Blindness&r, or even cause &4Explosions&r when striking a target. Each time these effects take place, a Soul will be consumed from the Crystal."]
+			id: "713A1128B60A9374"
+			subtitle: "Performance similar to &bDiamond&r. Repairable in &eSoul Fire&r. Grants extra soul on kill."
+			tasks: [{
+				id: "102C169D7805D672"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			description: ["When empowered, your equipment will have a special ability, depending on which mob souls are stored within your Soul Crystal. Items can inflict effects like &cPoison&r, &9Slow Falling&r, &0Blindness&r, or even cause &4Explosions&r when striking a target. Each time these effects take place, a Soul will be consumed from the Crystal."]
+			id: "50DB5D1CB0E9B9AC"
+			tasks: [{
+				id: "6E84857094999D88"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			description: ["When empowered, your equipment will have a special ability, depending on which mob souls are stored within your Soul Crystal. Items can inflict effects like &cPoison&r, &bSlow Falling&r, &9Blindness&r, or even cause &4Explosions&r when striking a target. Each time these effects take place, a Soul will be consumed from the Crystal."]
+			id: "20E7D93589FDAD32"
+			subtitle: "Consume &bsouls instead of arrows to shoot&r. Grants extra &bsouls on kill&r. Repairable in Soul Fire."
+			tasks: [{
+				id: "6D1A60B7A5C48E60"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2C07A0719268880B"]
+			description: ["Using the &5soul reaper&r enchant you can gain more &csouls&r &7(Useful in tandem with &csoul &ftools&7)"]
+			id: "2B5E92A3713B92C5"
+			subtitle: "Need to gain at minimum 64 souls (kills) from a non-boss mob. Can be upgraded with more kills."
+			tasks: [{
+				id: "29617206EB4B1FCF"
+				item: "spirit:soul_crystal"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2B5E92A3713B92C5"]
+			id: "48F1ED2BA3030E34"
+			subtitle: "A vital material used in basically every recipe. Created by throwing &eglowstone&r on the &csoulfire multiblock&r."
+			tasks: [{
+				id: "11DFC3DA7E1BDC2A"
+				item: "spirit:soul_powder"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["48F1ED2BA3030E34"]
+			id: "2824E2597719BC2E"
+			subtitle: "&bSmelted Soul Powder.&r Required fuel for &dSoul Generators&r."
+			tasks: [{
+				id: "00CBB852C9D3AA57"
+				item: "reaper:soul_catalyst"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			id: "76F58CA82CA9C16A"
+			subtitle: "Breaking a vanilla spawner will drop a &6broken spawner &rwhich is used to make a &5Soul Cage&r."
+			tasks: [{
+				id: "26DA25D04AB641F2"
+				item: "spirit:broken_spawner"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			id: "7234A0170BC0EAD7"
+			subtitle: "Compressed &bsoul steel&r. Used in various recipes."
+			tasks: [{
+				id: "00538F5A83041704"
+				item: "spirit:soul_steel_block"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+	]
+	title: " &3Spirit"
+}

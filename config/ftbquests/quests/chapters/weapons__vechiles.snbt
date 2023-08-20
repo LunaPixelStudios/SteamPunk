@@ -1,0 +1,994 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "weapons__vechiles"
+	group: "39BD55737A7439A2"
+	icon: {
+		Count: 1b
+		id: "scguns:scorched_staff"
+		tag: {
+			AmmoCount: 12
+		}
+	}
+	id: "572DCB69DA732362"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2F30AC0C19E6B1CD"
+			shape: "gear"
+			size: 1.5d
+			subtitle: "Craft Weapons"
+			tasks: [{
+				id: "0AC859F15CC2B652"
+				item: "cgm:workbench"
+				type: "item"
+			}]
+			title: "Craft Worckbench"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["73FB8C0CF7262695"]
+			id: "0B792F32805E25E6"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "0128601F130E2C6B"
+				item: "immersive_aircraft:cargo_airship"
+				type: "item"
+			}]
+			x: -5.3999999999999995d
+			y: -3.5999999999999996d
+		}
+		{
+			id: "73FB8C0CF7262695"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "7377BD771B58CBBD"
+				item: "immersive_aircraft:airship"
+				type: "item"
+			}]
+			x: -5.3999999999999995d
+			y: -8.4d
+		}
+		{
+			dependencies: ["13E54F5D1D25BA79"]
+			id: "6BAC925CA246151F"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "2444096200486DDF"
+				item: "immersive_aircraft:biplane"
+				type: "item"
+			}]
+			x: 5.3999999999999995d
+			y: -3.5999999999999996d
+		}
+		{
+			id: "13E54F5D1D25BA79"
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "758C4EDDE49C908F"
+				item: "immersive_aircraft:gyrodyne"
+				type: "item"
+			}]
+			x: 5.3999999999999995d
+			y: -8.4d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "2B2AB59FF433D553"
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Holds 64 ammo each. Stacks to 64"
+			tasks: [{
+				id: "2B029DDD7973CFF8"
+				item: "scguns:basic_bullet_pouch"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "2E91138C860A1FB2"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "4E312C8C7153BDC2"
+				item: "scguns:shell_pouch"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "3B2F5FBD078DDFA0"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "3774857DB7EFDDA7"
+				item: "scguns:flechette_round_pouch"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "0A1ED0D7BD8CC3B6"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "644C1551E84296E6"
+				item: "scguns:advanced_bullet_pouch"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "0CCDD42CB15D5E2D"
+			subtitle: "Holds &464 ammo &reach. Stacks to &464"
+			tasks: [{
+				id: "0CACE9FC9CC721BD"
+				item: "scguns:experimental_round_pouch"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "6AE9D034FE95E284"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "52981BF0A07F6F67"
+				item: "scguns:heavy_bullet_pouch"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "4D85D41C1C7D6BDF"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "50CE6DD0B6152D09"
+				item: "scguns:osborne_slug_pouch"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "2D0BFC2F4C24C70C"
+			subtitle: "Holds &464 ammo &reach. Stacks to &464"
+			tasks: [{
+				id: "139831BA601B39DB"
+				item: "scguns:scorched_bullet_pouch"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "5E101A85D8D5EA0E"
+			subtitle: "Holds &464 ammo &reach. Stacks to&4 64"
+			tasks: [{
+				id: "03110B16878E81A1"
+				item: "scguns:scorched_shell_pouch"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "16CAD0BF1B7D0900"
+			subtitle: "Holds &464 ammo &reach. Stacks to&4 64"
+			tasks: [{
+				id: "6DDED129B8A320B7"
+				item: "scguns:scorched_big_bullet_pouch"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "7C54A35029940BB3"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "6B384387C528FB35"
+				item: "scguns:ethereal_bullet_pouch"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "2244B8198DA03A9B"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "64A4F1632EF33F3C"
+				item: "scguns:ethereal_heavy_bullet_pouch"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2B2AB59FF433D553"]
+			id: "1776C119345E3A3A"
+			subtitle: "Holds &464 ammo&r each. Stacks to &464"
+			tasks: [{
+				id: "54413A27E92EC85A"
+				item: "scguns:ethereal_shell_pouch"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "2BBF342F10C12A21"
+			rewards: [{
+				count: 8
+				id: "1D2A3AB674E4639A"
+				item: "scguns:powder_and_ball"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Powder and Ball"
+			tasks: [{
+				id: "30A53BF3E697AC8F"
+				item: {
+					Count: 1b
+					id: "scguns:eoka_pistol"
+					tag: {
+						AmmoCount: 1
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "1C3EA99EA81541A4"
+			rewards: [{
+				count: 7
+				id: "7CA6682F764FA7D2"
+				item: "scguns:shotbolt"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Shotbolt"
+			tasks: [{
+				id: "1C542E5A1055BFE2"
+				item: {
+					Count: 1b
+					id: "scguns:auto_crossbow"
+					tag: {
+						AmmoCount: 5
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "430FACBE3C26EDAC"
+			rewards: [{
+				count: 8
+				id: "6C436ED39B1B941C"
+				item: "scguns:volatile_scrap"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Volatile Scrap"
+			tasks: [{
+				id: "5B271DD8B2B777FB"
+				item: {
+					Count: 1b
+					id: "scguns:blunderbuss"
+					tag: {
+						AmmoCount: 2
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "25FFD3905D83F63B"
+			rewards: [{
+				count: 8
+				id: "7C06B8FB04599229"
+				item: "scguns:flechette_round"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Fletchette Round"
+			tasks: [{
+				id: "53AFD60E34586368"
+				item: {
+					Count: 1b
+					id: "scguns:flechette_jet"
+					tag: {
+						AmmoCount: 5
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "798303021B1973A4"
+			rewards: [{
+				count: 8
+				id: "5F7A4D62ECE521BB"
+				item: "cgm:advanced_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Advanced Bullet"
+			tasks: [{
+				id: "3A476EC686872FB0"
+				item: {
+					Count: 1b
+					id: "scguns:lm_scoont"
+					tag: {
+						AmmoCount: 12
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "6DA7F316C5C48E90"
+			rewards: [{
+				count: 10
+				id: "68FD498A26409466"
+				item: "scguns:osborne_slug"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Osborne Slug"
+			tasks: [{
+				id: "4BC631950172203E"
+				item: {
+					Count: 1b
+					id: "scguns:kiln_gun"
+					tag: {
+						AmmoCount: 4
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "09E305E45738E313"
+			rewards: [{
+				count: 10
+				id: "4A6861F49D747916"
+				item: "scguns:scorched_big_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Scorched Big Bullet"
+			tasks: [{
+				id: "25090144FA40091E"
+				item: {
+					Count: 1b
+					id: "scguns:gowza_32l"
+					tag: {
+						AmmoCount: 16
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "3E8F886D2E7C1CAB"
+			rewards: [{
+				count: 7
+				id: "65F59A5DA131880B"
+				item: "cgm:shell"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Shell"
+			tasks: [{
+				id: "191DF4FEC5A02466"
+				item: {
+					Count: 1b
+					id: "scguns:sc_lawbringer"
+					tag: {
+						AmmoCount: 6
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "3180A62B0B15FD6F"
+			rewards: [{
+				count: 8
+				id: "253D0DA685E1A950"
+				item: "scguns:flechette_round"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Fletchette Round"
+			tasks: [{
+				id: "6EC0A0CDD78D5380"
+				item: {
+					Count: 1b
+					id: "scguns:railworker"
+					tag: {
+						AmmoCount: 8
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "5B64D33C745A2CED"
+			rewards: [{
+				count: 8
+				id: "40306440B1F0165F"
+				item: "scguns:scorched_big_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Scorched Big Bullet"
+			tasks: [{
+				id: "578CA28040D41609"
+				item: {
+					Count: 1b
+					id: "scguns:scorched_obrez_staff"
+					tag: {
+						AmmoCount: 16
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "07F26ECAED50C564"
+			rewards: [{
+				count: 8
+				id: "07A8274968AE3A4D"
+				item: "scguns:scorched_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Scorched Bullet"
+			tasks: [{
+				id: "1751DB06A59DA1D4"
+				item: {
+					Count: 1b
+					id: "scguns:sc_fusilage"
+					tag: {
+						AmmoCount: 25
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "0A5F3E43AACD1878"
+			rewards: [{
+				count: 10
+				id: "03C23D710AA346B2"
+				item: "cgm:advanced_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Advanced Bullet"
+			tasks: [{
+				id: "3B337C35C6C45EAC"
+				item: {
+					Count: 1b
+					id: "scguns:cogloader"
+					tag: {
+						AmmoCount: 52
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "5AD27499395D21DA"
+			rewards: [{
+				count: 12
+				id: "751026A247F2BB85"
+				item: "scguns:heavy_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Heavy Bullet"
+			tasks: [{
+				id: "5DBB683FA730E30B"
+				item: {
+					Count: 1b
+					id: "scguns:huot_auto"
+					tag: {
+						AmmoCount: 16
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "49C1545BD8BE3548"
+			rewards: [{
+				count: 8
+				id: "21CB2EE11D9A64B0"
+				item: "scguns:ethereal_shell"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Ethereal Shell"
+			tasks: [{
+				id: "397562AEDF91EC49"
+				item: {
+					Count: 1b
+					id: "scguns:alfonz_turnpike"
+					tag: {
+						AmmoCount: 12
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "055A8CE7095320DF"
+			rewards: [{
+				count: 10
+				id: "7D7512C78FB5AF47"
+				item: "scguns:ethereal_heavy_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Ethereal Heavy Bullet"
+			tasks: [{
+				id: "6684D26C39006F3B"
+				item: {
+					Count: 1b
+					id: "scguns:astella"
+					tag: {
+						AmmoCount: 6
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "2806EBCF4C938A5C"
+			tasks: [{
+				id: "5DF77DD854F305E5"
+				item: "cgm:medium_scope"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "43B44AC23853A9CF"
+			tasks: [{
+				id: "11184DB0C2668231"
+				item: "cgm:long_scope"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "491BC58EDF97C84C"
+			tasks: [{
+				id: "358EDEA0992CCAFA"
+				item: "cgm:silencer"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "622F6A22753032E9"
+			tasks: [{
+				id: "62D9E78222C09A50"
+				item: "cgm:light_stock"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "3AB68E8AFEF92382"
+			tasks: [{
+				id: "2F8BC3261F68B693"
+				item: "cgm:tactical_stock"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "2FEACB15C79BBFD1"
+			tasks: [{
+				id: "3BDA4689700EFD4D"
+				item: "cgm:weighted_stock"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "7CCB0533E5D89E7A"
+			tasks: [{
+				id: "54E70D60A5C8C8CA"
+				item: "cgm:light_grip"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "3EBA0B6D4765D89E"
+			tasks: [{
+				id: "1F3ECE89B03005C5"
+				item: "cgm:specialised_grip"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "492F5D677C3BF230"
+			tasks: [{
+				id: "347C74156CCCD307"
+				item: "scguns:muzzle_brake"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "4C667CE1BDE2E159"
+			tasks: [{
+				id: "0E38C9C6EB47DE5F"
+				item: "scguns:advanced_silencer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "3C29921A37A77BFB"
+			tasks: [{
+				id: "76B9A613DDB4CF87"
+				item: "scguns:tactical_grip"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "77B015225CEA4F26"
+			tasks: [{
+				id: "0BE7B19628FAE9A7"
+				item: "scguns:basic_sight"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "1F6DAB3DD3596198"
+			tasks: [{
+				id: "22B63F4BEC35A95C"
+				item: "scguns:wire_stock"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "2111F6AFED3412DC"
+			tasks: [{
+				id: "601C057256724231"
+				item: "scguns:wooden_stock"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["3CA606EE2C3B6248"]
+			id: "22AF013097AB6D70"
+			tasks: [{
+				id: "5FF589E07F024BE0"
+				item: "scguns:sturdy_grip"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "3979154A1BBAE061"
+			rewards: [{
+				count: 8
+				id: "3E45AFCD468B2E7A"
+				item: "scguns:ethereal_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Ethereal Bullet"
+			tasks: [{
+				id: "4BED917F26AE64D2"
+				item: {
+					Count: 1b
+					id: "scguns:earths_corpse"
+					tag: {
+						AmmoCount: 65
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "307C85D408B1C1BC"
+			rewards: [{
+				count: 10
+				id: "27FE99FA5971D32C"
+				item: "cgm:basic_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Basic Bullet"
+			tasks: [{
+				id: "294714BF4D16B922"
+				item: {
+					Count: 1b
+					id: "cgm:mini_gun"
+					tag: {
+						AmmoCount: 100
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "07357E43A6CBCCF9"
+			rewards: [{
+				count: 10
+				id: "728C994EB7E66B80"
+				item: "cgm:advanced_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Advanced Bullet"
+			tasks: [{
+				id: "1AB061EE2FA023F7"
+				item: {
+					Count: 1b
+					id: "cgm:heavy_rifle"
+					tag: {
+						AmmoCount: 4
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "5062F86C312AE67F"
+			rewards: [{
+				count: 8
+				id: "18D67F80947D7448"
+				item: "cgm:missile"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Missile"
+			tasks: [{
+				id: "0D5948C37E0E8A7B"
+				item: {
+					Count: 1b
+					id: "cgm:bazooka"
+					tag: {
+						AmmoCount: 1
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "0833295C4FA1C993"
+			rewards: [{
+				count: 10
+				id: "331FB969444EA4BA"
+				item: "cgm:basic_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Basic Bullet"
+			tasks: [{
+				id: "1BC193DE66526597"
+				item: {
+					Count: 1b
+					id: "cgm:assault_rifle"
+					tag: {
+						AmmoCount: 40
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "2D693D3CF99E1542"
+			rewards: [{
+				count: 8
+				id: "05D5BE57A4FD2258"
+				item: "cgm:advanced_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Advanced Bullet"
+			tasks: [{
+				id: "055C609A5215A28E"
+				item: {
+					Count: 1b
+					id: "cgm:rifle"
+					tag: {
+						AmmoCount: 10
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "214F7D742CB8EC0D"
+			rewards: [{
+				count: 8
+				id: "2C21C6BD422CBB90"
+				item: "scguns:ec_round"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Ec Round"
+			tasks: [{
+				id: "2FFC3E3423097DA0"
+				item: {
+					Count: 1b
+					id: "scguns:gauss_rifle"
+					tag: {
+						AmmoCount: 10
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "24B544BCB92C54D0"
+			rewards: [{
+				count: 8
+				id: "121E94DC5BDD5600"
+				item: "scguns:scorched_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type: &4Scorched Bullet"
+			tasks: [{
+				id: "456C9F13CADE1529"
+				item: {
+					Count: 1b
+					id: "scguns:soul_drummer"
+					tag: {
+						AmmoCount: 44
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "201E42DF938EEAA7"
+			rewards: [{
+				count: 10
+				id: "3C623FFED296F053"
+				item: "scguns:scorched_bullet"
+				type: "item"
+			}]
+			subtitle: "Ammo Type:&4 Scorched Bullet"
+			tasks: [{
+				id: "52B2E60A36544D7D"
+				item: {
+					Count: 1b
+					id: "scguns:scorched_wand"
+					tag: {
+						AmmoCount: 10
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2F30AC0C19E6B1CD"]
+			id: "3CA606EE2C3B6248"
+			size: 1.5d
+			tasks: [{
+				id: "51B737A3CFFF582B"
+				title: "Attachments"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -11.0d
+		}
+	]
+	title: " [WIP] &cWeapons &8\\& &6Vehicles"
+}

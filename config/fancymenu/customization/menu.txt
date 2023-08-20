@@ -1,0 +1,133 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -76
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -7
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -53
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 39
+}
+
+customization {
+  identifier = %id=398330%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -53
+}
+
+customization {
+  identifier = %id=374330%
+  orientation = top-right
+  x = -25
+  action = movebutton
+  y = 5
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/LunaPixelStudios/SteamPunk/issues%btnaction_splitter_fm%
+  x = 4
+  width = 98
+  action = addbutton
+  actionid = bc2eb7bd-60f8-4ed2-acea-df7d5c543c8d1687503069967
+  y = 16
+  label = Report Bugs
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://lunapixel.studio/discord%btnaction_splitter_fm%
+  x = -102
+  width = 98
+  action = addbutton
+  actionid = 6a30505e-db43-43bd-9dea-c9d3406997a31687503113789
+  y = 16
+  label = Discord Community
+  height = 20
+}
+
+customization {
+  identifier = %id=504354%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -7
+}
+

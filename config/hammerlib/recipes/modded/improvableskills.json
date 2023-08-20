@@ -1,0 +1,11 @@
+{
+    "active": {
+        "improvableskills:auto_xp_bank": true,
+        "improvableskills:enchanting": true,
+        "improvableskills:anvil": true,
+        "improvableskills:magnetism": true,
+        "improvableskills:skills_book": true,
+        "improvableskills:crafter": true
+    },
+    "unregistered": {}
+}

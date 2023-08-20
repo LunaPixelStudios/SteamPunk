@@ -1,0 +1,23 @@
+{
+	id: "14FB56D58C980E77"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 10, item: "minecraft:coal", weight: 15.0f }
+		{ count: 5, item: "minecraft:iron_ingot", weight: 7.0f }
+		{ count: 3, item: "minecraft:gold_ingot", title: "&r3x Gold Ingot", weight: 6.0f }
+		{ count: 3, item: "forbidden_arcanus:obsidian_ingot", weight: 6.0f }
+		{ count: 2, item: "blue_skies:horizonite_ingot", weight: 6.0f }
+		{ count: 2, item: "undead_unleashed:grave_metal_ingot", weight: 5.0f }
+		{ item: "iter_rpg:forest_ingot", title: "1x Forest Ingot", weight: 4.0f }
+		{ item: "iter_rpg:ocean_ingot", title: "1x Ocean Ingot", weight: 4.0f }
+		{ item: "iter_rpg:sky_ingot", title: "1x Sky Ingot", weight: 4.0f }
+		{ item: "iter_rpg:hell_ingot", title: "1x Hell Ingot", weight: 4.0f }
+		{ item: "minecraft:diamond", title: "&r1x Diamond", weight: 4.0f }
+		{ item: "forbidden_arcanus:deorum_ingot", title: "1x Deorum Ingot", weight: 4.0f }
+		{ item: "minecraft:netherite_ingot", title: "&r1x Netherite Ingot" }
+		{ item: "cataclysm:ignitium_ingot", title: "&r1x Ignitum Ingot", weight: 0.5f }
+		{ count: 4, item: "spirit:soul_steel_ingot", weight: 6.0f }
+	]
+	title: "&dRandom Ingot"
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/Faithless_SodiumContinuity_copat.zip",
+    "file/SoundFix.zip",
+    "file/Visual Titles.zip",
+    "file/Vanilla Advancement.zip",
+    "file/Some Mobs Icons 1.5.zip",
+    "file/EclecticTrove-noconfig-1.19-1.2.0.zip",
+    "file/Lopy-Create-Sophisticated-Backpacks.zip",
+    "file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip",
+    "file/Create Simple Storage 2.1.zip",
+    "file/Frozy's Quest Book.zip",
+    "file/Updated_Engineering_v1.7.zip",
+    "file/Enigmatic+3D+(V1.5.1).zip",
+    "file/Irons Spellbooks Icon.zip",
+    "file/Iron's_3D_Spell_book_v1.0.2.zip",
+    "file/Create_Guns_Scorched_1.19.2-1.19.3.zip",
+    "file/Create+Guns+1.19.zip",
+    "file/LootrChestRetexture_v1.1_1.19.zip",
+    "file/3D Tankards.zip",
+    "file/Faithless UI's [Cosmetic Armor] [1.0].zip",
+    "file/.Faithless.zip",
+    "file/\u00A7b\u00A7lTetra_GUI_v.0.7.1.zip.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "quark:emote_resources": {
+      "hidden": true
+    },
+    "Supplementaries Generated Pack": {
+      "hidden": true
+    },
+    "Everycomp Generated Pack": {
+      "hidden": true
+    },
+    "blue_skies:legacy_pack": {
+      "hidden": true
+    },
+    "builtin/builtin_resource_packs/legacy_dead_king_resource_pack": {
+      "hidden": true
+    },
+    "builtin/glass_pane_fix_resources": {
+      "hidden": true
+    },
+    "create:legacy_copper": {
+      "hidden": true
+    },
+    "file/Quark Programmer Art.zip": {
+      "hidden": true
+    },
+    "programer_art": {
+      "hidden": true
+    },
+    "supplementaries:darker_ropes": {
+      "hidden": true
+    }
+  }
+}

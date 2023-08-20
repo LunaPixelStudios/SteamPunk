@@ -1,0 +1,31 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_end"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_nether"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_ocean"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "ad_astra:has_structure/moon_dungeon_biomes"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "ad_astra:has_structure/lunarian_village_biomes"
+      },
+    ]
+  ]
+}

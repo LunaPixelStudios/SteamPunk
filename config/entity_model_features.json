@@ -1,0 +1,12 @@
+{
+  "printModelCreationInfoToLog": false,
+  "printAllMaths": false,
+  "renderCustomModelsGreen": false,
+  "vanillaModelRenderMode": "Off",
+  "mathFunctionChoice": "JavaMath",
+  "tryForceEmfModels": true,
+  "printUnknownModelsMode": "NONE",
+  "attemptPhysicsModPatch_1": false,
+  "attemptToCopyVanillaModelIntoMissingModelPart": false,
+  "textureOverrideMode": "USE_IRIS_QUIRK_AND_DEFER_TO_EMF_CODE_OTHERWISE"
+}

@@ -1,0 +1,69 @@
+#Overrides all other config options for easy difficulty management
+#This value is changed by the in-game config. It does nothing otherwise.
+#Range: 0 ~ 4
+Difficulty = 4
+
+["Item settings"]
+	#Fire Resistance blocks all hot temperatures
+	"Fire Resistance Immunity" = true
+	#Ice Resistance blocks all cold temperatures
+	"Ice Resistance Immunity" = true
+	#Thermometer item is required to see world temperature
+	"Require Thermometer" = false
+
+["Misc temperature-related things"]
+	#Sets whether damage scales with difficulty
+	"Damage Scaling" = true
+	#When set to true, players cannot sleep if they are cold or hot enough to die
+	"Prevent Sleep When in Danger" = false
+
+["Details about how the player is affected by temperature"]
+	#Defines the minimum habitable temperature
+	#Range: -Infinity ~ Infinity
+	"Minimum Habitable Temperature" = 0.21428571428877552
+	#Defines the maximum habitable temperature
+	#Range: -Infinity ~ Infinity
+	"Maximum Habitable Temperature" = 1.7142857143102042
+	#Rate at which the player's body temperature changes (default: 1.0 (100%))
+	#Range: 0.0 ~ Infinity
+	"Rate Multiplier" = 0.5
+
+["Temperature Effects"]
+
+	["Temperature Effects".Hot]
+		#When set to true, the player's view distance will decrease when they are too hot
+		"Heatstroke Fog" = true
+
+	["Temperature Effects".Cold]
+		#When set to true, some of the player's hearts will freeze when they are too cold, preventing regeneration
+		"Freezing Hearts" = true
+		#When set to true, the player's attack knockback will be reduced when they are too cold
+		"Cold Knockback Reduction" = true
+		#When set to true, the player's movement speed will be reduced when they are too cold
+		"Cold Slowness" = true
+		#When set to true, the player's mining speed will be reduced when they are too cold
+		"Cold Mining Fatigue" = true
+
+["Grace Period Details"]
+	#Grace period length in ticks (default: 6000)
+	#Range: > 0
+	"Grace Period Length" = 6000
+	#Enables the grace period (default: true)
+	"Grace Period Enabled" = true
+
+[Hearth]
+	#How strong the hearth is (default: 0.5)
+	#Range: 0.0 ~ 1.0
+	"Hearth Strength" = 0.5
+	#List of blocks that the hearth can spread through
+	#Use this list if the hearth isn't spreading through particular blocks that it should
+	"Hearth Spread Whitelist" = ["minecraft:iron_bars"]
+	#List of blocks that the hearth cannot spread through
+	#Use this list if the hearth is spreading through particular blocks that it shouldn't
+	"Hearth Spread Blacklist" = []
+
+["Cold Soul Fire"]
+	#Converts damage dealt by Soul Fire to cold damage (default: true)
+	#Does not affect the block's temperature
+	"Cold Soul Fire" = true
+

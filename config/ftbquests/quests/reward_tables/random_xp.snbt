@@ -1,0 +1,35 @@
+{
+	id: "006392425A0B04AA"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			icon: "minecraft:experience_bottle"
+			title: "&a+3 XP Levels"
+			type: "xp_levels"
+			weight: 0.3f
+			xp_levels: 3
+		}
+		{
+			icon: "create_enchantment_industry:hyper_experience_bottle"
+			title: "&a+10 XP Levels"
+			type: "xp_levels"
+			weight: 0.2f
+			xp_levels: 10
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "vitalize:item/experience_cubed"
+				}
+			}
+			title: "&a+5 XP Levels"
+			type: "xp_levels"
+			weight: 0.25f
+			xp_levels: 5
+		}
+	]
+	title: "&6Random Experience Points"
+}

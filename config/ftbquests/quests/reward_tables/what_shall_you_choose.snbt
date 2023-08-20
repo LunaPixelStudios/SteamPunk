@@ -1,0 +1,10 @@
+{
+	id: "56CF08FECBBBA2F4"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "enigmaticlegacy:the_acknowledgment", title: "&6Normal" }
+		{ item: "enigmaticlegacy:cursed_ring", title: "&5Hardcore" }
+	]
+	title: "What shall you choose?!"
+}

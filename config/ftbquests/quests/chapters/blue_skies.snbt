@@ -1,0 +1,1788 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "blue_skies"
+	group: "5E3CAACB575722D6"
+	icon: "blue_skies:multi_portal_item"
+	id: "7714DA114254B4F1"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 9.0d
+			hover: [ ]
+			image: "blue_skies:textures/block/portal/everdawn_portal.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/lunar_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 9.0d
+			hover: [ ]
+			image: "blue_skies:textures/block/portal/everbright_portal.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.25d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.25d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.1d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "blue_skies:textures/block/stone/turquoise_stonebrick.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: -5.5d
+			y: -3.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1E62A42938D3D2C6"]
+			icon: "blue_skies:everbright_portal"
+			id: "3C70DA9BB5A7B2FC"
+			rewards: [
+				{
+					id: "4F8440BC3E706A9B"
+					item: {
+						Count: 1b
+						id: "blue_skies:turquoise_stone_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57994B1BF1392B51"
+					item: "blue_skies:ventium_lava_bucket"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "A &b&overy cold dimension.&r Usually filled with beasts or snow spirits. Overworldian tools and armor are significantly less effective here."
+			tasks: [{
+				dimension: "blue_skies:everbright"
+				icon: "blue_skies:everbright_portal"
+				id: "488F18FF36A11015"
+				title: "Enter the &bEverbright"
+				type: "dimension"
+			}]
+			title: "Enter the &bEverdawn"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1E62A42938D3D2C6"]
+			id: "54A3DBA0D2623837"
+			rewards: [{
+				id: "7DD5FE3C51B2557E"
+				item: {
+					Count: 1b
+					id: "blue_skies:lunar_stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "A hot dimension usually teeming with reptialian or insectial mobs. Overworldian tools and armor are significantly less effective here."
+			tasks: [{
+				dimension: "blue_skies:everdawn"
+				icon: "blue_skies:everdawn_portal"
+				id: "69CAD2FD8295B9CE"
+				title: "Enter the &cEverdawn"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["66973E4CB96E1F72"]
+			icon: "blue_skies:blinding_key"
+			id: "6933ADABA942B669"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "0C598B13B2080CB2"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Hidden in the &7Blinding Dungeon"
+			tasks: [{
+				count: 4L
+				id: "006286845C00DBEF"
+				item: "blue_skies:blinding_key"
+				type: "item"
+			}]
+			title: "Collect 4 &7Blinding Dungeon Keys"
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0F60A46563E1CD1A"]
+			id: "462704E1575DA694"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "1D3AEEF217FF9ED8"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Hidden in the &aNature's Dungeon&r."
+			tasks: [{
+				count: 4L
+				id: "29F0AADA1AD19A8E"
+				item: "blue_skies:nature_key"
+				type: "item"
+			}]
+			title: "Collect 4 &2Dungeon Keys"
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["40D9B4752F523F79"]
+			id: "51CB784FCA45E1AE"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "78155311FB54D837"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Hidden in the Blinding Dungeon"
+			tasks: [{
+				count: 4L
+				id: "0A9E9DB5B4D1E9AB"
+				item: "blue_skies:blinding_key"
+				type: "item"
+			}]
+			title: "Collect 4 &7Blinding Dungeon Keys"
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3B0C4B48EEE5184F"]
+			id: "59BA815BFC3B5746"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "25931A3DF9F87215"
+				type: "xp"
+				xp: 100
+			}]
+			subtitle: "Hidden in the &2Poison Dungeon&r."
+			tasks: [{
+				count: 4L
+				id: "7DEAB8646AD1A8C0"
+				item: "blue_skies:poison_key"
+				type: "item"
+			}]
+			title: "Collect 4 &2Poison Dungeon &rKeys"
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["51CB784FCA45E1AE"]
+			id: "5927ED62BBBF0C33"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5AE91F8EE3774D14"
+				table_id: 28026836370523306L
+				type: "choice"
+			}]
+			subtitle: "Attacks with barrages of arrows and &8&ndeadly armor peircing spikes."
+			tasks: [{
+				advancement: "blue_skies:everdawn/kill_alchemist"
+				criterion: ""
+				id: "6582CE0D0AED6D73"
+				title: "Defeat the Alchemist"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["59BA815BFC3B5746"]
+			id: "3D3E7DEDD472B497"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "64391D5DD5623B16"
+				table_id: 28026836370523306L
+				type: "choice"
+			}]
+			subtitle: "Big spider boss. Can walk on ceiling."
+			tasks: [{
+				advancement: "blue_skies:everdawn/kill_arachnarch"
+				criterion: ""
+				id: "5CEDB72C23245165"
+				title: "Defeat the Arachnarch"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["54A3DBA0D2623837"]
+			id: "40D9B4752F523F79"
+			rewards: [{
+				count: 16
+				id: "184C2A7AD0FB3F2E"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "Located randomly across this dimension. Hides 4 keys in various floors and rooms. Boss recepticle at the top."
+			tasks: [{
+				advancement: "blue_skies:enter_blinding_dungeon"
+				criterion: ""
+				id: "7AC1CD4DE3FEE79B"
+				title: "Enter a Wizards Tower"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3C70DA9BB5A7B2FC"]
+			id: "66973E4CB96E1F72"
+			rewards: [{
+				count: 16
+				id: "5F136DE56635DD97"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "Located randomly across this dimension. Hides 4 keys in various floors and rooms. Boss recepticle at the top."
+			tasks: [{
+				advancement: "blue_skies:enter_blinding_dungeon"
+				criterion: ""
+				id: "6870BF92A47F964C"
+				title: "Enter a Wizards Tower"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6933ADABA942B669"]
+			id: "734D9461B1390BDC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "10E9E82F885DC85C"
+				table_id: 28026836370523306L
+				type: "choice"
+			}]
+			subtitle: "Summons golems and teleports. Attacks with magic."
+			tasks: [{
+				advancement: "blue_skies:everbright/kill_summoner"
+				criterion: ""
+				id: "5D933C11268970B4"
+				title: "Defeat the Summoner"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["734D9461B1390BDC"]
+			id: "0F60A46563E1CD1A"
+			shape: "square"
+			subtitle: "Huge green sturcture. Progress up and fight golems."
+			tasks: [{
+				advancement: "blue_skies:everbright/enter_nature_dungeon"
+				criterion: ""
+				id: "489412E78B0AA31C"
+				title: "Enther the Nature Dungeon"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["462704E1575DA694"]
+			id: "65402A15DAFE5B78"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12813095827CABF7"
+				table_id: 28026836370523306L
+				type: "choice"
+			}]
+			subtitle: "\"I am the Starlight Crusher and i speak for the trees.\""
+			tasks: [{
+				advancement: "blue_skies:everbright/kill_starlit_crusher"
+				criterion: ""
+				id: "2D784B06F6B39757"
+				title: "Defeat the Starlit Crusher"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5927ED62BBBF0C33"]
+			id: "3B0C4B48EEE5184F"
+			rewards: [{
+				id: "0D4B8D06F5263182"
+				item: {
+					Count: 1b
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:bane_of_arthropods"
+							lvl: 5s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "Spiders. Lots and lots of spiders and spider webs."
+			tasks: [{
+				advancement: "blue_skies:everdawn/enter_poison_dungeon"
+				criterion: ""
+				id: "652C8DEEB1449F95"
+				title: "Enter the Poisin Dungeon"
+				type: "advancement"
+			}]
+			title: "Enter the Poison Dungeon"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"75A7F686462E27C0"
+				"05BEAF9B91D85AE2"
+			]
+			id: "227C68BD6F9AFCDD"
+			subtitle: "Used to mix and upgrade tool materials like tetra. Falsite is useful."
+			tasks: [{
+				id: "3FA2DF3783639327"
+				item: "blue_skies:tool_box"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6E9C482F715C7506"]
+			id: "05BEAF9B91D85AE2"
+			subtitle: "Instead of smelting things it cools things. A freezer if you will."
+			tasks: [{
+				id: "7E0DCDBDE056ABDD"
+				item: "blue_skies:snowcap_oven"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3C70DA9BB5A7B2FC"]
+			id: "6E9C482F715C7506"
+			rewards: [{
+				count: 4
+				id: "0E03BA5C443F54DE"
+				item: "blue_skies:brewberry_bush"
+				type: "item"
+			}]
+			subtitle: "A very neat block that accepts 3-5 ingredients. Better food = more servings. Also accepts flowers, potions and Brew Berries"
+			tasks: [{
+				id: "67EA51FB62D1AC6A"
+				item: "blue_skies:food_prep_table"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7705B538437E6606"]
+			id: "35D23B0E5F1AA4BD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50E3FE5B3540350F"
+				table_id: 1511897575099731575L
+				type: "choice"
+			}]
+			subtitle: "Uses horizonite as fuel."
+			tasks: [{
+				id: "735F328FE7C97F45"
+				item: "blue_skies:horizonite_forge"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5927ED62BBBF0C33"]
+			id: "3AF3B097B8FB1C98"
+			rewards: [{
+				count: 32
+				id: "57F4B999EED1D87E"
+				item: "minecraft:redstone"
+				type: "item"
+			}]
+			subtitle: "Uncommon drop from the alchemist. Can transmute certian items into other variaints. Try transmuting redstone to glowstone!"
+			tasks: [{
+				id: "4CCA101B5BC1A794"
+				item: "blue_skies:alchemy_table"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"35D23B0E5F1AA4BD"
+				"3AF3B097B8FB1C98"
+			]
+			id: "0429C044EEC4798B"
+			subtitle: "Strong attack but applies regen to the target."
+			tasks: [{
+				advancement: "blue_skies:everdawn/think_different"
+				criterion: ""
+				id: "6B34DB8BBFB9B858"
+				title: "Obtain a Different Sword"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"3C70DA9BB5A7B2FC"
+				"54A3DBA0D2623837"
+			]
+			id: "72B0BE5078173DCC"
+			rewards: [{
+				id: "37E15D8ECAC59056"
+				item: {
+					Count: 1b
+					id: "blue_skies:moonstone_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Found in both dimensions. Works underwater and glows. Can be used to make spears."
+			tasks: [{
+				advancement: "blue_skies:get_moonstone_shard"
+				criterion: ""
+				id: "61A401445CD9E63C"
+				title: "Mine Moonstone Ore"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["72B0BE5078173DCC"]
+			id: "4F331FD9A0EBB9A0"
+			rewards: [{
+				count: 8
+				id: "4E7801198C348227"
+				item: "blue_skies:pyrope_gem"
+				type: "item"
+			}]
+			subtitle: "Slightly faster but less durable akin to gold."
+			tasks: [{
+				advancement: "blue_skies:get_pyrope"
+				criterion: ""
+				id: "7A55C2820FE0D0D5"
+				title: "Mine Pyrope Ore"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F331FD9A0EBB9A0"]
+			id: "3A618E5AA93B1D47"
+			subtitle: "Iron equivalent material in these dimensions. Highly enchantable"
+			tasks: [{
+				advancement: "blue_skies:get_aquite"
+				criterion: ""
+				id: "34DA287CD8EBBF68"
+				title: "Aquire Aquite"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3A618E5AA93B1D47"]
+			id: "6AE630FEE15360F9"
+			rewards: [{
+				count: 8
+				id: "5A1D43C970B18012"
+				item: "blue_skies:diopside_gem"
+				type: "item"
+			}]
+			subtitle: "High dmg and durability but slow. Found deep underground."
+			tasks: [{
+				advancement: "blue_skies:get_diopside"
+				criterion: ""
+				id: "3FE99D5E59FCDAF7"
+				title: "Mine Diopside Ore"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3A618E5AA93B1D47"]
+			id: "548ED84EBDA4AD35"
+			rewards: [{
+				count: 8
+				id: "036026AB52DEEEDA"
+				item: "blue_skies:charoite"
+				type: "item"
+			}]
+			subtitle: "Diamond equivalent in these dimensions."
+			tasks: [{
+				advancement: "blue_skies:get_charoite"
+				criterion: ""
+				id: "7DD8F6D0AD247A33"
+				title: "Obtain Charoite"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["54A3DBA0D2623837"]
+			id: "7705B538437E6606"
+			rewards: [{
+				count: 8
+				id: "1B454F8F995C1EB3"
+				item: "blue_skies:horizonite_ingot"
+				type: "item"
+			}]
+			subtitle: "Obtained in Crystal Dunes. Tools have autosmelt/flame and can make a furnace."
+			tasks: [{
+				advancement: "blue_skies:everdawn/get_horizonite"
+				criterion: ""
+				id: "6C69DCFDA86D503F"
+				title: "Obtain a Horizonite Ingot"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["734D9461B1390BDC"]
+			id: "75A7F686462E27C0"
+			rewards: [{
+				count: 8
+				id: "606EDF30DC2D880A"
+				item: "blue_skies:ventium_ingot"
+				type: "item"
+			}]
+			subtitle: "Found in non mountianous biomes. Iron equivalent"
+			tasks: [{
+				advancement: "blue_skies:everbright/get_ventium"
+				criterion: ""
+				id: "3C32FDB19EAA5B16"
+				title: "Obtain a Ventium"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75A430761607DC45"]
+			id: "1E62A42938D3D2C6"
+			rewards: [{
+				id: "4EF62D30641165DB"
+				item: {
+					Count: 1b
+					id: "blue_skies:prepared_food"
+					tag: { }
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "Sold by &3The Gatekeeper. &3Gatekeeper Houses&r spawn in most biomes. Every &3Gatekeeper House&r will have an unlit &cEverdawn&r or &bEverbright&r portal."
+			tasks: [{
+				id: "42F4DA9D4618C1A2"
+				item: "blue_skies:blue_journal"
+				type: "item"
+			}]
+			title: "Obtain a &bBlue &6Journal"
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+	title: " &bBlue&b &cSkies&c"
+}
