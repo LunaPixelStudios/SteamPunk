@@ -583,7 +583,7 @@
 			y: 6.0d
 		}
 	]
-	order_index: 8
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -643,7 +643,7 @@
 				type: "item"
 			}]
 			title: "Craft &lIron Wolf Armor"
-			x: -1.0d
+			x: 0.5d
 			y: 3.0d
 		}
 		{
@@ -665,28 +665,6 @@
 			y: 3.0d
 		}
 		{
-			id: "2B61AFCF52886CCD"
-			subtitle: "Rarely dropped by &fSkeletons&r or looted. Acts as a &6Bundle&r for arrows. Holds 7 different arrow stacks that can be swapped with a keybind."
-			tasks: [{
-				id: "19B586B8DD1D1D65"
-				item: {
-					Count: 1b
-					ForgeCaps: {
-						Parent: {
-							Items: [ ]
-							SelectedSlot: 0
-							Size: 6
-						}
-					}
-					id: "supplementaries:quiver"
-				}
-				type: "item"
-			}]
-			title: "Obtain a &7Quiver"
-			x: 0.5d
-			y: 3.0d
-		}
-		{
 			id: "370C7BBFD6825460"
 			subtitle: "Can be used to capture small &eanimals&r and &emobs&r."
 			tasks: [{
@@ -695,8 +673,8 @@
 				type: "item"
 			}]
 			title: "Craft a &5Cage"
-			x: -2.5d
-			y: 1.0d
+			x: -5.5d
+			y: 4.5d
 		}
 		{
 			id: "42D099430EBFAFFC"
@@ -706,6 +684,7 @@
 				item: "supplementaries:safe"
 				type: "item"
 			}]
+			title: "Craft a &7Safe"
 			x: -5.5d
 			y: 3.0d
 		}
@@ -978,24 +957,6 @@
 			y: 4.5d
 		}
 		{
-			id: "66E0767221522982"
-			subtitle: "Finds nearby &7Caves."
-			tasks: [{
-				id: "3544ACB011D4EB9C"
-				item: {
-					Count: 1b
-					id: "alexsmobs:echolocator"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			title: "Craft &cthe Echolocator"
-			x: -5.5d
-			y: 4.5d
-		}
-		{
 			id: "70A591213EFAF475"
 			subtitle: "Used as a &4Lava Surf Board&r that can jump and is enchantable."
 			tasks: [{
@@ -1039,7 +1000,7 @@
 				type: "item"
 			}]
 			title: "Craft a &aNature's Compass"
-			x: -4.0d
+			x: -1.0d
 			y: 3.0d
 		}
 		{
@@ -1091,18 +1052,6 @@
 			y: -0.5d
 		}
 		{
-			id: "2F3F81F99F538EEA"
-			subtitle: "Keep your chests safe with a &dlock&r."
-			tasks: [{
-				id: "0EAC9368DA26B26D"
-				item: "ironchests:lock"
-				type: "item"
-			}]
-			title: "Craft a &elock"
-			x: -2.5d
-			y: 3.0d
-		}
-		{
 			id: "0B18C0484CD23A54"
 			subtitle: "All storage in one place. Mainly placed on an &6inventory connector block&r."
 			tasks: [{
@@ -1137,6 +1086,49 @@
 			}]
 			title: "Craft a &6Wireless Terminal"
 			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "587CB5DB37C01733"
+			subtitle: "Get contracts. Deliver goods. Count profits. Wares allows you to buy and sell items in bulk."
+			tasks: [{
+				id: "66979B3DAA7CB885"
+				item: "wares:delivery_table"
+				type: "item"
+			}]
+			title: "Craft a &6Delivery Table"
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"&cStorage may not be 100% safe. "
+				"Monobank Inc. is not responsible for theft or loss of personal property.&r"
+			]
+			id: "72C1C84868E474B4"
+			subtitle: "Monobank allows you to securely store a large amount of the same item."
+			tasks: [{
+				id: "02E8E133171CF220"
+				item: {
+					Count: 1b
+					id: "monobank:monobank"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Craft a &7Monobank"
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			id: "6214B22DFC054284"
+			tasks: [{
+				id: "278B7F396A9B510F"
+				item: "cccbridge:animatronic_block"
+				type: "item"
+			}]
+			title: "Craft a &9Animatronic"
+			x: -2.5d
 			y: 1.0d
 		}
 	]

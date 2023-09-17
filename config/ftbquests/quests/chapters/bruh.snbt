@@ -132,6 +132,20 @@
 		{
 			dependencies: ["1579C73B735F06F8"]
 			id: "4E17A29F84247877"
+			rewards: [
+				{
+					count: 16
+					id: "1DC9900FF3E49095"
+					item: "create:track"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "71781AEFC874637E"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			shape: "circle"
 			subtitle: "&6Train Controls&r are required in the creation of &6Trains&r."
 			tasks: [{
@@ -146,6 +160,20 @@
 		{
 			dependencies: ["1579C73B735F06F8"]
 			id: "31B9F34B69172C02"
+			rewards: [
+				{
+					count: 16
+					id: "6932B26EBF1D2478"
+					item: "create:track"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "10F486AD6A5968E9"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			shape: "circle"
 			subtitle: "&6Train Stations&r are used to create, disassemble, and guide &6Trains&r."
 			tasks: [{
@@ -198,7 +226,7 @@
 				"- &6Level 9 Steam Engines&r are incredibly &6super efficient&r."
 				""
 				"- Here is an easy Level 9 Steam Engine :"
-				"https://createmod.com/schematics/smallest-lvl-9-steam-engine"
+				"&1https://createmod.com/schematics/smallest-lvl-9-steam-engine&r"
 			]
 			id: "43B32C639F4B3200"
 			shape: "gear"
@@ -467,6 +495,20 @@
 		{
 			dependencies: ["514C4EBE77DC871B"]
 			id: "722541F2C51F0087"
+			rewards: [
+				{
+					count: 5
+					id: "057BF3A41379746C"
+					item: "create:polished_rose_quartz"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4429E2B88B0A4F9E"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			subtitle: "The &cPortable Storage Interface&r is a block that allows &bItem Transporters&r to directly interact with &cContraption&r inventories.&r"
 			tasks: [{
 				id: "192A4EA7B9A013D2"
@@ -499,6 +541,20 @@
 		{
 			dependencies: ["514C4EBE77DC871B"]
 			id: "470A738A9480DE31"
+			rewards: [
+				{
+					count: 5
+					id: "49FB2CC77224F3C6"
+					item: "create:polished_rose_quartz"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5E9FDDC21D2C10DD"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			subtitle: "An &cElevator Pulley&r is a &bContraption&r useful for creating multi-floor elevators easily.&r"
 			tasks: [{
 				id: "694B8ADE0D22A807"
@@ -512,6 +568,20 @@
 		{
 			dependencies: ["514C4EBE77DC871B"]
 			id: "0FF657DAAF38D204"
+			rewards: [
+				{
+					count: 5
+					id: "758B5E4A49744057"
+					item: "create:polished_rose_quartz"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "79051CCC7C03F169"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			subtitle: "The &cThreshold Switch&r measures how full an inventory is and can emit a &bRedstone signal&r at adjustable thresholds.&r"
 			tasks: [{
 				id: "40927FAB3CB8373B"
@@ -732,6 +802,20 @@
 		{
 			dependencies: ["1579C73B735F06F8"]
 			id: "58A9E6688CEAFCC9"
+			rewards: [
+				{
+					count: 16
+					id: "3D7B687A5B772BCE"
+					item: "create:track"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "32CDF3CE0363078F"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			shape: "circle"
 			subtitle: "The &9Train Observer &ris used to detect passing &9Trains&r."
 			tasks: [{
@@ -810,7 +894,7 @@
 			dependencies: ["032F76A1238E0BBB"]
 			id: "7F9EF7E0EDD9575B"
 			rewards: [{
-				count: 4
+				count: 12
 				id: "4A3528E2403BD003"
 				item: "create:andesite_alloy"
 				type: "item"
@@ -1582,6 +1666,7 @@
 			dependencies: ["5C95FF3125CA51B0"]
 			id: "6159A08598A35A1E"
 			shape: "circle"
+			subtitle: "&6The Flywheel i&rs a decorative block. When powered, the &4flywheel starts spinning&r. It appears to keep momentum when it stops receiving power."
 			tasks: [{
 				id: "4B56CA812CE43239"
 				item: "create:flywheel"
@@ -1654,7 +1739,7 @@
 		}
 		{
 			dependencies: ["1A513CE71070D2D3"]
-			description: ["Just like &5Andesite casing&, you can right click or deploy a &6copper ingot& onto any stripped wood."]
+			description: ["Just like &5Andesite casing&r, you can right click or deploy a &6copper ingot&r onto any stripped wood."]
 			id: "7D3D82498C3B327F"
 			rewards: [{
 				count: 4
@@ -1767,7 +1852,7 @@
 				item: "minecraft:ink_sac"
 				type: "item"
 			}]
-			subtitle: "Mainly used to mill plants into &bdyes&, wheat into &bwheat flour&, and cobblestone into &bgravel&."
+			subtitle: "Mainly used to mill plants into &bdyes&r, wheat into &bwheat flour&r, and cobblestone into &bgravel&r."
 			tasks: [{
 				id: "16EF7895FC10B662"
 				item: "create:millstone"
@@ -1912,6 +1997,20 @@
 		{
 			dependencies: ["1579C73B735F06F8"]
 			id: "4494A3A226BE6D86"
+			rewards: [
+				{
+					count: 16
+					id: "6D9A9A719042CB11"
+					item: "create:track"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1A6071F5E7E11D9C"
+					item: "create:brass_ingot"
+					type: "item"
+				}
+			]
 			shape: "circle"
 			subtitle: "Train Signals are used to control the flow of Trains not driven by players."
 			tasks: [{
@@ -1926,6 +2025,12 @@
 		{
 			dependencies: ["7F9EF7E0EDD9575B"]
 			id: "10978A5E14B2D855"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "552412FC341510A9"
+				table_id: 2645938118790146101L
+				type: "loot"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				count: 69L
@@ -1937,8 +2042,10 @@
 						value: "forge:plates"
 					}
 				}
+				title: "Plates"
 				type: "item"
 			}]
+			title: "Plates"
 			x: -30.0d
 			y: 6.5d
 		}
@@ -1972,6 +2079,7 @@
 			dependencies: ["27E206948965351D"]
 			id: "57D5D3869593B56D"
 			shape: "circle"
+			subtitle: "The &cWrench&r is a tool used to rotate, dismantle and configure components."
 			tasks: [{
 				id: "73688E69CE8F85C4"
 				item: "create:wrench"
@@ -2180,6 +2288,13 @@
 		{
 			dependencies: ["2EFA38D9491535EA"]
 			id: "69D77F04608EE620"
+			rewards: [{
+				count: 3
+				id: "035856A552EBA8A8"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			subtitle: "&4Display Boards&r are a scalable alternative to the Sign."
 			tasks: [{
 				id: "111169691910A06A"
 				item: "create:display_board"
@@ -2190,5 +2305,5 @@
 			y: 10.0d
 		}
 	]
-	title: "&eCreate"
+	title: " &eCreate"
 }

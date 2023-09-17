@@ -28,7 +28,7 @@ pack_edit_mode = true
 			use_language_files = false
 
 	[modules.public_server_list]
-		enabled = false
+		enabled = true
 
 		#Modpack Configs
 		[modules.public_server_list.pack]
@@ -49,5 +49,5 @@ pack_edit_mode = true
 				width = 0
 				#Turn the Public Server List button into a vanilla styled one.
 				#Causes default vanilla graphics and might help with compatibility with other mods.
-				vanillaButton = false
+				vanillaButton = true
 

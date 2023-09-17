@@ -1261,14 +1261,14 @@
 		{
 			dependencies: ["1E365D6DF6B394F0"]
 			description: [
-				"Right click on the branches when they have visible &c&lred berries&r on them to pick off the &b&lCoffee Berries&r, which are cut with a &c&lknife&r at a &e&lcutting board&r to get &b&lCoffee Beans&r.&r"
+				"Right click on the branches when they have visible &e&lred berries&r on them to pick off the &b&lCoffee Berries&r, which are cut with a &e&lknife&r at a &e&lcutting board&r to get &b&lCoffee Beans&r.&r"
 				""
 				"&b&lCoffee&r will grow normally in the &c&lNether&r, but requires a bit more work to grow in the &a&loverworld&r. You need to place &e&lfarmland&r with other crops in a &d&l5x5 area&r around it for the &b&lCoffee Bush&r to consume.&r"
 				""
 				"The &b&lCoffee Bush&r will replace a &e&lcrop&r around it with &c&lWither Roots&r, which when broken will release a small cloud which will give the player the &4&lWither effect&r if they're standing nearby. Very &4&ldangerous&r stuff!&r"
 			]
 			id: "344D8DBF1BB57620"
-			subtitle: "&C&lCoffee&r is found in the &4&lBasalt Deltas&r biome in the &c&lNether&r. It grows on &8&lBasalt&r and &6&lMagma blocks&r. (&e&lClick Quest&r for more info)&r"
+			subtitle: "&d&lCoffee&r is found in the &4&lBasalt Deltas&r biome in the &c&lNether&r. It grows on &8&lBasalt&r and &6&lMagma blocks&r. (&e&lelick Quest&r for more info)&r"
 			tasks: [{
 				id: "7D3CE3B0B0DEABEB"
 				item: "farmersrespite:coffee_beans"

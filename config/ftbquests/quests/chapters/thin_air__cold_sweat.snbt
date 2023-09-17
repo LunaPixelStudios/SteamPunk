@@ -295,7 +295,7 @@
 			y: -0.5d
 		}
 	]
-	order_index: 2
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -560,9 +560,9 @@
 		}
 		{
 			description: [
-				"&Molt&r can be dropped from &aChameleons&r around once per day. Found in &2jungle&r and &2deserts&r among other similar biomes."
+				"&dolt&r can be dropped from &aChameleons&r around once per day. Found in &2jungle&r and &2deserts&r among other similar biomes."
 				""
-				"&Goats&r can be sheared and regrow their &awool&r in about a day. They can be found in &2snowy peaks&r, &2stony peaks&r, and spawn among other similar biomes."
+				"&6oats&r can be sheared and regrow their &awool&r in about a day. They can be found in &2snowy peaks&r, &2stony peaks&r, and spawn among other similar biomes."
 			]
 			id: "3448B23DF9F63302"
 			rewards: [{

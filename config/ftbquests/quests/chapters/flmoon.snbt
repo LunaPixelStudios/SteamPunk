@@ -179,6 +179,7 @@
 				type: "kill"
 				value: 25L
 			}]
+			title: "Defeat &4Corrupted Lunarian"
 			x: -21.0d
 			y: 4.5d
 		}
@@ -205,6 +206,7 @@
 				type: "kill"
 				value: 25L
 			}]
+			title: "Defeat &4Star Crawler"
 			x: -18.5d
 			y: 4.5d
 		}
@@ -319,6 +321,7 @@
 		}
 		{
 			dependencies: ["722FA069ADAACB56"]
+			icon: "immersiveengineering:tesla_coil"
 			id: "15602F8E3C5F34B9"
 			rewards: [
 				{
@@ -334,7 +337,7 @@
 				}
 			]
 			tasks: [{
-				icon: "enlightened_end:adamantite_glass"
+				icon: "create_things_and_misc:train_stop"
 				id: "5A9149C836DFD320"
 				structure: "ad_astra:lunar_tower"
 				title: "Find a &eLunar Tower"
@@ -380,31 +383,6 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["4C5636DFD629FD1A"]
-			id: "0B2655FAB14F30D0"
-			rewards: [
-				{
-					id: "4406F8E9DDB60CDB"
-					type: "xp_levels"
-					xp_levels: 5
-				}
-				{
-					id: "44CAC524C028CF2A"
-					item: "ad_astra:raw_desh_block"
-					type: "item"
-				}
-			]
-			shape: "rsquare"
-			tasks: [{
-				id: "4C44C4ACA84CCE9F"
-				item: "ad_astra:moon_globe"
-				type: "item"
-			}]
-			title: "Collect the Moon Globe"
-			x: -10.5d
-			y: 4.5d
-		}
-		{
 			id: "2497A5F326FA0B95"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -428,6 +406,7 @@
 			id: "326E670F51543705"
 			rewards: [
 				{
+					icon: "vitalize:experience_cubed"
 					id: "06116D26C659ADEF"
 					type: "xp_levels"
 					xp_levels: 5
@@ -467,6 +446,12 @@
 		{
 			dependencies: ["4C5636DFD629FD1A"]
 			id: "14377841BB0F2875"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47303F531306BB2D"
+				table_id: 1511897575099731575L
+				type: "loot"
+			}]
 			shape: "circle"
 			size: 1.5d
 			subtitle: "The &dDesh Ingot&r is a crafting component in &bAd Astra&r. It's found in caves on &eThe Moon&r, mainly under Y level 2. Aside from the &cTier 2 Rocket&r, &dDesh&r is also a component in the &cTier 1 Rover&r, as well as the &cOxygen Distributor&r.&r"
@@ -686,5 +671,5 @@
 			y: 0.5d
 		}
 	]
-	title: "&fMoon"
+	title: " &fMoon"
 }

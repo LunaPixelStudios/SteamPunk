@@ -1784,11 +1784,13 @@
 				type: "random"
 			}]
 			shape: "square"
+			subtitle: "Grant &4Fire Resistance"
 			tasks: [{
 				id: "6EB9D2511D7A3C9E"
 				item: "irons_spellbooks:fireward_ring"
 				type: "item"
 			}]
+			title: "Obtain a &bFireward Ring"
 			x: 1.0d
 			y: 0.0d
 		}

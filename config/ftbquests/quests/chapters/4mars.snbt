@@ -62,6 +62,7 @@
 			icon: "minecraft:spyglass"
 			id: "0771E60447729733"
 			rewards: [{
+				icon: "vitalize:experience_cubed"
 				id: "584366221E70DA6A"
 				type: "xp_levels"
 				xp_levels: 1
@@ -350,6 +351,7 @@
 				type: "kill"
 				value: 10L
 			}]
+			title: "Defeat &4Martian Raptor"
 			x: -4.5d
 			y: 1.0d
 		}
@@ -390,39 +392,6 @@
 			}]
 			x: 8.5d
 			y: 0.0d
-		}
-		{
-			dependencies: ["03B338AC5277FC20"]
-			id: "001126DD2095C18B"
-			rewards: [
-				{
-					count: 5
-					id: "533D26C3896D2652"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "158AC24F873CC9B6"
-					item: "ad_astra:ostrum_ingot"
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "65AEACF54300DD3F"
-					table_id: 1511897575099731575L
-					type: "choice"
-				}
-			]
-			shape: "rsquare"
-			tasks: [{
-				id: "10E344B4B4A6B8C8"
-				item: "ad_astra:mars_globe"
-				title: "&lCollect the Martian Globe"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 1.5d
 		}
 		{
 			dependencies: ["7858FFA43A47D466"]
@@ -685,5 +654,5 @@
 			y: -2.5d
 		}
 	]
-	title: "&4Mars"
+	title: " &4Mars"
 }

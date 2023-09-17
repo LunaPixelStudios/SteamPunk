@@ -48,6 +48,7 @@
 			icon: "minecraft:spyglass"
 			id: "443F35236F2C9720"
 			rewards: [{
+				icon: "vitalize:experience_cubed"
 				id: "7F7CAAFFE47FAE6F"
 				type: "xp_levels"
 				xp_levels: 5
@@ -60,38 +61,6 @@
 				type: "checkmark"
 			}]
 			x: -3.0d
-			y: 0.0d
-		}
-		{
-			dependencies: [
-				"6DF2A87008095EE4"
-				"1BC05BC4CB8194CD"
-				"70AE098030DF5056"
-			]
-			id: "16351FE8FB9AEAC2"
-			rewards: [
-				{
-					count: 2
-					id: "55F61266A50535AE"
-					item: "ad_astra:calorite_ingot"
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5E5265350B472046"
-					table_id: 28026836370523306L
-					type: "choice"
-				}
-			]
-			shape: "circle"
-			size: 1.5d
-			tasks: [{
-				id: "3FDD6D220BD7C3A4"
-				item: "ad_astra:glacio_globe"
-				title: "&lCollect the Glacio globe"
-				type: "item"
-			}]
-			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -125,6 +94,7 @@
 				type: "kill"
 				value: 10L
 			}]
+			title: "Defeat &4Glacian Ram"
 			x: -4.5d
 			y: -1.0d
 		}
@@ -304,5 +274,5 @@
 			y: -2.5d
 		}
 	]
-	title: "&fGLA&7CIO"
+	title: " &fGLA&7CIO"
 }

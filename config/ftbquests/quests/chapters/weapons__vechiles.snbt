@@ -33,18 +33,20 @@
 			id: "0B792F32805E25E6"
 			shape: "gear"
 			size: 1.2d
+			subtitle: "Slow and &4Fuel Hungry &rbut carries an Entire &6Storage."
 			tasks: [{
 				id: "0128601F130E2C6B"
 				item: "immersive_aircraft:cargo_airship"
 				type: "item"
 			}]
 			x: -5.3999999999999995d
-			y: -3.5999999999999996d
+			y: -6.6d
 		}
 		{
 			id: "73FB8C0CF7262695"
 			shape: "gear"
 			size: 1.2d
+			subtitle: "&bSlower,&r but with two seats. Quite easy to maneuver, with acceptable speed thanks to &4the engine in the back."
 			tasks: [{
 				id: "7377BD771B58CBBD"
 				item: "immersive_aircraft:airship"
@@ -58,25 +60,27 @@
 			id: "6BAC925CA246151F"
 			shape: "gear"
 			size: 1.2d
+			subtitle: "Let's start with the &cclassic biplane&r. Fast, one seat, medium difficulty."
 			tasks: [{
 				id: "2444096200486DDF"
 				item: "immersive_aircraft:biplane"
 				type: "item"
 			}]
-			x: 5.3999999999999995d
-			y: -3.5999999999999996d
+			x: -5.3999999999999995d
+			y: -5.3999999999999995d
 		}
 		{
 			id: "13E54F5D1D25BA79"
 			shape: "gear"
 			size: 1.2d
+			subtitle: "&4Human-powered &rprimitive dual seater. Trusty, yet neither the fastest nor the easiest to fly. Needs a good initial push to get the rotor spinning."
 			tasks: [{
 				id: "758C4EDDE49C908F"
 				item: "immersive_aircraft:gyrodyne"
 				type: "item"
 			}]
-			x: 5.3999999999999995d
-			y: -8.4d
+			x: -5.3999999999999995d
+			y: -3.5999999999999996d
 		}
 		{
 			dependencies: ["2F30AC0C19E6B1CD"]
@@ -989,6 +993,58 @@
 			x: 0.0d
 			y: -11.0d
 		}
+		{
+			description: ["You can repair with right click with iron ingot."]
+			id: "446A99E6981929A7"
+			shape: "gear"
+			subtitle: "Knocks out enemies with its pistons."
+			tasks: [{
+				id: "64119E635797D90B"
+				item: "armored_redstone:piston_armor"
+				type: "item"
+			}]
+			title: "&cPiston &fArmor"
+			x: 5.5d
+			y: -8.5d
+		}
+		{
+			description: [
+				"Requires nether bricks. "
+				""
+				"It can withstand magma, but its durability is a little low.. If the player is not submerged in magma, they can easily move."
+				""
+				"You can repair with right click with gold ingot"
+			]
+			id: "0B8728E11D55532B"
+			shape: "gear"
+			subtitle: "Use the power of netherrack fire to set enemies on fire."
+			tasks: [{
+				id: "47F2FDBAEF7B4291"
+				item: "armored_redstone:fire_armor"
+				type: "item"
+			}]
+			title: "&6Fire &fArmor"
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"446A99E6981929A7"
+				"0B8728E11D55532B"
+			]
+			description: ["You can repair with right click with gold ingot."]
+			id: "028A0E921A1536A4"
+			shape: "gear"
+			subtitle: "Similar to Fire Armor, unleash soulfire using the fire power of Nether soul sand."
+			tasks: [{
+				id: "349732541431BEF6"
+				item: "armored_redstone:soul_fire_armor"
+				type: "item"
+			}]
+			title: "&bSoul Fire &fArmor"
+			x: 5.5d
+			y: -6.0d
+		}
 	]
-	title: " [WIP] &cWeapons &8\\& &6Vehicles"
+	title: " &cWeapons &8\\& &6Vehicles"
 }

@@ -165,3 +165,9 @@ net.minecraft.client.gui.screens.TitleScreen {
 net.minecraft.client.gui.screens.ShareToLanScreen {
 }
 
+com.tom.cpm.client.GuiImpl {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+

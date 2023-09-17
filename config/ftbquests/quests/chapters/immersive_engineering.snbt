@@ -559,7 +559,7 @@
 			y: 3.0d
 		}
 	]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -665,7 +665,7 @@
 		}
 		{
 			dependencies: ["33563F1090D5B5A4"]
-			description: ["The &bcoke oven&r will turn &ewood&r into &echarcoal&, but more importantly produce &eCreosote oil&, something we'll need quite a bit of.&r"]
+			description: ["The &bcoke oven&r will turn &ewood&r into &echarcoal&r, but more importantly produce &eCreosote oil&r, something we'll need quite a bit of.&r"]
 			id: "38913F2B58E8BAD2"
 			rewards: [{
 				id: "5FC9B1B85F6B8E7C"

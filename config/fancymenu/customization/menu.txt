@@ -14,45 +14,16 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -76
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -29
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = -7
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  identifier = %id=504354%
   orientation = mid-centered
   x = 4
   action = movebutton
-  y = -29
+  y = 32
 }
 
 customization {
@@ -60,7 +31,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -53
+  y = -37
 }
 
 customization {
@@ -68,7 +39,43 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = 39
+  y = 55
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -34
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  width = 204
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -76,7 +83,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -30
+  y = 9
 }
 
 customization {
@@ -84,29 +91,7 @@ customization {
   orientation = mid-centered
   x = 4
   action = movebutton
-  y = -53
-}
-
-customization {
-  identifier = %id=374330%
-  orientation = top-right
-  x = -25
-  action = movebutton
-  y = 5
-}
-
-customization {
-  orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = openlink;https://github.com/LunaPixelStudios/SteamPunk/issues%btnaction_splitter_fm%
-  x = 4
-  width = 98
-  action = addbutton
-  actionid = bc2eb7bd-60f8-4ed2-acea-df7d5c543c8d1687503069967
-  y = 16
-  label = Report Bugs
-  height = 20
+  y = -37
 }
 
 customization {
@@ -117,17 +102,31 @@ customization {
   x = -102
   width = 98
   action = addbutton
-  actionid = 6a30505e-db43-43bd-9dea-c9d3406997a31687503113789
-  y = 16
+  actionid = 4fb5fdc5-4ad4-4aa3-b99e-9e00b97b39ee1686810215245
+  y = -14
   label = Discord Community
   height = 20
 }
 
 customization {
-  identifier = %id=504354%
   orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/LunaPixelStudios/Medieval-MC/issues%btnaction_splitter_fm%
   x = 4
+  width = 98
+  action = addbutton
+  actionid = e4e25df5-b3a8-4f16-a085-312db81ad2d31686810243291
+  y = -14
+  label = Report Bugs
+  height = 20
+}
+
+customization {
+  identifier = %id=374330%
+  orientation = top-right
+  x = -25
   action = movebutton
-  y = -7
+  y = 5
 }
 

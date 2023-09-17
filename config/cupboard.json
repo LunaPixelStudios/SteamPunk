@@ -1,6 +1,0 @@
-{
-  "showCommandExecutionErrors": {
-    "desc:": "Whether to display errors during command execution: default:true",
-    "showCommandExecutionErrors": true
-  }
-}

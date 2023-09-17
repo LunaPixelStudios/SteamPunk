@@ -1663,6 +1663,7 @@
 				item: "toms_storage:ts.inventory_connector"
 				type: "item"
 			}]
+			subtitle: "Gives access to your items. Place it on an inventory. Has a &cbuiltin crafting table&r."
 			tasks: [{
 				id: "39FA65809917609D"
 				item: "toms_storage:ts.crafting_terminal"

@@ -32,6 +32,12 @@
 			dependencies: ["1BC05BC4CB8194CD"]
 			icon: "minecraft:spyglass"
 			id: "3B0F6DD3124D3C74"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60336BA36DD58E10"
+				table_id: 28026836370523306L
+				type: "loot"
+			}]
 			shape: "circle"
 			size: 1.5d
 			tasks: [{
@@ -87,37 +93,11 @@
 				count: 20L
 				id: "58F498CAEB7D8AA9"
 				item: "ad_astra:solar_panel"
-				title: "Build the Best based Solar Power Station"
+				title: "Build the Best based &eSolar Power Station"
 				type: "item"
 			}]
 			x: 5.0d
 			y: 0.0d
-		}
-		{
-			dependencies: ["1BC05BC4CB8194CD"]
-			id: "61F5FE7531B03248"
-			rewards: [
-				{
-					id: "02872BD296364F32"
-					item: "ad_astra:calorite_ingot"
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "5186672DCEB76D1E"
-					table_id: 28026836370523306L
-					type: "random"
-				}
-			]
-			shape: "rsquare"
-			tasks: [{
-				id: "7EEF2049D18E54F1"
-				item: "ad_astra:mercury_globe"
-				title: "Collect the Mercury globe"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 1.5d
 		}
 		{
 			dependencies: ["1BC05BC4CB8194CD"]
@@ -147,6 +127,7 @@
 				type: "kill"
 				value: 50L
 			}]
+			title: "Defeat &4Magma Cubes"
 			x: -5.0d
 			y: 0.0d
 		}
@@ -191,7 +172,7 @@
 				item: "ad_astra:oxygen_loader"
 				type: "item"
 			}]
-			title: "Craft an Oxygen Loader"
+			title: "Craft an &bOxygen Loader"
 			x: 5.0d
 			y: -1.0d
 		}
@@ -224,7 +205,7 @@
 				item: "ad_astra:oxygen_distributor"
 				type: "item"
 			}]
-			title: "Craft an Oxygen Distributor"
+			title: "Craft an &aOxygen Distributor"
 			x: 3.0d
 			y: -2.0d
 		}
@@ -256,7 +237,7 @@
 				item: "ad_astra:oxygen_sensor"
 				type: "item"
 			}]
-			title: "Craft an Oxygen Sensor"
+			title: "Craft an &cOxygen Sensor"
 			x: 2.0d
 			y: 2.0d
 		}
@@ -289,7 +270,7 @@
 				item: "ad_astra:cryo_freezer"
 				type: "item"
 			}]
-			title: "Craft a Freezer"
+			title: "Craft a &2Freezer"
 			x: 3.0d
 			y: 2.0d
 		}
@@ -321,7 +302,7 @@
 				item: "ad_astra:energizer"
 				type: "item"
 			}]
-			title: "Craft an Enerigzer"
+			title: "Craft an &bEnerigzer"
 			x: 5.0d
 			y: 1.0d
 		}
@@ -355,7 +336,7 @@
 				item: "ad_astra:calorite_sliding_door"
 				type: "item"
 			}]
-			title: "Craft a Calorite Sliding Door"
+			title: "Craft a &cCalorite Sliding Door"
 			x: 4.0d
 			y: -2.0d
 		}
@@ -393,7 +374,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a Rover"
+			title: "Craft a&e Rover"
 			x: 4.0d
 			y: 2.0d
 		}
@@ -425,7 +406,7 @@
 				item: "ad_astra:water_pump"
 				type: "item"
 			}]
-			title: "Craft a Water Pump"
+			title: "Craft a &bWater Pump"
 			x: 2.0d
 			y: -2.0d
 		}
@@ -541,5 +522,5 @@
 			y: -2.5d
 		}
 	]
-	title: "&cMER&6CURY"
+	title: " &cMER&6CURY"
 }

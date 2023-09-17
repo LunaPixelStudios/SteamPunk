@@ -24,34 +24,10 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.5d
-			y: 3.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
 			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 7.5d
-			y: 2.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
 			y: 2.5d
 		}
 		{
@@ -96,11 +72,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.5d
-			y: 3.5d
+			x: 7.5d
+			y: 1.5d
 		}
 		{
 			click: ""
@@ -108,11 +84,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 3.5d
-			y: 3.5d
+			x: 7.5d
+			y: 0.5d
 		}
 		{
 			click: ""
@@ -120,11 +96,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 2.5d
-			y: 3.5d
+			x: 7.5d
+			y: -0.5d
 		}
 		{
 			click: ""
@@ -132,11 +108,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 1.5d
-			y: 3.5d
+			x: 7.5d
+			y: -1.5d
 		}
 		{
 			click: ""
@@ -144,11 +120,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: 0.5d
-			y: 3.5d
+			x: 7.5d
+			y: -2.5d
 		}
 		{
 			click: ""
@@ -156,11 +132,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -0.5d
-			y: 3.5d
+			x: 7.5d
+			y: -3.5d
 		}
 		{
 			click: ""
@@ -168,11 +144,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -1.5d
-			y: 3.5d
+			x: -6.5d
+			y: -5.5d
 		}
 		{
 			click: ""
@@ -180,11 +156,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -2.5d
-			y: 3.5d
+			x: -5.5d
+			y: -5.5d
 		}
 		{
 			click: ""
@@ -192,10 +168,262 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -3.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endrem:textures/blocks/ancient_portal_frame_empty_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_palerock"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
 			y: 3.5d
 		}
 		{
@@ -204,7 +432,19 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
 			rotation: 0.0d
 			width: 1.0d
 			x: -4.5d
@@ -216,346 +456,10 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: 3.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.5d
-			y: 3.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: 1.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: 0.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: -0.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: -1.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: -2.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: -3.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: 1.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: 0.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: -0.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: -1.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: -2.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.5d
-			y: -3.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
+			image: "enlightened_end:blocks/chiseled_malachite"
 			rotation: 0.0d
 			width: 1.0d
 			x: -3.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 1.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 4.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endrem:textures/blocks/ancient_portal_frame_empty_top.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "endlessbiomes:textures/blocks/chiselledarkanbricksnew.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.5d
-			y: -5.5d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_voikrust.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 6.5d
 			y: 3.5d
 		}
 		{
@@ -564,11 +468,11 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_malachite_2.png"
+			image: "enlightened_end:blocks/chiseled_malachite"
 			rotation: 0.0d
 			width: 1.0d
-			x: -7.5d
-			y: -4.5d
+			x: -2.5d
+			y: 3.5d
 		}
 		{
 			click: ""
@@ -576,11 +480,107 @@
 			dev: false
 			height: 1.0d
 			hover: [ ]
-			image: "enlightened_end:textures/blocks/chiseled_purpur.png"
+			image: "enlightened_end:blocks/chiseled_malachite"
 			rotation: 0.0d
 			width: 1.0d
-			x: 7.5d
-			y: -4.5d
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "enlightened_end:blocks/chiseled_malachite"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 3.5d
 		}
 	]
 	order_index: 10
@@ -594,7 +594,7 @@
 				dimension: "minecraft:the_end"
 				icon: "minecraft:end_stone"
 				id: "6BE035F7510B299F"
-				title: "Enter the End"
+				title: "Enter &ethe End"
 				type: "dimension"
 			}]
 			x: 0.0d
@@ -1084,7 +1084,7 @@
 					type: "random"
 				}
 			]
-			subtitle: "Respawned the same way as normal - placing an end crystal on all four cardinal directions on the exit portal's outer rim."
+			subtitle: "Respawned the same way as normal - placing an &cend crystal&r on all four cardinal directions on the exit portal's outer rim."
 			tasks: [{
 				entity: "minecraft:ender_dragon"
 				icon: "minecraft:dragon_head"
@@ -1135,7 +1135,7 @@
 				table_id: 28026836370523306L
 				type: "random"
 			}]
-			subtitle: "Put the Crimson Mosquito Larva into the Capsid, then throw the Mysterious Lava into the void of The End."
+			subtitle: "Put the &dCrimson Mosquito Larva&r into the &aCapsid&r, then throw the &5Mysterious Lava&r into the void of The End."
 			tasks: [{
 				entity: "alexsmobs:void_worm"
 				icon: "alexsmobs:void_worm_eye"
@@ -1152,10 +1152,9 @@
 			dependencies: ["170A7AF8AF653203"]
 			id: "39CD37F2FE8524B9"
 			rewards: [{
-				exclude_from_claim_all: true
-				id: "02926494F2C126F9"
-				table_id: 28026836370523306L
-				type: "random"
+				id: "5F56A86AF8851186"
+				item: "alexsmobs:mysterious_worm"
+				type: "item"
 			}]
 			subtitle: "Found at the bottom of Ruined Citadels."
 			tasks: [{
@@ -1175,11 +1174,11 @@
 			id: "3A0C2E0CD6DB0FAD"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "46E05A8405B05524"
+				id: "6820C3BDBB78198A"
 				table_id: 1511897575099731575L
 				type: "random"
 			}]
-			subtitle: "Found on top of a Ancient End City and summoned with right clicking Dragons Breath on the Altar"
+			subtitle: "Found on top of a &cAncient&r &9End City&r and summoned with right clicking &bDragons Breath&r on the &6Altar&r."
 			tasks: [{
 				entity: "unusualend:endstone_golem"
 				icon: "unusualend:shulker_orb"
@@ -1203,8 +1202,9 @@
 			}]
 			tasks: [{
 				entity: "endlessbiomes:radon_sentinel"
+				icon: "endlessbiomes:encrusted_arkan"
 				id: "15BCE5440C7FBC5B"
-				title: "Kill a Radon Sentinal"
+				title: "Kill a &dRadon Sentinal"
 				type: "kill"
 				value: 1L
 			}]
@@ -1222,8 +1222,9 @@
 			}]
 			tasks: [{
 				entity: "endlessbiomes:riftite_sentinel"
+				icon: "endlessbiomes:encrusted_arkan"
 				id: "1E8A9E323D64CA19"
-				title: "Kill a Riftite Sentinal"
+				title: "Kill a &dRiftite Sentinal"
 				type: "kill"
 				value: 1L
 			}]
@@ -1238,7 +1239,7 @@
 				advancement: "minecraft:end/find_end_city"
 				criterion: ""
 				id: "2069B4096604A130"
-				title: "Discover a End City"
+				title: "Discover a &eEnd City"
 				type: "advancement"
 			}]
 			x: 0.0d
@@ -1251,11 +1252,15 @@
 				id: "48E294EC21B1F69D"
 				item: {
 					Count: 1b
+					ForgeCaps: {
+						"cold_sweat:item_insulation": { }
+					}
 					id: "minecraft:elytra"
 					tag: {
 						Damage: 0
 					}
 				}
+				title: "Craft &bElytra"
 				type: "item"
 			}]
 			x: 0.0d
@@ -1265,11 +1270,12 @@
 			dependencies: ["44A845174DFA60D3"]
 			id: "3634BDFDC1F57A47"
 			shape: "square"
+			subtitle: "&6Ruined Citadel&r is a large structure found on the outer End islands and is filled with hostile creatures like &dShulkers&r and &5Endermaptera&r."
 			tasks: [{
 				advancement: "cataclysm:find_ruined_citadel"
 				criterion: ""
 				id: "4DFB67962A090F0D"
-				title: "Discover a Ruined Citadel"
+				title: "Discover a &eRuined Citadel"
 				type: "advancement"
 			}]
 			x: 0.0d
@@ -1284,7 +1290,7 @@
 				id: "072FBD4902914B26"
 				observe_type: 0
 				timer: 0L
-				title: "Discover a Sentinal Dungeon"
+				title: "Discover a &dSentinal Dungeon"
 				to_observe: "endlessbiomes:arkan_bricks"
 				type: "observation"
 			}]
@@ -1294,11 +1300,13 @@
 		{
 			dependencies: ["66F1A3F0728DAAF8"]
 			id: "10BED50C84536F6A"
+			subtitle: "This item will provide you with &b30 seconds &rof immunity to &4fire&r while it's in your &6inventory."
 			tasks: [{
 				id: "05FFCA8ED5E4E536"
 				item: "unusualend:nether_orb"
 				type: "item"
 			}]
+			title: "Craft &cNether Orb"
 			x: 3.0d
 			y: -4.0d
 		}
@@ -1319,12 +1327,12 @@
 			dependencies: ["44A845174DFA60D3"]
 			id: "66F1A3F0728DAAF8"
 			shape: "square"
-			subtitle: "You need Dragons Breath"
+			subtitle: "You need &dDragons Breath"
 			tasks: [{
 				advancement: "unusualend:remains_of_the_past"
 				criterion: ""
 				id: "5466B00A2BF5D8DC"
-				title: "Summon the Endstone Golem"
+				title: "Summon &dthe Endstone Golem"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -1356,10 +1364,12 @@
 				"05609381C79CCDF9"
 			]
 			id: "1749C6977DAA2515"
+			subtitle: "Have the whole &cCrystalline&r set in your &6Inventory"
 			tasks: [{
 				advancement: "phantasm:get_crystal_full_set"
 				criterion: ""
 				id: "53C0313E87AC455C"
+				title: "&dTime to Chine"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -1367,6 +1377,13 @@
 		}
 		{
 			dependencies: ["63C2A2739FAFD0E8"]
+			description: [
+				"&9Farseers&f are hostile mobs that can be found either inside or right outside the World Border"
+				""
+				"Due to how far they away they live, the only way to reach them is by using a &1Shattered Dimensional Carver&f multiple times in one direction."
+				""
+				"Make sure to have an elytra equiped and lots of fireworks as teleporting far away wont always garuntee your safety."
+			]
 			id: "504FE3818327F903"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1374,11 +1391,12 @@
 				table_id: 1511897575099731575L
 				type: "random"
 			}]
+			subtitle: "Click!"
 			tasks: [{
 				entity: "alexsmobs:farseer"
 				icon: "alexsmobs:farseer_arm"
 				id: "1AFA1A7979BC898F"
-				title: "Slay a Farseer"
+				title: "Slay a &bFarseer"
 				type: "kill"
 				value: 1L
 			}]
@@ -1389,11 +1407,13 @@
 			dependencies: ["0AE8A4441487016F"]
 			id: "0836FFF27B4754F5"
 			shape: "square"
+			subtitle: "Extra-size &6Barrel"
 			tasks: [{
 				id: "5CE356BE7E6986FD"
 				item: "unusualend:purpur_tank"
 				type: "item"
 			}]
+			title: "Craft &dPurpur Tank"
 			x: 1.5d
 			y: -4.0d
 		}
@@ -1402,7 +1422,7 @@
 			tasks: [{
 				id: "52B67439F09F2638"
 				structure: "wabi_sabi_structures:chorus_orchard"
-				title: "Discover the Chorus Orchard"
+				title: "Discover &cthe Chorus Orchard"
 				type: "structure"
 			}]
 			x: 6.0d
@@ -1431,22 +1451,26 @@
 		{
 			dependencies: ["30C923A1FE975760"]
 			id: "346DBB1B0C9F4E9D"
+			subtitle: "Can be used to &6Craft Armor and Tools"
 			tasks: [{
 				id: "05CC8B883153DCC3"
 				item: "phantasm:stellium_ingot"
 				type: "item"
 			}]
+			title: "Craft &bStellium Ingot"
 			x: 4.5d
 			y: -4.0d
 		}
 		{
 			dependencies: ["3A261ACE5A3AA76C"]
 			id: "24B489938D824449"
+			subtitle: "Can be used to &6Craft Armor and Tools"
 			tasks: [{
 				id: "4AEB5978428AA9A4"
 				item: "enlightened_end:adamantite_ingot"
 				type: "item"
 			}]
+			title: "Craft &5Admantite Ingot"
 			x: 4.5d
 			y: 2.0d
 		}

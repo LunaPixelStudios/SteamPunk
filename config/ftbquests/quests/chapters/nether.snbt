@@ -766,7 +766,7 @@
 				type: "advancement"
 			}]
 			title: "Discover the &cBurning Arena"
-			x: 8.0d
+			x: 9.5d
 			y: -8.0d
 		}
 		{
@@ -791,7 +791,7 @@
 				title: "Discover the Soul Black Smith"
 				type: "advancement"
 			}]
-			x: 8.0d
+			x: 9.5d
 			y: -11.0d
 		}
 		{
@@ -822,26 +822,6 @@
 			y: -9.5d
 		}
 		{
-			id: "630D4099D5A4E0F7"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5ED347771A5C7EC2"
-				table_id: 28026836370523306L
-				type: "random"
-			}]
-			subtitle: "With a &cLava Stave &7in the offhand and a &fGhast Tear &7in the other. Say these words. &4\"I beckon thee\""
-			tasks: [{
-				entity: "unseen_world:nethermen"
-				icon: "knight_quest:kq_evil_essence"
-				id: "79405D434DA563B3"
-				title: "Kill the &cNetherman"
-				type: "kill"
-				value: 1L
-			}]
-			x: 11.0d
-			y: -8.0d
-		}
-		{
 			id: "43725D0342C31750"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -859,30 +839,8 @@
 				value: 1L
 			}]
 			title: "Defeat the &9Sorrowsealed"
-			x: 9.5d
-			y: -8.0d
-		}
-		{
-			dependencies: ["1538759577E83248"]
-			id: "04814C776A11CAB5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6A39AC8ECBE0DB2E"
-				table_id: 28026836370523306L
-				type: "random"
-			}]
-			subtitle: "Found in &8Bastions.&r It is clad in black steel armor with glowing creeper insignias on its face and shield."
-			tasks: [{
-				entity: "knight_quest:kq_bound_lord"
-				icon: "knight_quest:kq_creeper_soul"
-				id: "3FE60C2C231965EA"
-				title: "Kill the Creeper Lord"
-				type: "kill"
-				value: 1L
-			}]
-			title: "Defeat the &aCreeper Lord"
 			x: 11.0d
-			y: -11.0d
+			y: -8.0d
 		}
 		{
 			id: "357B226238A4BDCE"
@@ -901,7 +859,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.5d
+			x: 11.0d
 			y: -11.0d
 		}
 		{
