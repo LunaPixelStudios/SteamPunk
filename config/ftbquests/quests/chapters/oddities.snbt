@@ -743,18 +743,6 @@
 			y: -0.5d
 		}
 		{
-			id: "0E97FA52CC24ED92"
-			subtitle: "A specialized furnace for baking items like &estone&r, &esand&r, &eclay&r etc at double speed."
-			tasks: [{
-				id: "7C6295773CC6E1AC"
-				item: "clayworks:kiln"
-				type: "item"
-			}]
-			title: "Craft a &2Kiln"
-			x: -4.5d
-			y: -0.5d
-		}
-		{
 			id: "0BE7832F8D2EC88E"
 			subtitle: "Same utility as a &eStone Cutter&r but for &ewoods&r."
 			tasks: [{
@@ -1296,6 +1284,18 @@
 			title: "Craft a &4Tinkering Table"
 			x: -1.5d
 			y: 3.0d
+		}
+		{
+			id: "1A9D4D664FAC1E2B"
+			subtitle: "Can cut down whole trees"
+			tasks: [{
+				id: "66B3B6E9C049043E"
+				item: "create:mechanical_saw"
+				type: "item"
+			}]
+			title: "Craft a &eMechanical Saw"
+			x: -4.5d
+			y: -0.5d
 		}
 	]
 	title: " &fCuriosities&f"
