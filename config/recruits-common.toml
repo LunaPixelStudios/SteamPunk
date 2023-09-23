@@ -121,7 +121,7 @@ Version = 26
 	#	(takes effect after restart)
 	#	default: 1
 	#Range: 1 ~ 10
-	MaxSpawnRecruitsInVillage = 2
+	MaxSpawnRecruitsInVillage = 1
 
 #Recruit Equipment Config:
 [Equipment]
