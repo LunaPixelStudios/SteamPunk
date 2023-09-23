@@ -1,0 +1,18 @@
+#
+###Version, do not change!##
+#Range: > 0
+Version = 3
+
+#Workers Config:
+[Workers]
+	#
+	#----Should Workers Make Villager Huh? sound?----
+	#	(takes effect after restart)
+	#	default: true
+	PlayVillagerAmbientSound = true
+	#
+	#----Should Workers look like Villagers?----
+	#	(takes effect after restart)
+	#	default: true
+	WorkersLookLikeVillagers = false
+
