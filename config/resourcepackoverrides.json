@@ -8,6 +8,8 @@
     "file/Vanilla Advancement.zip",
     "file/Some Mobs Icons 1.5.zip",
     "file/EclecticTrove-noconfig-1.19-1.2.0.zip",
+    "create_central_kitchen:create_styled",
+    "file/Aether Regenerated v1.1.2.zip",
     "file/Create Computers 1.2.zip",
     "file/Lopy-Create-Sophisticated-Backpacks.zip",
     "file/Create Immersive Aircrafts Resource Pack 1.19.2 - 1.2.zip",
@@ -58,6 +60,21 @@
       "hidden": true
     },
     "supplementaries:darker_ropes": {
+      "hidden": true
+    },
+    "builtin/aether_125_art": {
+      "hidden": true
+    },
+    "builtin/aether_b173_art": {
+      "hidden": true
+    },
+    "builtin/aether_colorblind": {
+      "hidden": true
+    },
+    "builtin/default_ctm_resources": {
+      "hidden": true
+    },
+    "railways:legacy_semaphore": {
       "hidden": true
     }
   }
