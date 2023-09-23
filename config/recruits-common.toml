@@ -1,0 +1,306 @@
+#
+###Version, do not change!##
+#Range: > 0
+Version = 26
+
+#Recruits Config Client Side:
+[RecruitsClientSide]
+	#
+	#----Should Recruits Make Villager "Huh?" sound?----
+	#	(takes effect after restart)
+	#	default: true
+	PlayVillagerAmbientSound = true
+	#
+	#----Should Recruits look like Villagers?----
+	#	(takes effect after restart)
+	#	default: true
+	RecruitsLookLikeVillagers = false
+	#----CommandScreenToggle----
+	#	(takes effect after restart)
+	#	
+	#Should the key to open the command screen be toggled instead of held?""
+	#default: false
+	CommandScreenToggle = false
+
+#Recruits Config:
+[Recruits]
+	#
+	#----Currency----
+	#	(takes effect after restart)
+	#	The Item defined here, will be used to hire recruits. For example: ["minecraft:diamond"]	default: ["minecraft:emerald"]
+	RecruitCurrency = "minecraft:emerald"
+	#
+	#----Max XP a Recruit needs to Level Up.----
+	#	(takes effect after restart)
+	#	default: 250
+	#Range: 50 ~ 10000
+	RecruitsMaxXpForLevelUp = 250
+	#----The max. Level a recruit can get.-----
+	#	(takes effect after restart)
+	#	default: 20
+	#Range: 10 ~ 9999
+	RecruitsMaxXpLevel = 20
+	#
+	#----Distance Recruits will start to follow its owner----
+	#	(takes effect after restart)
+	#	default: 20.0
+	#Range: 0.0 ~ 100.0
+	RecruitFollowStartDistance = 20.0
+	#----Max amount a player can recruit----
+	#	(takes effect after restart)
+	#	default: 64
+	#Range: 1 ~ 1280
+	MaxRecruitsForPlayer = 64
+	#----Target Blacklist----
+	#	(takes effect after restart)
+	#	Entities in this list won't be targeted at all, for example: ["minecraft:creeper", "minecraft:sheep"]
+	TargetBlackList = ["minecraft:creeper", "minecraft:ghast"]
+	#----Mount Whitelist----
+	#	(takes effect after restart)
+	#	ONLY Entities in this list can be mounted by a recruit, for example: ["minecraft:boat", "smallships:cog"]
+	MountWhitelist = ["minecraft:horse", "minecraft:llama", "minecraft:pig", "minecraft:boat", "minecraft:minecart", "smallships:cog", "smallships:brigg", "smallships:galley", "camels:camel"]
+	#
+	#The amount of currency required to hire a recruit.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	RecruitCost = 4
+	#
+	#The amount of currency required to hire a bowman.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	BowmanCost = 6
+	#
+	#The amount of currency required to hire a crossbowman.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	CrossbowmanCost = 8
+	#
+	#The amount of currency required to hire a shieldman.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	ShieldmanCost = 10
+	#
+	#The amount of currency required to hire a horseman.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	HorsemanCost = 20
+	#
+	#The amount of currency required to hire a nomad.
+	#	(takes effect after restart)
+	#	default: 15
+	#Range: 0 ~ 999
+	NomadCost = 19
+	#----RecruitHorseUnitsHorse----
+	#	(takes effect after restart)
+	#	
+	#Should the Horse units spawn with a horse?""
+	#default: true
+	RecruitHorseUnitsHorse = true
+
+#Recruit Village Config:
+[Villages]
+	#
+	#----Should Villager Recruits that were created with Tables release the POI for other Villagers?----
+	#----True -> allows multiple villagers to become a recruit with one table.----
+	#----False -> only one villager can become a recruit with one table.----
+	#	(takes effect after restart)
+	#	default: true
+	RecruitTablesPOIReleasing = false
+	#
+	#----Should Recruits instead of Iron Golems spawn in Villages ----
+	#	(takes effect after restart)
+	#	default: true
+	OverrideIronGolemSpawn = true
+	#
+	#Max Recruits in a Village Chunk to Spawn
+	#	(takes effect after restart)
+	#	default: 1
+	#Range: 1 ~ 10
+	MaxSpawnRecruitsInVillage = 2
+
+#Recruit Equipment Config:
+[Equipment]
+	#
+	#----Start armor ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned recruits in this order: ["head", "chest", "legs", "feet"]
+	#	For example: ["minecraft:leather_helmet", "minecraft:leather_chestplate", "minecraft:leather_leggings", "minecraft:leather_boots"]
+	StartArmorList = []
+	#
+	#----Recruit start hand equipment ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned recruit, in this following order: ["main-hand", "off-hand"]
+	RecruitStartHandEquipment = ["minecraft:wooden_sword", ""]
+	#
+	#----Shieldman start hand equipment ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned shieldman, in this following order: ["main-hand", "off-hand" ]
+	ShieldmanStartHandEquipment = ["minecraft:wooden_axe", "minecraft:shield"]
+	#
+	#----Bowman start hand equipment ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned bowman, in this following order: ["main-hand", "off-hand" ]
+	BowmanStartHandEquipment = ["minecraft:bow", ""]
+	#
+	#----Crossbowman start hand equipment ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned crossbowman, in this following order: ["main-hand", "off-hand" ]
+	CrossbowmanStartHandEquipment = ["minecraft:crossbow", ""]
+	#
+	#----Horseman start hand equipment ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned shieldman, in this following order: ["main-hand", "off-hand" ]
+	HorsemanHandEquipment = ["minecraft:stone_sword", "minecraft:shield"]
+	#
+	#----Nomad start hand equipment ----
+	#	(takes effect after restart)
+	#	Items in this list will be equipped to a new spawned nomad, in this following order: ["main-hand", "off-hand" ]
+	NomadHandEquipment = ["minecraft:bow", ""]
+
+#Monster and Pillager Config:
+[Hostiles]
+	#
+	#----Should Pillagers do friendly fire ----
+	#	(takes effect after restart)
+	#	default: true
+	PillagerFriendlyFire = true
+	#
+	#----Should Pillagers spawn naturally ----
+	#	(takes effect after restart)
+	#	default: false
+	PillagerSpawn = true
+	#
+	#----Should Pillagers attack Monsters----
+	#	(takes effect after restart)
+	#	default: false
+	PillagerAttackMonsters = true
+	#
+	#----Should Monsters attack Pillagers----
+	#	(takes effect after restart)
+	#	default: false
+	MonstersAttackPillagers = true
+	#
+	#----Should Pillagers attack all Living----
+	#	(takes effect after restart)
+	#	default: false
+	ShouldPillagersRaidNaturally = false
+	#
+	#----Should Pillagers have increased Combat Range, so they can shoot from far away----
+	#	(takes effect after restart)
+	#	default: false
+	PillagerIncreasedCombatRange = false
+	#
+	#----Should Vindicators can spawn with shield and sword and AI to use these----
+	#	(takes effect after restart)
+	#	default: false
+	VindicatorSpawnItems = false
+	#
+	#----Should Pillagers can spawn with shield and sword and AI to use these----
+	#	(takes effect after restart)
+	#	default: true
+	PillagerSpawnItems = true
+
+#Block Event Config:
+[BlockEvents]
+	#
+	#----Should Aggressive Recruits attack enemy players that are placing or breaking blocks immediately?----
+	#	(takes effect after restart)
+	#	default: true
+	AggroRecruitsBlockPlaceBreakEvents = true
+	#
+	#----Should Neutral Recruits attack enemy players that are placing or breaking blocks immediately?----
+	#	(takes effect after restart)
+	#	default: true
+	NeutralRecruitsBlockPlaceBreakEvents = true
+	#
+	#----Should Aggressive Recruits attack enemy players that are interacting with blocks immediately?----
+	#	(takes effect after restart)
+	#	default: true
+	AggroRecruitsBlockInteractingEvents = true
+	#
+	#----Should Neutral Recruits attack enemy players that are interacting with blocks immediately?----
+	#	(takes effect after restart)
+	#	default: true
+	NeutralRecruitsBlockInteractingEvents = true
+
+#Recruit Patrols Config:
+[Patrols]
+	#
+	#----Should Recruits spawn as Patrols in the world?----
+	#	(takes effect after restart)
+	#	default: true
+	ShouldRecruitPatrolsSpawn = false
+	#
+	#----Chance that a Recruit Patrol can spawn. (higher values = higher chance to spawn)----
+	#	(takes effect after restart)
+	#	default: 15.0
+	#Range: 0.0 ~ 100.0
+	RecruitPatrolsSpawnChance = 0.0
+	#
+	#The interval in minutes a Recruit Patrol and Caravan can spawn.
+	#	(takes effect after restart)
+	#	default: 30
+	#Range: 1 ~ 60
+	RecruitPatrolSpawnInterval = 60
+	#
+	#----Should modded Pillager Patrols spawn in the world?----
+	#	(takes effect after restart)
+	#	default: false
+	ShouldPillagerPatrolsSpawn = true
+	#
+	#----Chance that a modded Pillager Patrol can spawn. (higher values = higher chance to spawn)----
+	#	(takes effect after restart)
+	#	default: 25.0
+	#Range: 0.0 ~ 100.0
+	PillagerPatrolsSpawnChance = 50.0
+	#
+	#The interval in minutes a Pillager Patrol can spawn.
+	#	(takes effect after restart)
+	#	default: 45
+	#Range: 1 ~ 60
+	PillagerPatrolSpawnInterval = 60
+
+#General Damage Config:
+[Damage]
+	#----No damage Immunity----
+	#	Should Immunity between hits be disabled?
+	#	(takes effect after restart)
+	#	default: false
+	NoDamageImmunity = false
+	#----List of damagesource that accept immunity ----
+	#	(takes effect after restart)
+	#	Damagesource in this list will apply a immunity of 0.5s to the entity like normal.
+	AcceptedDamagesourceImmunity = ["inFire", "lava", "sweetBerryBush", "cactus", "lightningBolt", "inWall", "hotFloor", "outOfWorld", "drown"]
+
+#Recruit Teams Config:
+[Teams]
+	#----Should recruits stay in the same team after disbanding?----
+	#	(takes effect after restart)
+	#	default: false
+	RecruitsKeepTeamAfterDisband = false
+	#----Should specific vanilla team commands be disabled?----
+	#	(takes effect after restart)
+	#	default: true
+	DisableVanillaTeamCommands = false
+
+	#Global Team Settings
+	[Teams."Global Team Settings"]
+		#
+		#----Should Recruits override following team settings on world start for all teams?----
+		#	(takes effect after restart)
+		#	default: true
+		GlobalTeamSetting = false
+		#----Override Friendly fire true/false for all teams on world start----
+		#	(takes effect after restart)
+		#	default: false
+		GlobalTeamFriendlyFireSetting = false
+		#----Override SeeFriendlyInvisible true/false for all teams on world start----
+		#	(takes effect after restart)
+		#	default: true
+		GlobalTeamSeeFriendlyInvisibleSetting = true
+

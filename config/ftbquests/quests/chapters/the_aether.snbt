@@ -5,7 +5,7 @@
 	group: "5E3CAACB575722D6"
 	icon: "aether:aether_portal_frame"
 	id: "566DC2763E60ED8A"
-	order_index: 2
+	order_index: 10
 	quest_links: [ ]
 	quests: [
 		{
