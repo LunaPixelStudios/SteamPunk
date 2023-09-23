@@ -50,7 +50,7 @@ Version = 26
 	#	(takes effect after restart)
 	#	default: 64
 	#Range: 1 ~ 1280
-	MaxRecruitsForPlayer = 64
+	MaxRecruitsForPlayer = 10
 	#----Target Blacklist----
 	#	(takes effect after restart)
 	#	Entities in this list won't be targeted at all, for example: ["minecraft:creeper", "minecraft:sheep"]
@@ -121,7 +121,7 @@ Version = 26
 	#	(takes effect after restart)
 	#	default: 1
 	#Range: 1 ~ 10
-	MaxSpawnRecruitsInVillage = 1
+	MaxSpawnRecruitsInVillage = 2
 
 #Recruit Equipment Config:
 [Equipment]
@@ -234,13 +234,13 @@ Version = 26
 	#----Should Recruits spawn as Patrols in the world?----
 	#	(takes effect after restart)
 	#	default: true
-	ShouldRecruitPatrolsSpawn = false
+	ShouldRecruitPatrolsSpawn = true
 	#
 	#----Chance that a Recruit Patrol can spawn. (higher values = higher chance to spawn)----
 	#	(takes effect after restart)
 	#	default: 15.0
 	#Range: 0.0 ~ 100.0
-	RecruitPatrolsSpawnChance = 0.0
+	RecruitPatrolsSpawnChance = 10.0
 	#
 	#The interval in minutes a Recruit Patrol and Caravan can spawn.
 	#	(takes effect after restart)
