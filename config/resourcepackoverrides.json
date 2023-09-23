@@ -80,6 +80,30 @@
     },
     "builtin/aether_ctm_fix": {
       "hidden": true
+    },
+    "builtin/alternate_enchanted_grass": {
+      "hidden": true
+    },
+    "builtin/classic_blight": {
+      "hidden": true
+    },
+    "builtin/classic_moas": {
+      "hidden": true
+    },
+    "builtin/menu_panorama": {
+      "hidden": true
+    },
+    "builtin/name_overrides": {
+      "hidden": true
+    },
+    "builtin/ozzified_textures": {
+      "hidden": true
+    },
+    "builtin/redux_nature": {
+      "hidden": true
+    },
+    "builtin/retro_dungeon": {
+      "hidden": true
     }
   }
 }
