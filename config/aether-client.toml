@@ -55,7 +55,7 @@
 	#Sets the maximum delay for the Aether's music manager to use if needing to reset the song delay outside the Aether
 	"Set backup maximum music delay" = 24000
 	#Disables the Aether's internal music manager, if true, this overrides all other audio configs
-	"Disables Aether music manager" = false
+	"Disables Aether music manager" = true
 	#Disables the Aether's menu music in case another mod implements its own, only works if 'Disables Aether music manager' is false
 	"Disables Aether menu music" = false
 	#Disables the menu music on the vanilla world preview menu, only works if 'Disables Aether music manager' is false
@@ -65,5 +65,5 @@
 
 [Miscellaneous]
 	#Disables the Cumulus menu selection screen button on launch
-	"Disable Cumulus button" = false
+	"Disable Cumulus button" = true
 
