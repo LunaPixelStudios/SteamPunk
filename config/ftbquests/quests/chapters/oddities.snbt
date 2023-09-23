@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "oddities"
-	group: "50C9D5775BEB220E"
+	group: ""
 	icon: "minecraft:nether_star"
 	id: "537C6DB0026E6B7D"
 	images: [
@@ -303,7 +303,31 @@
 			image: "ftblibrary:textures/icons/star.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -7.0d
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
 			y: -1.0d
 		}
 		{
@@ -315,7 +339,7 @@
 			image: "ftblibrary:textures/icons/star.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -7.0d
+			x: -9.0d
 			y: 0.0d
 		}
 		{
@@ -327,56 +351,32 @@
 			image: "ftblibrary:textures/icons/star.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -7.0d
-			y: 1.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "ftblibrary:textures/icons/star.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.0d
-			y: 2.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "ftblibrary:textures/icons/star.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.0d
-			y: 3.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "ftblibrary:textures/icons/star.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.0d
-			y: 4.0d
-		}
-		{
-			click: ""
-			corner: false
-			dev: false
-			height: 1.0d
-			hover: [ ]
-			image: "ftblibrary:textures/icons/star.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.0d
+			x: -9.0d
 			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 6.0d
 		}
 		{
 			click: ""
@@ -582,8 +582,140 @@
 			x: 9.0d
 			y: 6.0d
 		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 1.0d
+		}
 	]
-	order_index: 7
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -595,7 +727,7 @@
 				type: "item"
 			}]
 			title: "Craft a &4Bartering Station"
-			x: 2.0d
+			x: -1.5d
 			y: -0.5d
 		}
 		{
@@ -607,7 +739,7 @@
 				type: "item"
 			}]
 			title: "Craft a &3Trading Post"
-			x: 0.5d
+			x: -3.0d
 			y: -0.5d
 		}
 		{
@@ -619,7 +751,7 @@
 				type: "item"
 			}]
 			title: "Craft a &2Kiln"
-			x: -1.0d
+			x: -4.5d
 			y: -0.5d
 		}
 		{
@@ -631,38 +763,8 @@
 				type: "item"
 			}]
 			title: "Craft a&1 Sawmill"
-			x: -2.5d
+			x: -6.0d
 			y: -0.5d
-		}
-		{
-			id: "74C48F69F0A35A85"
-			subtitle: "Armor for your pet &fWolves&r. Shift right click your tamed wolf with armor in hand to equip."
-			tasks: [{
-				id: "6BA9E9BF188D874E"
-				item: "revampedwolf:iron_wolf_armor"
-				type: "item"
-			}]
-			title: "Craft &lIron Wolf Armor"
-			x: 0.5d
-			y: 3.0d
-		}
-		{
-			id: "7CFF3B559D789D6E"
-			subtitle: "Used to rotate blocks by right clicking. Shift right click to rotate direction. Left and Shift Left click to rotate entities like &earmorstands&r and &eitem frames&r."
-			tasks: [{
-				id: "364054A106006ED9"
-				item: {
-					Count: 1b
-					id: "supplementaries:wrench"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			title: "Craft a &6Wrench"
-			x: 2.0d
-			y: 3.0d
 		}
 		{
 			id: "370C7BBFD6825460"
@@ -673,7 +775,7 @@
 				type: "item"
 			}]
 			title: "Craft a &5Cage"
-			x: -5.5d
+			x: -6.0d
 			y: 4.5d
 		}
 		{
@@ -685,8 +787,8 @@
 				type: "item"
 			}]
 			title: "Craft a &7Safe"
-			x: -5.5d
-			y: 3.0d
+			x: -7.5d
+			y: 4.5d
 		}
 		{
 			id: "30F40E4353F528FB"
@@ -917,7 +1019,7 @@
 				type: "item"
 			}]
 			title: "Craft &athe Transmuation Table"
-			x: -1.0d
+			x: -1.5d
 			y: 4.5d
 		}
 		{
@@ -935,7 +1037,7 @@
 				type: "item"
 			}]
 			title: "Craft &bthe Endolocator"
-			x: -2.5d
+			x: -3.0d
 			y: 4.5d
 		}
 		{
@@ -953,7 +1055,7 @@
 				type: "item"
 			}]
 			title: "Craft &3the Strange Fish Finder"
-			x: -4.0d
+			x: -4.5d
 			y: 4.5d
 		}
 		{
@@ -971,20 +1073,7 @@
 				type: "item"
 			}]
 			title: "Craft&5 the Straddleboard"
-			x: 0.5d
-			y: 4.5d
-		}
-		{
-			id: "56E06F4923CA8199"
-			subtitle: "When using 8 &dMimicream&r around a damageable item it creates an almost exact copy at 0 durability."
-			tasks: [{
-				count: 8L
-				id: "00895D657201E8A3"
-				item: "alexsmobs:mimicream"
-				type: "item"
-			}]
-			title: "Obtain 8 &dMimicream"
-			x: 2.0d
+			x: 0.0d
 			y: 4.5d
 		}
 		{
@@ -1000,8 +1089,8 @@
 				type: "item"
 			}]
 			title: "Craft a &aNature's Compass"
-			x: -1.0d
-			y: 3.0d
+			x: 1.5d
+			y: 4.5d
 		}
 		{
 			id: "009EC4156DE356FD"
@@ -1012,7 +1101,7 @@
 				type: "item"
 			}]
 			title: "Craft a &6Tempad"
-			x: -4.0d
+			x: -6.0d
 			y: 1.0d
 		}
 		{
@@ -1024,7 +1113,7 @@
 				type: "item"
 			}]
 			title: "Craft a &5Disenchanter"
-			x: -5.5d
+			x: -4.5d
 			y: 1.0d
 		}
 		{
@@ -1036,7 +1125,7 @@
 				type: "item"
 			}]
 			title: "Craft a &cBackpack"
-			x: -5.5d
+			x: -7.5d
 			y: -0.5d
 		}
 		{
@@ -1048,8 +1137,8 @@
 				type: "item"
 			}]
 			title: "Craft a &6Workbench"
-			x: -4.0d
-			y: -0.5d
+			x: -7.5d
+			y: 1.0d
 		}
 		{
 			id: "0B18C0484CD23A54"
@@ -1060,7 +1149,7 @@
 				type: "item"
 			}]
 			title: "Craft a &eStorage Terminal"
-			x: 0.5d
+			x: -1.5d
 			y: 1.0d
 		}
 		{
@@ -1072,7 +1161,7 @@
 				type: "item"
 			}]
 			title: "Craft a &aVending Machine"
-			x: 2.0d
+			x: 0.0d
 			y: 1.0d
 		}
 		{
@@ -1085,7 +1174,7 @@
 				type: "item"
 			}]
 			title: "Craft a &6Wireless Terminal"
-			x: -1.0d
+			x: -3.0d
 			y: 1.0d
 		}
 		{
@@ -1097,8 +1186,8 @@
 				type: "item"
 			}]
 			title: "Craft a &6Delivery Table"
-			x: -2.5d
-			y: 3.0d
+			x: 1.5d
+			y: -0.5d
 		}
 		{
 			description: [
@@ -1117,8 +1206,8 @@
 				type: "item"
 			}]
 			title: "Craft a &7Monobank"
-			x: -4.0d
-			y: 3.0d
+			x: 0.0d
+			y: -0.5d
 		}
 		{
 			id: "6214B22DFC054284"
@@ -1128,8 +1217,85 @@
 				type: "item"
 			}]
 			title: "Craft a &9Animatronic"
-			x: -2.5d
+			x: 1.5d
 			y: 1.0d
+		}
+		{
+			id: "4B5754AC57713F11"
+			tasks: [{
+				id: "345A468470191105"
+				item: "chipped:botanist_workbench"
+				type: "item"
+			}]
+			title: "Craft a &aBotanist Workbench"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "3ADC11C6BA771C86"
+			tasks: [{
+				id: "541D412DCDA8DDAF"
+				item: "chipped:glassblower"
+				type: "item"
+			}]
+			title: "Craft a &7Glassblower"
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "6179E94A73B07392"
+			tasks: [{
+				id: "7C26A79A5BB7569A"
+				item: "chipped:carpenters_table"
+				type: "item"
+			}]
+			title: "Craft a &6Carpenters Table"
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			id: "024E47494F783376"
+			tasks: [{
+				id: "0A61CDFCD13EBC7B"
+				item: "chipped:mason_table"
+				type: "item"
+			}]
+			title: "Craft a &8Mason Table"
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "7726BC988874A1C3"
+			tasks: [{
+				id: "7221E5F4A7A6735D"
+				item: "chipped:loom_table"
+				type: "item"
+			}]
+			title: "Craft a &9Loom Table"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "3BFC6E6A9A3343D3"
+			tasks: [{
+				id: "46F0FAC9CACC454E"
+				item: "chipped:alchemy_bench"
+				type: "item"
+			}]
+			title: "Craft a &cAlchemy Bench"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "146B3B3D49F0E898"
+			tasks: [{
+				id: "1F73600E706F3567"
+				item: "chipped:tinkering_table"
+				type: "item"
+			}]
+			title: "Craft a &4Tinkering Table"
+			x: -1.5d
+			y: 3.0d
 		}
 	]
 	title: " &fCuriosities&f"
