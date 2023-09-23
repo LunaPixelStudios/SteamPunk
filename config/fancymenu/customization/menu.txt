@@ -95,6 +95,14 @@ customization {
 }
 
 customization {
+  identifier = %id=374330%
+  orientation = top-right
+  x = -25
+  action = movebutton
+  y = 5
+}
+
+customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
@@ -123,10 +131,7 @@ customization {
 }
 
 customization {
-  identifier = %id=374330%
-  orientation = top-right
-  x = -25
-  action = movebutton
-  y = 5
+  identifier = %id=374282%
+  action = hidebutton
 }
 
