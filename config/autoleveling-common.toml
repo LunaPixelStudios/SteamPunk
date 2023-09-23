@@ -3,7 +3,7 @@
 	blacklist = []
 	whitelist = []
 	always_show_level = false
-	show_level_when_looking_at = true
+	show_level_when_looking_at = false
 	exp_bonus_per_level = 0.1
 	hidden_levels = []
 
