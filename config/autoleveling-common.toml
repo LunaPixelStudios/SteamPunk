@@ -14,6 +14,6 @@
 	starting_level = 1
 	max_level = 100
 	levels_per_distance = 0.001
-	levels_per_deepness = 0.003
+	levels_per_deepness = 0.001
 	random_level_bonus = 0
 
