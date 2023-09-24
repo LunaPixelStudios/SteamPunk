@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "oddities"
-	group: ""
+	group: "50C9D5775BEB220E"
 	icon: "minecraft:nether_star"
 	id: "537C6DB0026E6B7D"
 	images: [
@@ -715,7 +715,7 @@
 			y: 1.0d
 		}
 	]
-	order_index: 0
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
