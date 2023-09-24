@@ -203,7 +203,7 @@ Version = 26
 	#----Should Pillagers can spawn with shield and sword and AI to use these----
 	#	(takes effect after restart)
 	#	default: true
-	PillagerSpawnItems = true
+	PillagerSpawnItems = false
 
 #Block Event Config:
 [BlockEvents]
