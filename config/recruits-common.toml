@@ -115,7 +115,7 @@ Version = 26
 	#----Should Recruits instead of Iron Golems spawn in Villages ----
 	#	(takes effect after restart)
 	#	default: true
-	OverrideIronGolemSpawn = true
+	OverrideIronGolemSpawn = false
 	#
 	#Max Recruits in a Village Chunk to Spawn
 	#	(takes effect after restart)
@@ -173,7 +173,7 @@ Version = 26
 	#----Should Pillagers spawn naturally ----
 	#	(takes effect after restart)
 	#	default: false
-	PillagerSpawn = true
+	PillagerSpawn = false
 	#
 	#----Should Pillagers attack Monsters----
 	#	(takes effect after restart)
@@ -234,7 +234,7 @@ Version = 26
 	#----Should Recruits spawn as Patrols in the world?----
 	#	(takes effect after restart)
 	#	default: true
-	ShouldRecruitPatrolsSpawn = true
+	ShouldRecruitPatrolsSpawn = false
 	#
 	#----Chance that a Recruit Patrol can spawn. (higher values = higher chance to spawn)----
 	#	(takes effect after restart)
@@ -251,7 +251,7 @@ Version = 26
 	#----Should modded Pillager Patrols spawn in the world?----
 	#	(takes effect after restart)
 	#	default: false
-	ShouldPillagerPatrolsSpawn = true
+	ShouldPillagerPatrolsSpawn = false
 	#
 	#----Chance that a modded Pillager Patrol can spawn. (higher values = higher chance to spawn)----
 	#	(takes effect after restart)
