@@ -104,6 +104,12 @@
     },
     "builtin/retro_dungeon": {
       "hidden": true
+    },
+    "builtin/expansion_textures": {
+      "hidden": true
+    },
+    "builtin/ancient_vaults": {
+      "hidden": true
     }
   }
 }
