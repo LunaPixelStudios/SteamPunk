@@ -159,9 +159,6 @@ com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerS
 net.minecraft.client.gui.screens.OptionsScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 net.minecraft.client.gui.screens.ShareToLanScreen {
 }
 
@@ -169,5 +166,8 @@ com.tom.cpm.client.GuiImpl {
 }
 
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 
