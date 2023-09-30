@@ -256,9 +256,9 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "292F96FE29614DFD"
+					id: "5AF9D66CA14C1C7D"
 					table_id: 2645938118790146101L
-					type: "choice"
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -324,9 +324,9 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "366543F0308F56FF"
+					id: "4383AA60FE8D5A22"
 					table_id: 2645938118790146101L
-					type: "choice"
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -417,9 +417,9 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "5A294F2A686142C6"
+					id: "603976E048250DBE"
 					table_id: 2645938118790146101L
-					type: "choice"
+					type: "loot"
 				}
 			]
 			tasks: [
@@ -496,9 +496,9 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "17EA1CD5AFA7FF93"
+					id: "7F30FA2A862CE2DC"
 					table_id: 2645938118790146101L
-					type: "choice"
+					type: "loot"
 				}
 			]
 			tasks: [

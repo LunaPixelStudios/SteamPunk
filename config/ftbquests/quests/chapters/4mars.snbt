@@ -301,9 +301,9 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "1C252F1873F6272D"
+					id: "49C582A43B140C45"
 					table_id: 2645938118790146101L
-					type: "choice"
+					type: "loot"
 				}
 			]
 			tasks: [{
