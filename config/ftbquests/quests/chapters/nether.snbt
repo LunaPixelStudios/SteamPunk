@@ -606,8 +606,8 @@
 			dependencies: ["0C99225A8ED5ECC8"]
 			id: "1538759577E83248"
 			rewards: [{
-				id: "6778DB1753A7EFF6"
-				item: "knight_quest:kq_lava_stave"
+				id: "03A014E496A14FD6"
+				item: "minecraft:music_disc_pigstep"
 				type: "item"
 			}]
 			shape: "square"
