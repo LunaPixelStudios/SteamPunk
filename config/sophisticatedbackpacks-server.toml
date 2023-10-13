@@ -276,13 +276,13 @@
 		inputFilterSlots = 8
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
-		inputFilterSlotsInRow = 4
+		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 20
 		fuelFilterSlots = 4
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 6
-		fuelFilterSlotsInRow = 4
+		fuelFilterSlotsInRow = 1
 
 	#Auto-Smoking Upgrade Settings
 	[server.autoSmokingUpgrade]
@@ -297,13 +297,13 @@
 		inputFilterSlots = 8
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
-		inputFilterSlotsInRow = 4
+		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 20
 		fuelFilterSlots = 4
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 6
-		fuelFilterSlotsInRow = 4
+		fuelFilterSlotsInRow = 1
 
 	#Auto-Blasting Upgrade Settings
 	[server.autoBlastingUpgrade]
@@ -318,13 +318,13 @@
 		inputFilterSlots = 8
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
-		inputFilterSlotsInRow = 4
+		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 20
 		fuelFilterSlots = 4
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 6
-		fuelFilterSlotsInRow = 4
+		fuelFilterSlotsInRow = 1
 
 	#Inception Upgrade Settings
 	[server.inceptionUpgrade]
