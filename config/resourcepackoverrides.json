@@ -10,6 +10,7 @@
     "file/EclecticTrove-noconfig-1.19-1.2.0.zip",
     "create_central_kitchen:create_styled",
     "file/Aether Regenerated v1.1.2.zip",
+    "file/CU - 3d Wrench.zip",
     "file/Created  Updated v0.1.zip",
     "file/Create Computers 1.2.zip",
     "file/Lopy-Create-Sophisticated-Backpacks.zip",
@@ -24,6 +25,7 @@
     "file/Create_Guns_Scorched_1.19.2-1.19.3.zip",
     "file/Create+Guns+1.19.zip",
     "file/LootrChestRetexture_v1.1_1.19.zip",
+    "file/3D Tea.zip",
     "file/3D Tankards.zip",
     "file/Faithless UI's [Cosmetic Armor] [1.0].zip",
     "file/.Faithless.zip",
@@ -109,6 +111,9 @@
       "hidden": true
     },
     "builtin/ancient_vaults": {
+      "hidden": true
+    },
+    "builtin/overrides_pack": {
       "hidden": true
     }
   }
