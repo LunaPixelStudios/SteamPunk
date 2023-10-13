@@ -32,55 +32,55 @@
 			dependencies: ["73FB8C0CF7262695"]
 			id: "0B792F32805E25E6"
 			shape: "gear"
-			size: 1.2d
+			size: 1.5d
 			subtitle: "Slow and &4Fuel Hungry &rbut carries an Entire &6Storage."
 			tasks: [{
 				id: "0128601F130E2C6B"
 				item: "immersive_aircraft:cargo_airship"
 				type: "item"
 			}]
-			x: -5.3999999999999995d
-			y: -6.6d
+			x: 16.5d
+			y: -12.0d
 		}
 		{
 			id: "73FB8C0CF7262695"
 			shape: "gear"
-			size: 1.2d
+			size: 1.5d
 			subtitle: "&bSlower,&r but with two seats. Quite easy to maneuver, with acceptable speed thanks to &4the engine in the back."
 			tasks: [{
 				id: "7377BD771B58CBBD"
 				item: "immersive_aircraft:airship"
 				type: "item"
 			}]
-			x: -5.3999999999999995d
-			y: -8.4d
+			x: 4.5d
+			y: -12.0d
 		}
 		{
 			dependencies: ["13E54F5D1D25BA79"]
 			id: "6BAC925CA246151F"
 			shape: "gear"
-			size: 1.2d
+			size: 1.5d
 			subtitle: "Let's start with the &cclassic biplane&r. Fast, one seat, medium difficulty."
 			tasks: [{
 				id: "2444096200486DDF"
 				item: "immersive_aircraft:biplane"
 				type: "item"
 			}]
-			x: -5.3999999999999995d
-			y: -5.3999999999999995d
+			x: 16.5d
+			y: 0.0d
 		}
 		{
 			id: "13E54F5D1D25BA79"
 			shape: "gear"
-			size: 1.2d
+			size: 1.5d
 			subtitle: "&4Human-powered &rprimitive dual seater. Trusty, yet neither the fastest nor the easiest to fly. Needs a good initial push to get the rotor spinning."
 			tasks: [{
 				id: "758C4EDDE49C908F"
 				item: "immersive_aircraft:gyrodyne"
 				type: "item"
 			}]
-			x: -5.3999999999999995d
-			y: -3.5999999999999996d
+			x: 4.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2F30AC0C19E6B1CD"]
@@ -323,12 +323,12 @@
 			}]
 			subtitle: "Ammo Type:&4 Fletchette Round"
 			tasks: [{
-				id: "53AFD60E34586368"
+				id: "578D53719640FB7E"
 				item: {
 					Count: 1b
 					id: "scguns:flechette_jet"
 					tag: {
-						AmmoCount: 5
+						AmmoCount: 7
 					}
 				}
 				type: "item"
@@ -944,12 +944,12 @@
 			}]
 			subtitle: "Ammo Type: &4Scorched Bullet"
 			tasks: [{
-				id: "456C9F13CADE1529"
+				id: "34685A9DB88B37F0"
 				item: {
 					Count: 1b
 					id: "scguns:soul_drummer"
 					tag: {
-						AmmoCount: 44
+						AmmoCount: 32
 					}
 				}
 				type: "item"
@@ -997,6 +997,7 @@
 			description: ["You can repair with right click with iron ingot."]
 			id: "446A99E6981929A7"
 			shape: "gear"
+			size: 1.5d
 			subtitle: "Knocks out enemies with its pistons."
 			tasks: [{
 				id: "64119E635797D90B"
@@ -1004,8 +1005,8 @@
 				type: "item"
 			}]
 			title: "&cPiston &fArmor"
-			x: 5.5d
-			y: -8.5d
+			x: 16.5d
+			y: -10.5d
 		}
 		{
 			description: [
@@ -1017,6 +1018,7 @@
 			]
 			id: "0B8728E11D55532B"
 			shape: "gear"
+			size: 1.5d
 			subtitle: "Use the power of netherrack fire to set enemies on fire."
 			tasks: [{
 				id: "47F2FDBAEF7B4291"
@@ -1024,8 +1026,8 @@
 				type: "item"
 			}]
 			title: "&6Fire &fArmor"
-			x: 5.5d
-			y: -3.5d
+			x: 16.5d
+			y: -1.5d
 		}
 		{
 			dependencies: [
@@ -1035,6 +1037,7 @@
 			description: ["You can repair with right click with gold ingot."]
 			id: "028A0E921A1536A4"
 			shape: "gear"
+			size: 1.5d
 			subtitle: "Similar to Fire Armor, unleash soulfire using the fire power of Nether soul sand."
 			tasks: [{
 				id: "349732541431BEF6"
@@ -1042,8 +1045,679 @@
 				type: "item"
 			}]
 			title: "&bSoul Fire &fArmor"
-			x: 5.5d
+			x: 16.5d
 			y: -6.0d
+		}
+		{
+			description: ["Damaged towers can be repaired in maintenance station, consuming iron, gold or copper ingots, depending on the type of core."]
+			id: "24AD46FD774D5F3B"
+			subtitle: "To Repair Defenses"
+			tasks: [{
+				id: "3C29898A293D55A9"
+				item: "silence_s_defense_tower:maintenance_station0"
+				title: "Craft a &aMaintanence Station"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -9.5d
+		}
+		{
+			description: ["At the trading post you can exchange diamonds or gold ingots for coins, which are randomly drawn, and all props can be raffled. Some props are so powerful that the probability of them being won through a lottery is around 2%. A few props can also be acquired by trading with the villagers."]
+			id: "30CED79932DCEB5E"
+			subtitle: "To Randomly Draw Items"
+			tasks: [{
+				id: "33D3E65204C2FC44"
+				item: "silence_s_defense_tower:trading_post0"
+				title: "Craft a &6Trading Post"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			description: ["In order to make more powerful defensive towers, you need to make more advanced cores in the \"Core Upgrade Desk\", which usually costs kills. "]
+			id: "562FD879508B18A2"
+			subtitle: "To Upgrade Cores"
+			tasks: [{
+				id: "728A3E8C136726F3"
+				item: "silence_s_defense_tower:core_upgrade_desk"
+				title: "Craft a &9Core Upgrade Desk"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "531C2CECE4AE3827"
+			tasks: [{
+				id: "5C7EEC377636DDD0"
+				item: "silence_s_defense_tower:driving_core_2"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "4B36250A490A3B3F"
+			tasks: [{
+				id: "7CFA51A192A8926B"
+				item: "silence_s_defense_tower:acid_core_2"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "51CF1C5C09A73599"
+			tasks: [{
+				id: "285887A76E098413"
+				item: "silence_s_defense_tower:hell_core_2"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "061F05586FFE6853"
+			tasks: [{
+				id: "7ACE66C6A5F25F47"
+				item: "silence_s_defense_tower:driving_core_1"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "0EF63E7548A0D9E2"
+			tasks: [{
+				id: "40E6581316173783"
+				item: "silence_s_defense_tower:acid_core_1"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "73E63B99E63AD130"
+			tasks: [{
+				id: "0DF8D39DDEBA6338"
+				item: "silence_s_defense_tower:hell_core_1"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["061F05586FFE6853"]
+			id: "758370964E1824C3"
+			tasks: [{
+				id: "5FA6D9A2653F9B8F"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:cannon_level1_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["061F05586FFE6853"]
+			id: "63D2B87FFA30FC34"
+			tasks: [{
+				id: "4C7CAD8C30F82422"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:arrow_tower_leavl1_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0EF63E7548A0D9E2"]
+			id: "7D9B5CA133B9538D"
+			tasks: [{
+				id: "027B0128CF4A3CE6"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:dart_launcher_level1_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["0EF63E7548A0D9E2"]
+			id: "0F048DCFC7F07383"
+			tasks: [{
+				id: "2F5975065E25C7D2"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:acid_eater_level1_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["73E63B99E63AD130"]
+			id: "5861671A5D333773"
+			tasks: [{
+				id: "65C425A7E56BFCF0"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:hellraiser_level_1_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "02A5F73F6756217F"
+			tasks: [{
+				id: "1C145A08119C75D3"
+				item: "silence_s_defense_tower:driving_core_3"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "4A5C063D549FB11B"
+			tasks: [{
+				id: "6A3A6634114192AE"
+				item: "silence_s_defense_tower:acid_core_3"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "1BB2993E8CE33388"
+			tasks: [{
+				id: "13A0DA5D01F67E01"
+				item: "silence_s_defense_tower:hell_core_3"
+				type: "item"
+			}]
+			x: 13.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "51A2685C5F2CF5B9"
+			tasks: [{
+				id: "05F00A929508E493"
+				item: "silence_s_defense_tower:driving_core_4"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["562FD879508B18A2"]
+			id: "456C872DDAE4010C"
+			tasks: [{
+				id: "107C0F0F2D6CCBDE"
+				item: "silence_s_defense_tower:hell_core_4"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4B36250A490A3B3F"]
+			id: "07DB1E82AA8166B0"
+			tasks: [{
+				id: "4321CEE7B3CF434A"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:cannon_level2_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["531C2CECE4AE3827"]
+			id: "0D820150B9416061"
+			tasks: [{
+				id: "08045A9CCDC75A03"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:arrow_tower_leavl2_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["531C2CECE4AE3827"]
+			id: "00C236224C2BB1A6"
+			tasks: [{
+				id: "44110ACCAB90F252"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:dart_launcher_level2_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["531C2CECE4AE3827"]
+			id: "0790116713550BDD"
+			tasks: [{
+				id: "11BA473A84FEB0A0"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:acid_eater_level2_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["02A5F73F6756217F"]
+			id: "308CAA15E38F4909"
+			tasks: [{
+				id: "3AD474A78CA944F6"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:heavy_crossbow_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["51CF1C5C09A73599"]
+			id: "16A1D0D509BF1A48"
+			tasks: [{
+				id: "70F32C255817E2B6"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:hellraiser_level_2_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["531C2CECE4AE3827"]
+			id: "58AF5EE2FA1AED60"
+			tasks: [{
+				id: "3114767F7C80AD90"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:ice_cannon_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["1BB2993E8CE33388"]
+			id: "7AEF2F560A9F50A1"
+			tasks: [{
+				id: "2F597460FA4F900B"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:hellraiser_level_3_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4A5C063D549FB11B"]
+			id: "0889860DDF5347EA"
+			tasks: [{
+				id: "2FA5AA8F9AF37A0E"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:acid_eater_level3_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["02A5F73F6756217F"]
+			id: "27D26120B2D8F04A"
+			tasks: [{
+				id: "5166CAA012F9AE12"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:sentry_gun_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["1BB2993E8CE33388"]
+			id: "4A3AA24FF9D2EDFD"
+			tasks: [{
+				id: "1F0BC16A591DFC9C"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:sticky_bomb_battery_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["456C872DDAE4010C"]
+			id: "74EAA9BB7ADBE838"
+			tasks: [{
+				id: "57292D94FA968151"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:hellraiser_level_4_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02A5F73F6756217F"]
+			id: "0DDA511FC78C534D"
+			tasks: [{
+				id: "0790DC2C0FE05405"
+				item: "silence_s_defense_tower:tesla_electric_tower"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02A5F73F6756217F"]
+			id: "269F8F681FDF3D33"
+			tasks: [{
+				id: "0F372CA0F5E1315E"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:giant_dart_launcher_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "1642DC18FA1DA672"
+			tasks: [{
+				id: "14536FEA26472BAC"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:firework_launcher_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4A5C063D549FB11B"]
+			id: "7E38A34ECEF7B013"
+			tasks: [{
+				id: "21111977ACB0CAB3"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:miniature_electromagnetic_gun_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["061F05586FFE6853"]
+			id: "6280516688988CF4"
+			tasks: [{
+				id: "1EE8B1C70890DF39"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:dart_launcher_level1_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02A5F73F6756217F"]
+			id: "0FA5EDABB6DC9DC2"
+			tasks: [{
+				id: "54649F2A5A4014EA"
+				item: "silence_s_defense_tower:type_c_robot_barracks"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "625489244291E43F"
+			tasks: [{
+				id: "6B0FFC3D6DF6F848"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:black_hole_generator_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "672B1B42AE7FCA76"
+			tasks: [{
+				id: "3458E3AF8F0CEDD1"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:electromagnetic_railgun_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "6DED695EACA03352"
+			tasks: [{
+				id: "52C255068CD98E26"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:electromagnetic_gun_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "459A4A638E5BAAA1"
+			tasks: [{
+				id: "0B9E1197BE8B6EBF"
+				item: {
+					Count: 1b
+					id: "silence_s_defense_tower:ball_lightning_gennerator_p"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "46992518435C1653"
+			tasks: [{
+				id: "36A0ED89C1DD49B8"
+				item: "silence_s_defense_tower:type_s_robot_barracks"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51A2685C5F2CF5B9"]
+			id: "2FEB0D1DD54E123D"
+			tasks: [{
+				id: "1D6FA322F84B4E8C"
+				item: "silence_s_defense_tower:type_a_robot_barracks"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			id: "3F3B6CB2A19E4E69"
+			tasks: [{
+				id: "34F7FEE18A5A5BD3"
+				item: "silence_s_defense_tower:power_chip_1"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			id: "6022BA093D5C8EE6"
+			tasks: [{
+				id: "35FB43B859A66B14"
+				item: "silence_s_defense_tower:tactical_chip_1"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["3F3B6CB2A19E4E69"]
+			id: "102C1C1AFE9DA5E8"
+			tasks: [{
+				id: "5C1A2E3F4D1E3173"
+				item: "silence_s_defense_tower:power_chip_2"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6022BA093D5C8EE6"]
+			id: "2B4A6913E3C4741F"
+			tasks: [{
+				id: "65EB9EF46C63836C"
+				item: "silence_s_defense_tower:tactical_chip_2"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -10.5d
 		}
 	]
 	title: " &cWeapons &8\\& &6Vehicles"

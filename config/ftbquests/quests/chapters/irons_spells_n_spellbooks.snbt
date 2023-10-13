@@ -503,11 +503,11 @@
 				type: "random"
 			}]
 			tasks: [{
-				id: "08559358C73C9D45"
-				item: "irons_spellbooks:poison_rune"
+				id: "4E4A7A84F888B67D"
+				item: "irons_spellbooks:nature_rune"
 				type: "item"
 			}]
-			title: "Craft a&b Poison Rune"
+			title: "Craft a&b Nature Rune"
 			x: -3.0d
 			y: 4.0d
 		}
