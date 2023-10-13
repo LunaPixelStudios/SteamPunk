@@ -1392,13 +1392,13 @@
 				table_id: 2645938118790146101L
 				type: "random"
 			}]
-			subtitle: "When used for Upgrade: &4+3% Poison Spell Power"
+			subtitle: "When used for Upgrade: &4+3% Nature Spell Power"
 			tasks: [{
-				id: "3A8FF12F49FE29EC"
-				item: "irons_spellbooks:poison_upgrade_orb"
+				id: "3AD588AC34CBE61F"
+				item: "irons_spellbooks:nature_upgrade_orb"
 				type: "item"
 			}]
-			title: "Craft a&b Poison Upgrade Orb"
+			title: "Craft a&b Nature Upgrade Orb"
 			x: 6.5d
 			y: -0.5d
 		}
