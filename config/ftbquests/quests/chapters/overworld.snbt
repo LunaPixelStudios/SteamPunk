@@ -891,8 +891,8 @@
 			dependencies: ["14BF01C8F4D853AE"]
 			id: "5366FCF06C88C5F2"
 			rewards: [{
-				id: "21332B456942DF3B"
-				item: "ironchests:blank_chest_upgrade"
+				id: "39983A1E0C056EE8"
+				item: "sophisticatedstorage:basic_tier_upgrade"
 				type: "item"
 			}]
 			subtitle: "The &fIron Chests&r mod allows you to upgrade how much your chests can fit."
@@ -903,24 +903,6 @@
 			}]
 			title: "Craft a &6Chest"
 			x: 8.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["5366FCF06C88C5F2"]
-			id: "7889CBB94E013FA9"
-			rewards: [{
-				id: "5330DE884A44F11E"
-				item: "ironchests:lock"
-				type: "item"
-			}]
-			subtitle: "Chests can be upgraded all the way up to &8Obsidian&r tier. "
-			tasks: [{
-				id: "75D5D052E74C7EC6"
-				item: "ironchests:copper_chest_upgrade"
-				type: "item"
-			}]
-			title: "Craft a &6Chest Upgrade"
-			x: 10.0d
 			y: -1.5d
 		}
 		{
@@ -1760,6 +1742,31 @@
 			}]
 			x: 16.0d
 			y: 3.5d
+		}
+		{
+			dependencies: ["5366FCF06C88C5F2"]
+			id: "6709540FF9CFE6A0"
+			rewards: [{
+				id: "08C106937C9FAC49"
+				item: {
+					Count: 1b
+					id: "sophisticatedstorage:iron_chest"
+					tag: {
+						accentColor: 1908001
+						mainColor: 1908001
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "With the &ebackpack&r you can place it in your world, color in different &ccolor combinations&r, upgrade with more inventory and enhance with many &afunctional upgrades&r."
+			tasks: [{
+				id: "2F0B6BB4FCE4981F"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			title: "Craft a &cBackpack"
+			x: 10.0d
+			y: -1.5d
 		}
 	]
 	title: " &aOverworld"
