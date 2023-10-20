@@ -335,7 +335,7 @@
 	[server.compactingUpgrade]
 		#Number of Compacting Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -344,7 +344,7 @@
 	[server.advancedCompactingUpgrade]
 		#Number of Advanced Compacting Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -353,7 +353,7 @@
 	[server.depositUpgrade]
 		#Number of Deposit Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -362,7 +362,7 @@
 	[server.advancedDepositUpgrade]
 		#Number of Advanced Deposit Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -371,7 +371,7 @@
 	[server.feedingUpgrade]
 		#Number of Feeding Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -380,7 +380,7 @@
 	[server.advancedFeedingUpgrade]
 		#Number of Advanced Feeding Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -389,7 +389,7 @@
 	[server.filterUpgrade]
 		#Number of Filter Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -398,7 +398,7 @@
 	[server.advancedFilterUpgrade]
 		#Number of Advanced Filter Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -407,7 +407,7 @@
 	[server.magnetUpgrade]
 		#Number of Magnet Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -419,7 +419,7 @@
 	[server.advancedMagnetUpgrade]
 		#Number of Advanced Magnet Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -431,7 +431,7 @@
 	[server.pickupUpgrade]
 		#Number of Pickup Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -440,7 +440,7 @@
 	[server.advancedPickupUpgrade]
 		#Number of Advanced Pickup Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -449,7 +449,7 @@
 	[server.voidUpgrade]
 		#Number of Void Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 3
+		filterSlots = 1
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 1
@@ -460,7 +460,7 @@
 	[server.advancedVoidUpgrade]
 		#Number of Advanced Void Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 6
+		filterSlots = 2
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
 		slotsInRow = 2
@@ -504,13 +504,13 @@
 		fuelEfficiencyMultiplier = 1.0
 		#Number of input filter slots
 		#Range: 1 ~ 20
-		inputFilterSlots = 8
+		inputFilterSlots = 2
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
 		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 20
-		fuelFilterSlots = 4
+		fuelFilterSlots = 1
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 6
 		fuelFilterSlotsInRow = 1
@@ -525,13 +525,13 @@
 		fuelEfficiencyMultiplier = 1.0
 		#Number of input filter slots
 		#Range: 1 ~ 20
-		inputFilterSlots = 8
+		inputFilterSlots = 2
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
 		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 20
-		fuelFilterSlots = 4
+		fuelFilterSlots = 1
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 6
 		fuelFilterSlotsInRow = 1
@@ -546,13 +546,13 @@
 		fuelEfficiencyMultiplier = 1.0
 		#Number of input filter slots
 		#Range: 1 ~ 20
-		inputFilterSlots = 8
+		inputFilterSlots = 2
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 6
 		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 20
-		fuelFilterSlots = 4
+		fuelFilterSlots = 1
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 6
 		fuelFilterSlotsInRow = 1
