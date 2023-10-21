@@ -1079,9 +1079,8 @@
 			id: "562FD879508B18A2"
 			subtitle: "To Upgrade Cores"
 			tasks: [{
-				id: "728A3E8C136726F3"
-				item: "silence_s_defense_tower:core_upgrade_desk"
-				title: "Craft a &9Core Upgrade Desk"
+				id: "27F658936E87DDEA"
+				item: "silence_s_defense_tower:core_upgrade_table"
 				type: "item"
 			}]
 			x: 10.5d
@@ -1174,10 +1173,10 @@
 			dependencies: ["061F05586FFE6853"]
 			id: "63D2B87FFA30FC34"
 			tasks: [{
-				id: "4C7CAD8C30F82422"
+				id: "4C9F7B8D3DD9C5A5"
 				item: {
 					Count: 1b
-					id: "silence_s_defense_tower:arrow_tower_leavl1_p"
+					id: "silence_s_defense_tower:arrow_turret_leavl1_p"
 					tag: {
 						Damage: 0
 					}
