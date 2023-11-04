@@ -1,7 +1,7 @@
 #
 ###Version, do not change!##
 #Range: > 0
-Version = 26
+Version = 27
 
 #Recruits Config Client Side:
 [RecruitsClientSide]
@@ -14,7 +14,7 @@ Version = 26
 	#----Should Recruits look like Villagers?----
 	#	(takes effect after restart)
 	#	default: true
-	RecruitsLookLikeVillagers = false
+	RecruitsLookLikeVillagers = true
 	#----CommandScreenToggle----
 	#	(takes effect after restart)
 	#	
@@ -50,7 +50,7 @@ Version = 26
 	#	(takes effect after restart)
 	#	default: 64
 	#Range: 1 ~ 1280
-	MaxRecruitsForPlayer = 10
+	MaxRecruitsForPlayer = 64
 	#----Target Blacklist----
 	#	(takes effect after restart)
 	#	Entities in this list won't be targeted at all, for example: ["minecraft:creeper", "minecraft:sheep"]
@@ -101,6 +101,12 @@ Version = 26
 	#Should the Horse units spawn with a horse?""
 	#default: true
 	RecruitHorseUnitsHorse = true
+	#----RangedRecruitsNeedArrowsToShoot----
+	#	(takes effect after restart)
+	#	
+	#Should ranged recruits units need arrows to shoot?""
+	#default: false
+	RangedRecruitsNeedArrowsToShoot = false
 
 #Recruit Village Config:
 [Villages]
@@ -110,18 +116,18 @@ Version = 26
 	#----False -> only one villager can become a recruit with one table.----
 	#	(takes effect after restart)
 	#	default: true
-	RecruitTablesPOIReleasing = false
+	RecruitTablesPOIReleasing = true
 	#
 	#----Should Recruits instead of Iron Golems spawn in Villages ----
 	#	(takes effect after restart)
 	#	default: true
-	OverrideIronGolemSpawn = false
+	OverrideIronGolemSpawn = true
 	#
 	#Max Recruits in a Village Chunk to Spawn
 	#	(takes effect after restart)
 	#	default: 1
 	#Range: 1 ~ 10
-	MaxSpawnRecruitsInVillage = 2
+	MaxSpawnRecruitsInVillage = 1
 
 #Recruit Equipment Config:
 [Equipment]
@@ -178,12 +184,12 @@ Version = 26
 	#----Should Pillagers attack Monsters----
 	#	(takes effect after restart)
 	#	default: false
-	PillagerAttackMonsters = true
+	PillagerAttackMonsters = false
 	#
 	#----Should Monsters attack Pillagers----
 	#	(takes effect after restart)
 	#	default: false
-	MonstersAttackPillagers = true
+	MonstersAttackPillagers = false
 	#
 	#----Should Pillagers attack all Living----
 	#	(takes effect after restart)
@@ -234,19 +240,19 @@ Version = 26
 	#----Should Recruits spawn as Patrols in the world?----
 	#	(takes effect after restart)
 	#	default: true
-	ShouldRecruitPatrolsSpawn = false
+	ShouldRecruitPatrolsSpawn = true
 	#
 	#----Chance that a Recruit Patrol can spawn. (higher values = higher chance to spawn)----
 	#	(takes effect after restart)
 	#	default: 15.0
 	#Range: 0.0 ~ 100.0
-	RecruitPatrolsSpawnChance = 10.0
+	RecruitPatrolsSpawnChance = 15.0
 	#
 	#The interval in minutes a Recruit Patrol and Caravan can spawn.
 	#	(takes effect after restart)
 	#	default: 30
 	#Range: 1 ~ 60
-	RecruitPatrolSpawnInterval = 60
+	RecruitPatrolSpawnInterval = 30
 	#
 	#----Should modded Pillager Patrols spawn in the world?----
 	#	(takes effect after restart)
@@ -257,13 +263,13 @@ Version = 26
 	#	(takes effect after restart)
 	#	default: 25.0
 	#Range: 0.0 ~ 100.0
-	PillagerPatrolsSpawnChance = 50.0
+	PillagerPatrolsSpawnChance = 25.0
 	#
 	#The interval in minutes a Pillager Patrol can spawn.
 	#	(takes effect after restart)
 	#	default: 45
 	#Range: 1 ~ 60
-	PillagerPatrolSpawnInterval = 60
+	PillagerPatrolSpawnInterval = 45
 
 #General Damage Config:
 [Damage]
