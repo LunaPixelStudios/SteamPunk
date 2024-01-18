@@ -1719,7 +1719,6 @@
 				type: "item"
 			}]
 			shape: "circle"
-			subtitle: "Right click an empty &6blaze spawner&r on a &6Blaze&r. &6Blaze Burners&r are used for heating and super-heating &9Basins&r when doing mixing recipes. They can also be used as a heat source for boilers used to power &3Steam Engines&r. &bVery important tool to make &cBrass&r."
 			tasks: [
 				{
 					count: 8L

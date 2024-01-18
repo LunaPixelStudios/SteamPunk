@@ -895,10 +895,17 @@
 				item: "sophisticatedstorage:basic_tier_upgrade"
 				type: "item"
 			}]
-			subtitle: "The &fIron Chests&r mod allows you to upgrade how much your chests can fit."
+			subtitle: "The &fSophisticated Storage&r mod allows you to upgrade how much your chests can fit."
 			tasks: [{
 				id: "36E974C125F393A9"
-				item: "minecraft:chest"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:chests/wooden"
+					}
+				}
+				title: "Any #forge:chests/wooden"
 				type: "item"
 			}]
 			title: "Craft a &6Chest"
@@ -1760,7 +1767,7 @@
 			}]
 			subtitle: "With the &ebackpack&r you can place it in your world, color in different &ccolor combinations&r, upgrade with more inventory and enhance with many &afunctional upgrades&r."
 			tasks: [{
-				id: "2F0B6BB4FCE4981F"
+				id: "18C89A3D8C003F4A"
 				item: "sophisticatedbackpacks:backpack"
 				type: "item"
 			}]
