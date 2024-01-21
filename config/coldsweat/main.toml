@@ -20,10 +20,10 @@ Difficulty = 0
 ["Details about how the player is affected by temperature"]
 	#Defines the minimum habitable temperature
 	#Range: -Infinity ~ Infinity
-	"Minimum Habitable Temperature" = 0.19047619047619047
+	"Minimum Habitable Temperature" = 0.21428571428877552
 	#Defines the maximum habitable temperature
 	#Range: -Infinity ~ Infinity
-	"Maximum Habitable Temperature" = 2.0952380952380953
+	"Maximum Habitable Temperature" = 1.7142857143102042
 	#Rate at which the player's body temperature changes (default: 1.0 (100%))
 	#Range: 0.0 ~ Infinity
 	"Rate Multiplier" = 0.5
