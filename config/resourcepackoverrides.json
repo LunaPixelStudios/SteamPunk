@@ -44,9 +44,6 @@
     "Everycomp Generated Pack": {
       "hidden": true
     },
-    "blue_skies:legacy_pack": {
-      "hidden": true
-    },
     "builtin/builtin_resource_packs/legacy_dead_king_resource_pack": {
       "hidden": true
     },
@@ -56,22 +53,7 @@
     "create:legacy_copper": {
       "hidden": true
     },
-    "file/Quark Programmer Art.zip": {
-      "hidden": true
-    },
-    "programer_art": {
-      "hidden": true
-    },
     "supplementaries:darker_ropes": {
-      "hidden": true
-    },
-    "builtin/aether_125_art": {
-      "hidden": true
-    },
-    "builtin/aether_b173_art": {
-      "hidden": true
-    },
-    "builtin/aether_colorblind": {
       "hidden": true
     },
     "builtin/default_ctm_resources": {
