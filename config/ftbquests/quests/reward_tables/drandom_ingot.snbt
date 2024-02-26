@@ -9,10 +9,10 @@
 		{ count: 3, item: "forbidden_arcanus:obsidian_ingot", weight: 6.0f }
 		{ count: 2, item: "blue_skies:horizonite_ingot", weight: 6.0f }
 		{ count: 2, item: "undead_unleashed:grave_metal_ingot", weight: 5.0f }
-		{ item: "iter_rpg:forest_ingot", title: "1x Forest Ingot", weight: 4.0f }
-		{ item: "iter_rpg:ocean_ingot", title: "1x Ocean Ingot", weight: 4.0f }
-		{ item: "iter_rpg:sky_ingot", title: "1x Sky Ingot", weight: 4.0f }
-		{ item: "iter_rpg:hell_ingot", title: "1x Hell Ingot", weight: 4.0f }
+		{ item: "iter_rpg:earth_ingot", title: "1x Earth Ingot", weight: 4.0f }
+		{ item: "iter_rpg:water_ingot", title: "1x Water Ingot", weight: 4.0f }
+		{ item: "iter_rpg:air_ingot", title: "1x Air Ingot", weight: 4.0f }
+		{ item: "iter_rpg:fire_ingot", title: "1x Fire Ingot", weight: 4.0f }
 		{ item: "minecraft:diamond", title: "&r1x Diamond", weight: 4.0f }
 		{ item: "forbidden_arcanus:deorum_ingot", title: "1x Deorum Ingot", weight: 4.0f }
 		{ item: "minecraft:netherite_ingot", title: "&r1x Netherite Ingot" }
