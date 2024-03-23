@@ -1,0 +1,12 @@
+{
+	id: "288EFD1DF3E0A7B7"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "environmental:pink_wisteria_sapling" }
+		{ item: "environmental:blue_wisteria_sapling" }
+		{ item: "environmental:purple_wisteria_sapling" }
+		{ item: "environmental:white_wisteria_sapling" }
+	]
+	title: "Wisteria"
+}
