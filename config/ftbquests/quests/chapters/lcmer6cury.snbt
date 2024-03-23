@@ -1,0 +1,526 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lcmer6cury"
+	group: "5E3CAACB575722D6"
+	icon: "ad_astra:mercury_globe"
+	id: "429F6931FD1BBEC8"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1BC05BC4CB8194CD"
+			rewards: [{
+				count: 10
+				id: "4D504388B65B564D"
+				item: "ad_astra:ostrum_ingot"
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				dimension: "ad_astra:mercury"
+				icon: "ad_astra:mercury_globe"
+				id: "0B5E1EF752BCAF55"
+				title: "Mercury"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BC05BC4CB8194CD"]
+			icon: "minecraft:spyglass"
+			id: "3B0F6DD3124D3C74"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60336BA36DD58E10"
+				table_id: 28026836370523306L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "67C98EA620CE3913"
+				title: "Exploration"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "4C5CB0653BB64856"
+			rewards: [
+				{
+					id: "531332C3B6EBDB5E"
+					item: "ad_astra:energizer"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0BCC1777519A4AA3"
+					item: "create:water_wheel"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "631E95FC210DF6EF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "672086B3079DA117"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2ED99B5A932EF993"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "508C94D46B01E05F"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				count: 20L
+				id: "58F498CAEB7D8AA9"
+				item: "ad_astra:solar_panel"
+				title: "Build the Best based &eSolar Power Station"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BC05BC4CB8194CD"]
+			id: "59C345E86D73A566"
+			rewards: [
+				{
+					id: "01BCF0F2B0582744"
+					item: "ad_astra:solar_panel"
+					type: "item"
+				}
+				{
+					id: "6DEEE038B910C10D"
+					item: "create:steam_engine"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "26A7709690441120"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				icon: "minecraft:magma_cube_spawn_egg"
+				id: "222DEE9EC3AFF7F9"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Defeat &4Magma Cubes"
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BC05BC4CB8194CD"]
+			id: "6E3B8F7F080FA226"
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "4A36A82FBE78FE94"
+				title: "Build the Best Space Sation"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "571A17110121FB84"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "433FB2C5B02807BE"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6AE8F6B655F19CA3"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D56DB661ABE0678"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "597EFEA9960D5126"
+				item: "ad_astra:oxygen_loader"
+				type: "item"
+			}]
+			title: "Craft an &bOxygen Loader"
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "5D18309D2D29B509"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A0B511521CDD82B"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16B7F63379D97FE4"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4AA4493CDCA75C26"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "03B860EA4D4621F1"
+				item: "ad_astra:oxygen_distributor"
+				type: "item"
+			}]
+			title: "Craft an &aOxygen Distributor"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "3B29E193A75FF7BF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E28D504F7ED00AA"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0474A5B885E5249F"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A70060BDC16247F"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "73C1FDF479D7B5DE"
+				item: "ad_astra:oxygen_sensor"
+				type: "item"
+			}]
+			title: "Craft an &cOxygen Sensor"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "7A974B08522DBE35"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1792A95454D6AFA6"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2CDEFFE4E9C16AF0"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F4E05570557C163"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "715BF609FDDC80A6"
+				item: "ad_astra:cryo_freezer"
+				type: "item"
+			}]
+			title: "Craft a &2Freezer"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "188CB5B27553E8DB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "754E8D32198C7E8F"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CFBC888ADEA451D"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2E8B44A25CB777B2"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3E816DB8A0F0E863"
+				item: "ad_astra:energizer"
+				type: "item"
+			}]
+			title: "Craft an &bEnerigzer"
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			icon: "ad_astra:calorite_sliding_door"
+			id: "08F578157D8DE2A6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0912441642AB39F4"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "58662B4AF4E7977F"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "112A77FEF7D4BA8F"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "7D449FF5944A0094"
+				item: "ad_astra:calorite_sliding_door"
+				type: "item"
+			}]
+			title: "Craft a &cCalorite Sliding Door"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "63F235BDA72FC7CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "12648A86539F5B5E"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E83988A42E838AF"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C9BF5CB6B71482B"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "210B997455B590E5"
+				item: {
+					Count: 1b
+					id: "ad_astra:tier_1_rover"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a&e Rover"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6E3B8F7F080FA226"]
+			id: "62007F92C2495C7C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "538F4D4FFAE71033"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "366FA8475B11D857"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "35C4C9ABA62D7505"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4764E660B6482179"
+				item: "ad_astra:water_pump"
+				type: "item"
+			}]
+			title: "Craft a &bWater Pump"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0EE7CE64F64F80BC"]
+			id: "5795EF7DC5E0DDE8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A21E16C9C997EA2"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "62FDF8F19541542D"
+				item: "ad_astra:desh_plate"
+				type: "item"
+			}]
+			title: "Obtain Desh Plate"
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0EE7CE64F64F80BC"]
+			id: "2951923CC04FCA71"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5DB3DEA141A67A71"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "373D80EC2F82E72C"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			title: "Obtain Desh Ingot"
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0EE7CE64F64F80BC"]
+			id: "403792692406A1E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "264802EA6646BC05"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "0A6F06C2E08E9B37"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			title: "Obtain Steel Ingot"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0EE7CE64F64F80BC"]
+			id: "5A3B5578079E9999"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4080FCA16BA96DDE"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 64L
+				id: "305232BEDAD2FE1F"
+				item: "ad_astra:iron_plate"
+				type: "item"
+			}]
+			title: "Obtain Iron Plate"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1BC05BC4CB8194CD"]
+			description: [
+				"- A &aSpace Station&r is a pre-built structure that is created in the planet selection screen, provided you have the necessary materials. Space stations are always located in a &bmoon or planet's orbit&r and provide the ability to place blocks in that orbit dimension.&r"
+				""
+				"- Space stations are designed to be expanded upon, allowing you to build the base of your dreams over a &bmoon/planet&r. They always spawn in whatever position you launched your&r."
+				"rocket at, so remember the coordinates to avoid losing the structure.&r"
+			]
+			icon: "ad_astra:steel_block"
+			id: "0EE7CE64F64F80BC"
+			rewards: [
+				{
+					id: "20B0B2B3B21628FD"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "77219AB49EE63616"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				id: "54C257BE624C6BA6"
+				title: "Collect Different Steel Blocks"
+				type: "checkmark"
+			}]
+			title: "&lSpace Station Mission"
+			x: 0.0d
+			y: -2.5d
+		}
+	]
+	title: " &cMER&6CURY"
+}

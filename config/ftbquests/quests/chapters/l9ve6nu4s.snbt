@@ -1,0 +1,726 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l9ve6nu4s"
+	group: "5E3CAACB575722D6"
+	icon: "ad_astra:venus_globe"
+	id: "45AFAE5FE9971A23"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "70AE098030DF5056"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "55D8D0A7CAE006DB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "118E926DD30C8206"
+					item: "create:fluid_tank"
+					type: "item"
+				}
+				{
+					id: "0D876E1B61A2C3A9"
+					item: "ad_astra:oxygen_bucket"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				dimension: "ad_astra:venus"
+				icon: "ad_astra:venus_globe"
+				id: "2D88F1B67FC7EC12"
+				title: "Venus"
+				type: "dimension"
+			}]
+			title: "Venus"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70AE098030DF5056"]
+			icon: "ad_astra:calorite_ingot"
+			id: "47EB7BF98327B066"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "644B0E1A96F79109"
+				table_id: 2645938118790146101L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "&dCalorite&r is used to craft the &eultimate rocket&r capable of travelling to a new solar system and more!&r"
+			tasks: [{
+				id: "0110A74C34F82B21"
+				item: "ad_astra:calorite_ingot"
+				type: "item"
+			}]
+			title: "Obtain &4Calorite "
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70AE098030DF5056"]
+			icon: "minecraft:spyglass"
+			id: "5B0168CD4BE1EC5A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D2A8D2C46496229"
+				table_id: 28026836370523306L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "756C543904B4721D"
+				title: "Exploration"
+				type: "checkmark"
+			}]
+			title: "Exploration"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5B0168CD4BE1EC5A"]
+			id: "7B5CD4D7812029DA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03CADD69F697A4B0"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				icon: "ad_astra:venus_pillar"
+				id: "55D7470C407CAC3F"
+				structure: "ad_astra:venus_bullet"
+				type: "structure"
+			}]
+			title: "Find &eVenus Bullet"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5B0168CD4BE1EC5A"]
+			id: "17F2CA88C69C6741"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E64FB8C181873F2"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "ad_astra:sulfur_creeper"
+				icon: "ad_astra:sulfur_creeper_spawn_egg"
+				id: "5E181EB611C176C6"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Defeat &4Sulfur Creeper"
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5B0168CD4BE1EC5A"]
+			id: "37BBF0B42F81E47C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6512F8DFC8E7FB48"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "ad_astra:pygro"
+				icon: "ad_astra:pygro_spawn_egg"
+				id: "6520C121C68D2A2D"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Defeat &4Pygro"
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5B0168CD4BE1EC5A"]
+			id: "0E0D30C53F1853AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B2665C0CC97595D"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "ad_astra:mogler"
+				icon: "ad_astra:mogler_spawn_egg"
+				id: "1616AF6D13F9FE81"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Defeat &4Mogler"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["47EB7BF98327B066"]
+			description: [
+				"- The &bJet Suit&r is an upgraded version of the &cNetherite Space Suit&r, with more protection, additional oxygen storage, and &eflight&r. It's expensive to craft, but it offers high-speed flight, making travel easy.&r"
+				""
+				"- It's got two modes of flight: ascending (&aSpace&r) and boosted (&aSpace + Left&r). Ascending makes the wearer fly upwards, while boosted is similar to an elytra that's constantly being propelled by fireworks. The &bJet Suit&r is powered by energy and must be charged to fly. It can be charged with an&r"
+				"&benergizer&r by right-clicking it with the &bjet suit&r.&r"
+			]
+			id: "2EC5D59686B97A9F"
+			rewards: [
+				{
+					count: 6
+					id: "55835F216C868D09"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "74E7F77992A82248"
+					item: "ad_astra:cheese"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3646BEAAB361DCF1"
+					item: "ad_astra:calorite_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "Click!"
+			tasks: [
+				{
+					id: "29C82905199F8FC8"
+					item: {
+						Count: 1b
+						id: "ad_astra:jet_suit_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "644D71D73E5152F0"
+					item: {
+						Count: 1b
+						id: "ad_astra:jet_suit"
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B67B744B3EE792A"
+					item: {
+						Count: 1b
+						id: "ad_astra:jet_suit_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79C7891BFF20EA3C"
+					item: {
+						Count: 1b
+						id: "ad_astra:jet_suit_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft a &4Jet Suit"
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["69D702D8D75FD64E"]
+			id: "7F3BF7178A79417F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6CD59A7C65EDF008"
+					table_id: 28026836370523306L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5AF9D66CA14C1C7D"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "52B0BBE770E66549"
+				item: "ad_astra:calorite_sliding_door"
+				title: "Craft a &4Calorite Sliding Door"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2EC5D59686B97A9F"
+				"3FDAC097AB003A3B"
+			]
+			id: "729716B086668879"
+			rewards: [
+				{
+					id: "2778A5AADDC781DE"
+					item: "ad_astra:calorite_block"
+					type: "item"
+				}
+				{
+					count: 15
+					id: "3AA8BC01B363340D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "51DB3B768D4E0D53"
+					item: "ad_astra:calorite_ingot"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "33016A1A150998FA"
+				item: {
+					Count: 1b
+					id: "ad_astra:tier_4_rocket"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				title: "Craft a &5Tier 4 &dRocket"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["69D702D8D75FD64E"]
+			id: "2B74B2A1F1032182"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "118D52D0F86D2E78"
+					table_id: 28026836370523306L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4383AA60FE8D5A22"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "145AE422D3D87D82"
+				item: "ad_astra:solar_panel"
+				title: "Craft a &dSolar Panel"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7858FFA43A47D466"
+				"2EC5D59686B97A9F"
+			]
+			icon: {
+				Count: 1b
+				id: "ad_astra:oxygen_tank"
+				tag: {
+					BotariumData: { }
+				}
+			}
+			id: "788ED2CA8A5DE2DC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A853AE3F551551A"
+				table_id: 28026836370523306L
+				type: "loot"
+			}]
+			subtitle: "Breath AIR!"
+			tasks: [{
+				count: 8L
+				id: "28B1C0389F298FC6"
+				item: {
+					Count: 1b
+					id: "ad_astra:oxygen_tank"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["47EB7BF98327B066"]
+			id: "69D702D8D75FD64E"
+			rewards: [
+				{
+					count: 2
+					id: "5931AEF125050E20"
+					item: {
+						Count: 1b
+						id: "ad_astra:oxygen_tank"
+						tag: {
+							BotariumData: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3628283F9312BF70"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E7045DFF21BA81A"
+				item: "ad_astra:oxygen_distributor"
+				title: "Craft a &bOxygen Distributor"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["47EB7BF98327B066"]
+			id: "33F03957F5BE6E05"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "72A06E5B659C24E0"
+					table_id: 28026836370523306L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "603976E048250DBE"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "2BCB276230EE1931"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:calorite_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "569DF9F216F5A673"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:calorite_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "383654C6D349E0BB"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:calorite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12C3C77B3ECEEAB0"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:calorite_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft &4Calorite Armor Set"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["47EB7BF98327B066"]
+			id: "0CD9C26498F92441"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C2C62B01727B671"
+					table_id: 28026836370523306L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F30FA2A862CE2DC"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "0B5140E09BDB7297"
+					item: {
+						Count: 1b
+						id: "cp_tweaks:calorite_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "191526856DEE1981"
+					item: {
+						Count: 1b
+						id: "cp_tweaks:calorite_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F9838E176336CA7"
+					item: {
+						Count: 1b
+						id: "cp_tweaks:calorite_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F0F2A62976D076C"
+					item: {
+						Count: 1b
+						id: "cp_tweaks:calorite_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft &4Calorite Tools Set"
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3721E52FB204ECDB"]
+			id: "07A3A64375283709"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "295741EBC9EABC2F"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "3E48AA6C19774A8F"
+				item: "ad_astra:desh_plate"
+				type: "item"
+			}]
+			title: "Obtain Desh Plate"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3721E52FB204ECDB"]
+			id: "430816829B1D8C86"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FF71E4B7376F873"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "630A6584943C8E26"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			title: "Obtain Desh Ingot"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3721E52FB204ECDB"]
+			id: "2237EA94AB36E997"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0EE91290C18C8690"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "64FF7E23C8E4AEC0"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			title: "Obtain Steel Ingot"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3721E52FB204ECDB"]
+			id: "4E4D7D6C8464E573"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "149EEB4EC0B765F9"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 64L
+				id: "2375031F195508E3"
+				item: "ad_astra:iron_plate"
+				type: "item"
+			}]
+			title: "Obtain Iron Plate"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["729716B086668879"]
+			description: [
+				"- Once you have found enough &dCalorite&r to craft a &etier four rocket&r, you will be able to leave this solar system and enter a new one. The first planet that you will head to in &dProxima Centauri&r is &aGlacio&r. Glacio is brutally cold;&r"
+				"however, it has &b&oxygen&r, allowing you to survive there without a &dspacesuit&r.&r"
+			]
+			id: "63F4685E77F88E88"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "2BCEC86A95FFE2E7"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "2A2ED1A376BE78E8"
+					item: "ad_astra:calorite_ingot"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3442011FFCBE419A"
+					table_id: 28026836370523306L
+					type: "choice"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Clicl!"
+			tasks: [{
+				dimension: "ad_astra:glacio"
+				icon: "ad_astra:glacio_globe"
+				id: "668D4EE332F272D7"
+				title: "Glacio"
+				type: "dimension"
+			}]
+			title: "Glacio"
+			x: 9.75d
+			y: 0.0d
+		}
+		{
+			id: "3FDAC097AB003A3B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "168B659CCCDABFD8"
+				table_id: 2645938118790146101L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 2L
+				id: "3C238CD8DE877B64"
+				item: "ad_astra:launch_pad"
+				type: "item"
+			}]
+			title: "Craft a &8Launch Pad"
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["70AE098030DF5056"]
+			description: [
+				"- A &aSpace Station&r is a pre-built structure that is created in the planet selection screen, provided you have the necessary materials. Space stations are always located in a moon or planet's orbit and provide the ability to place blocks in that orbit dimension.&r"
+				""
+				"- Space stations are designed to be expanded upon, allowing you to build the base of your dreams over a &bmoon/planet&r. They always spawn in whatever position you launched your&r."
+				"rocket at, so remember the coordinates to &4avoid losing the structure&r."
+			]
+			icon: "ad_astra:steel_block"
+			id: "3721E52FB204ECDB"
+			rewards: [
+				{
+					id: "79E57EB4868AE57F"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "76650E1B08618230"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				id: "218AA583CB40DE32"
+				title: "Collect Different Steel Blocks"
+				type: "checkmark"
+			}]
+			title: "&lSpace Station Mission"
+			x: 0.0d
+			y: -2.5d
+		}
+	]
+	title: " &eVENUS"
+}

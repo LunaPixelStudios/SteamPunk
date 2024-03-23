@@ -1,0 +1,817 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "forbidden__arcanus"
+	group: "50C9D5775BEB220E"
+	icon: "forbidden_arcanus:hephaestus_forge"
+	id: "061DC311BAF3A646"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/block/arcane_polished_darkstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.48d
+			y: -6.02d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.6d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/item/deorum_chain.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/block/arcane_polished_darkstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.54d
+			y: -6.04d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/block/arcane_polished_darkstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.54d
+			y: -1.04d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "forbidden_arcanus:textures/block/arcane_polished_darkstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.48d
+			y: -1.02d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1B9CD783981512F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07675470352A1B94"
+				table_id: 1511897575099731575L
+				type: "choice"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "Used for many &ccrafting recipes&r.&r"
+			tasks: [{
+				id: "7C1B3477C1F0872F"
+				item: "forbidden_arcanus:obsidian_with_iron"
+				title: "Obsidian with Iron"
+				type: "item"
+			}]
+			title: "Craft an &1Obsidian &rwith &fIron"
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1B9CD783981512F5"]
+			id: "1A1F51AF90AD772D"
+			subtitle: "Smelt an &eObsidian&r with &fIron&r.&r"
+			tasks: [{
+				id: "449906D9E5F6E7FC"
+				item: "forbidden_arcanus:obsidian_ingot"
+				type: "item"
+			}]
+			title: "Craft an &1Obsidian Ingot"
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1A1F51AF90AD772D"]
+			id: "140EEC4B1B95C41F"
+			subtitle: "Gives temporary &cfire resistance&r.&r"
+			tasks: [{
+				id: "00F784009784542F"
+				item: "forbidden_arcanus:obsidian_skull"
+				type: "item"
+			}]
+			title: "Craft an &8Obsidian Skull"
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "5CD53D2D51AA5901"
+			subtitle: "Mine Stellarite ore"
+			tasks: [{
+				id: "610E1F24E3CAE6E6"
+				item: "forbidden_arcanus:stellarite_piece"
+				type: "item"
+			}]
+			title: "Be careful..."
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "3677CECD7DDB068E"
+			subtitle: "Semi-common at &elow y levels&r. Can be found as high as &ey 35&r.&r"
+			tasks: [{
+				id: "0D0E304E6B8188E7"
+				item: "forbidden_arcanus:xpetrified_orb"
+				type: "item"
+			}]
+			title: "Mine an Xpetrified Ore"
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5CD53D2D51AA5901"
+				"3677CECD7DDB068E"
+			]
+			id: "4FD999236E643AEB"
+			subtitle: "Can be used in a &bSmithing Table&r to make any &eunenchanted item unbreakable&r.&r"
+			tasks: [{
+				id: "52253D4E2C969592"
+				item: {
+					Count: 1b
+					id: "forbidden_arcanus:eternal_stella"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Craft an &cEternal Stella"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"140EEC4B1B95C41F"
+				"4FD999236E643AEB"
+			]
+			id: "5FCA1E8CFDEB835F"
+			subtitle: "Grants complete immunity from &cfire damage&r.&r"
+			tasks: [{
+				id: "609A3EE6AF5FFD1D"
+				item: "forbidden_arcanus:eternal_obsidian_skull"
+				type: "item"
+			}]
+			title: "Craft an &7Eternal Obsidian Skull"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1A1F51AF90AD772D"]
+			id: "10E9058DD21ECA75"
+			subtitle: "Used to make &bDraco Arcanus&r tools. Can also be used as a &bwand&r.&r"
+			tasks: [{
+				id: "3FCD377CCA7F1D73"
+				item: "forbidden_arcanus:draco_arcanus_staff"
+				type: "item"
+			}]
+			title: "Craft a &2Draco Arcanus Staff"
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"68528E882A581D49"
+				"1A1F51AF90AD772D"
+			]
+			id: "7BAD533207CC5A1F"
+			subtitle: "30 Armor and 12 Armor Toughness in total"
+			tasks: [
+				{
+					id: "07601C9BF6FA1795"
+					item: {
+						Count: 1b
+						id: "forbidden_arcanus:draco_arcanus_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "40F5BFBB8B833EC5"
+					item: {
+						Count: 1b
+						id: "forbidden_arcanus:draco_arcanus_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E1A316F49EF2DF4"
+					item: {
+						Count: 1b
+						id: "forbidden_arcanus:draco_arcanus_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "44FB6696A5F3FA4D"
+					item: {
+						Count: 1b
+						id: "forbidden_arcanus:draco_arcanus_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft a set of &1Draco Arcanus armor"
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2E3E3F0C0D293C3B"]
+			id: "68528E882A581D49"
+			subtitle: "&bCraftable&r. Can also be found in &cend cities&r.&r"
+			tasks: [{
+				id: "62480F95904522AC"
+				item: "forbidden_arcanus:dragon_scale"
+				type: "item"
+			}]
+			title: "Obtain &dDragon Scales"
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"68528E882A581D49"
+				"10E9058DD21ECA75"
+			]
+			id: "2667EA22BD8B0589"
+			subtitle: "A &edecent choice&r for &cearly-late game&r.&r"
+			tasks: [
+				{
+					id: "6450B958E3DF1565"
+					item: "forbidden_arcanus:draco_arcanus_scepter"
+					type: "item"
+				}
+				{
+					id: "0688562738187958"
+					item: {
+						Count: 1b
+						id: "forbidden_arcanus:draco_arcanus_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A1447FFD99725FD"
+					item: {
+						Count: 1b
+						id: "forbidden_arcanus:draco_arcanus_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft all &3Draco Arcanus tools"
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"3E02DA351F569692"
+				"743FBFF76EC6917D"
+			]
+			id: "2E3E3F0C0D293C3B"
+			subtitle: "Used to make &bDragon Scales&r from &bDragon Heads&r.&r"
+			tasks: [{
+				id: "598BDD0983FAC6ED"
+				item: {
+					Count: 1b
+					id: "forbidden_arcanus:mystical_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &cMystical Dagger"
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			id: "3E02DA351F569692"
+			subtitle: "Obtained by mining &bDark Runestone Ore&r, found deep underground.&r"
+			tasks: [{
+				id: "7D2D64BA90A80AB0"
+				item: "forbidden_arcanus:dark_rune"
+				type: "item"
+			}]
+			title: "Obtain a &4Dark Rune"
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"707158C270C7A98F"
+				"1EADC67CFACC1925"
+			]
+			id: "743FBFF76EC6917D"
+			subtitle: "Can be used to craft the &aMystical Dagger&r.&r"
+			tasks: [{
+				id: "736DEC626E8D8E44"
+				item: "forbidden_arcanus:deorum_ingot"
+				type: "item"
+			}]
+			title: "Craft an &cDeorun Ingot"
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			id: "1EADC67CFACC1925"
+			subtitle: "Obtained by smelting &bArcane Crystals&r, found deep underground.&r"
+			tasks: [{
+				id: "23695D34D0DB194E"
+				item: "forbidden_arcanus:arcane_crystal_dust"
+				type: "item"
+			}]
+			title: "Obtain&6 Arcane Crystal Dust"
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			id: "707158C270C7A98F"
+			subtitle: "Used to make Arcane Gold Ingots"
+			tasks: [{
+				id: "55B80077FAD3BE69"
+				item: "forbidden_arcanus:mundabitur_dust"
+				type: "item"
+			}]
+			title: "Craft&a Mundabitur Dust"
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			id: "7B4CF8E764E7AE89"
+			subtitle: "Allows you to pick up &aANY mob&r except the &dEnder Dragon&r and &dWither&r. &bSpawner scraps&r are obtained by breaking spawners without &bSilk Touch&r.&r"
+			tasks: [{
+				id: "01A2DE68AE9D3373"
+				item: "forbidden_arcanus:quantum_catcher"
+				type: "item"
+			}]
+			title: "Craft a &bQuantum Catcher"
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1EADC67CFACC1925"]
+			id: "7CE71D55A626278C"
+			subtitle: "&cCorruption&r is increased by killing &efriendly mobs&r. Every 5 minutes, &cCorruption&r decreases by 1 point. &aBreeding&r or using &fsoap&r will decrease &cCorruption&r. Consequences such as &cnegative potion effects&r, scary sounds, and &cbad weather&r will occur with high &cCorruption&r.&r"
+			tasks: [{
+				id: "4FCB44DD2531EED4"
+				item: "forbidden_arcanus:sanity_meter"
+				type: "item"
+			}]
+			title: "Craft a &5Sanity Meter"
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1EADC67CFACC1925"]
+			id: "4A36A36820CA9955"
+			subtitle: "Obtained by putting &fPurifying Soap&r in water. Decreases &cCorruption&r by 20 points.&r"
+			tasks: [{
+				consume_items: true
+				id: "18BE7BB3085EB81A"
+				item: "forbidden_arcanus:wet_purifying_soap"
+				type: "item"
+			}]
+			title: "Obtain &4Wet Purifying Soap"
+			x: 2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["743FBFF76EC6917D"]
+			id: "190C8BDED9A9D6DF"
+			subtitle: "Allows you to see mobs through walls when used. Has a very large &aradius&r.&r"
+			tasks: [{
+				id: "4B99B81060FFEBBC"
+				item: {
+					Count: 1b
+					id: "forbidden_arcanus:spectral_eye_amulet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Craft a &bSpectral Eye Amulet"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			id: "02FAC812C32D4403"
+			tasks: [{
+				id: "050427C9393B3B8D"
+				item: "forbidden_arcanus:arcane_dragon_egg"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+	]
+	title: " &6Forbidden &8\\& &5Arcanus"
+}

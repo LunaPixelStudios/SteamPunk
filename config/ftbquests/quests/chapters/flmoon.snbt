@@ -1,0 +1,675 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flmoon"
+	group: "5E3CAACB575722D6"
+	icon: "ad_astra:moon_globe"
+	id: "28E6A8001A80E5C5"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["14377841BB0F2875"]
+			icon: "ad_astra:wrench"
+			id: "1E3139AA71FCF1F0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3D8FBF5C6DB4A211"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "5F6F21A2F6033A47"
+					item: "ad_astra:desh_cable"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7B386555F2EB70E7"
+				item: "ad_astra:wrench"
+				title: "Craft a &4Wrench"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["14377841BB0F2875"]
+			dependency_requirement: "one_completed"
+			id: "523818ECB359BE18"
+			rewards: [
+				{
+					id: "2F70152506504FFA"
+					item: "ad_astra:fuel_bucket"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "46BBB45EA8FBDC45"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "007068EED6E89C6E"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+			]
+			subtitle: "The &6rover&r is a land vehicle capable of driving on the rough terrain of &emoons &6and &bplanets&r. It's &aexceptionally fast&r, has an &binventory &6capable of &astoring eight items &6and has &atwo seats &6for &cmultiple riders&r. To use it, fill the rover with &cfuel &6(&eshift-click&r and place &cfuel buckets &6in the &cleft input slot&r).&r"
+			tasks: [{
+				id: "2420E6A9EF34A16A"
+				item: {
+					Count: 1b
+					id: "ad_astra:tier_1_rover"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				title: "Craft a &cRover"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["47DE7E756DA96CD7"]
+			id: "338050AAE5CCDD7C"
+			rewards: [
+				{
+					id: "08449AA092FFE89F"
+					item: "create:steam_engine"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4EE9A7BDF0653D65"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			subtitle: "The &bsolar panel&r is an upgraded version of the &ccoal generator&r, procucing more energy per tick while being &6self-reliant&r. Its power generation depends on the planet's distance from the &csun &6and &bfog&r. Because of this, it is more efficient to place &bsolar panels&r close to the &csun&r. &bsolar panels&r also produce more energy in &borbit&r, as there is no &catmosphere&r blocking the &dlight&r.&r"
+			tasks: [{
+				count: 8L
+				id: "656527BE1FB18DCD"
+				item: "ad_astra:solar_panel"
+				type: "item"
+			}]
+			title: "Craft a &2Solar Panel"
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["722FA069ADAACB56"]
+			id: "174CDBDAA8BE200E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31F53CA82A78D68C"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1b
+					id: "irons_spellbooks:villager_spell_book"
+					tag: {
+						ISB_spellbook: {
+							activeSpellIndex: -1
+							spellSlots: 6
+							spells: [ ]
+						}
+					}
+				}
+				id: "39DADB020A3127DD"
+				structure: "ad_astra:lunarian_village"
+				title: "Find a &cLunarian Vilalge"
+				type: "structure"
+			}]
+			x: -16.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["722FA069ADAACB56"]
+			icon: {
+				Count: 1b
+				id: "enemyexpansion:headbiter_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "02D19CA11B948CDF"
+			rewards: [
+				{
+					count: 3
+					id: "55D5A3E90F1B13CA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5DCAFFF09B1A47AF"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+			]
+			tasks: [{
+				icon: "minecraft:spawner"
+				id: "20770BC2F96F95DE"
+				structure: "ad_astra:moon_dungeon"
+				title: "Find a &dMoon Dungeon"
+				type: "structure"
+			}]
+			x: -16.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["38B848B49635D9C5"]
+			id: "27D13EAC71170A04"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60606EE38F9477B4"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "ad_astra:corrupted_lunarian"
+				id: "0B7112171F4ECC17"
+				type: "kill"
+				value: 25L
+			}]
+			title: "Defeat &4Corrupted Lunarian"
+			x: -21.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["02D19CA11B948CDF"]
+			id: "38B848B49635D9C5"
+			rewards: [
+				{
+					count: 5
+					id: "08E23039B8289012"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5BF193493DE4C35C"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+			]
+			tasks: [{
+				entity: "ad_astra:star_crawler"
+				id: "087ACDEE6DE343BD"
+				type: "kill"
+				value: 25L
+			}]
+			title: "Defeat &4Star Crawler"
+			x: -18.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14377841BB0F2875"]
+			id: "47DE7E756DA96CD7"
+			rewards: [
+				{
+					count: 2
+					id: "2258974518D71AD6"
+					item: {
+						Count: 1b
+						id: "ad_astra:oxygen_tank"
+						tag: {
+							BotariumData: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6732191B9567E2EA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			subtitle: "The &boxygen distributor&r is a powerful machine that distributes &boxygen&r in a sealed room, allowing any &clife&r inside to survive. It works exactly like an &coxygen loader&r, where you insert &bwater&r into the tank, but instead of giving you &boxygen&r, the &boxygen&r is distributed into the &cair&r."
+			tasks: [{
+				id: "5830D54B457E3F31"
+				item: "ad_astra:oxygen_distributor"
+				title: "Craft a &bOxygen Distributor"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["47DE7E756DA96CD7"]
+			id: "1AE0FF203B5DFF9D"
+			rewards: [
+				{
+					id: "59948686D53A8480"
+					item: "create:water_wheel"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4C9FEAD641FBE71B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			subtitle: "The &bwater pump&r is essential for keeping the &boxygen distributor&r running infinitely. To use it, place an &binfinite water source&r below, then place the &bwater pump&r above one of the water blocks, and then place the &boxygen distributor&r adjacent to it. Make sure to supply both the &bwater pump&r and the &boxygen distributor&r with sufficient &cpower&r.&r"
+			tasks: [{
+				id: "023D11EA29EC6BD1"
+				item: "ad_astra:water_pump"
+				title: "Craft a &bWater Pump"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C5636DFD629FD1A"]
+			icon: "minecraft:spyglass"
+			id: "722FA069ADAACB56"
+			rewards: [{
+				count: 2
+				id: "3CE4C8A59D630889"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "50D08E13E1C12010"
+				title: "Exploration"
+				type: "checkmark"
+			}]
+			title: "Exploration"
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			icon: "ad_astra:moon_globe"
+			id: "4C5636DFD629FD1A"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "5D74DF1945F5103F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "3F457EB64A9741EF"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				dimension: "ad_astra:moon"
+				icon: "ad_astra:moon_globe"
+				id: "49A3CFE389CAC7F3"
+				type: "dimension"
+			}]
+			title: "Moon"
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["722FA069ADAACB56"]
+			icon: "immersiveengineering:tesla_coil"
+			id: "15602F8E3C5F34B9"
+			rewards: [
+				{
+					id: "060B692C2FC74316"
+					item: "minecraft:spyglass"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B2E93AEC4AD30B2"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+			]
+			tasks: [{
+				icon: "create_things_and_misc:train_stop"
+				id: "5A9149C836DFD320"
+				structure: "ad_astra:lunar_tower"
+				title: "Find a &eLunar Tower"
+				type: "structure"
+			}]
+			x: -16.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"14377841BB0F2875"
+				"695B9B44EB159059"
+			]
+			id: "3610CFB86C219197"
+			rewards: [
+				{
+					id: "3FD47F04EC810DFF"
+					item: "ad_astra:desh_block"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "02A795AE9DB839F7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "54AA24DC6E16B808"
+				item: {
+					Count: 1b
+					id: "ad_astra:tier_2_rocket"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				title: "Craft a &2Tier 2 &4Rocket"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "2497A5F326FA0B95"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E027A78D1847FDB"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "A &amasterwork&r of &cengineering&r! Four &bpropellers&r strapped on a bunch of &bbamboos&r. It's quite &ehandy&r for &ebuilding&r.&r"
+			tasks: [{
+				id: "104A943175CE388A"
+				item: "immersive_aircraft:quadrocopter"
+				type: "item"
+			}]
+			title: "Craft a &6Quadrocopter"
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3610CFB86C219197"]
+			icon: "ad_astra:mars_globe"
+			id: "326E670F51543705"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "06116D26C659ADEF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "08B0BE4C1A6FDB45"
+					item: "ad_astra:desh_ingot"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Now that you have explored the &emoon&r and worked with &ddesh&r, you want to take it further and go to the &cred planet&r. Building a &ctier two rocket&r capable of travelling to &bMars&r is similar to building the &btier one rocket&r, but with &ddesh materials&r instead of &bsteel&r. Construct the parts, build the rocket in the &bNASA workbench&r, fuel it up, and off you go to &bMars&r!&r"
+			tasks: [{
+				dimension: "ad_astra:mars"
+				icon: "ad_astra:mars_globe"
+				id: "605F5BA9DE3193A1"
+				type: "dimension"
+			}]
+			title: "to &4Mars"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			id: "695B9B44EB159059"
+			tasks: [{
+				count: 2L
+				id: "40D6A38B3F6BBEDF"
+				item: "ad_astra:launch_pad"
+				type: "item"
+			}]
+			title: "Craft a &8Launch Pad"
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4C5636DFD629FD1A"]
+			id: "14377841BB0F2875"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47303F531306BB2D"
+				table_id: 1511897575099731575L
+				type: "loot"
+			}]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "The &dDesh Ingot&r is a crafting component in &bAd Astra&r. It's found in caves on &eThe Moon&r, mainly under Y level 2. Aside from the &cTier 2 Rocket&r, &dDesh&r is also a component in the &cTier 1 Rover&r, as well as the &cOxygen Distributor&r.&r"
+			tasks: [{
+				id: "01E552E7FCA5D4E3"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			title: "Obtain &6Desh"
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["14377841BB0F2875"]
+			id: "46B37D60D2FCF9D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5262B1BDB13DD62E"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "394F178501E6BD1E"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:desh_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1371D3F74F290EF9"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:desh_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1854E2465C2C5E29"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:desh_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F8BB63C4CACEC4C"
+					item: {
+						Count: 1b
+						ForgeCaps: {
+							"cold_sweat:item_insulation": { }
+						}
+						id: "cp_tweaks:desh_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft a &6Desh Armor Set"
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["46B37D60D2FCF9D8"]
+			id: "1C2112FFA9838A6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "282D7EC9B2DB2CB8"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1D39894446165D43"
+				item: {
+					Count: 1b
+					id: "cp_tweaks:desh_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &6Desh Tool Set"
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4C5636DFD629FD1A"]
+			description: [
+				"- A &aspace station&r is a pre-built structure that is created in the planet selection screen, provided you have the necessary &bmaterials&r. &aspace stations&r are always located in a moon or planet's orbit and provide the ability to place blocks in that &borbit dimension&r.&r"
+				""
+				"- &bSpace stations&r are designed to be expanded upon, allowing you to build the &cbase of your dreams&r over a &emoon/planet&r. They always spawn in whatever &eposition&r you launched your&r."
+				"&brocket&r at, so remember the &ccoordinates&r to avoid losing the structure.&r"
+			]
+			icon: "ad_astra:steel_block"
+			id: "56BE24C6C7A04413"
+			rewards: [
+				{
+					id: "019C02193CB8DBD6"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "2A267F261B5B9413"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				id: "016817E15733E645"
+				title: "Collect Different Steel Blocks"
+				type: "checkmark"
+			}]
+			title: "&lSpace Station Mission"
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["56BE24C6C7A04413"]
+			id: "43F9ECF439A0D704"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28AE92FCC21D1DCF"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "249564BEC98FB64E"
+				item: "ad_astra:desh_plate"
+				type: "item"
+			}]
+			title: "Obtain Desh Plate"
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["56BE24C6C7A04413"]
+			id: "66A793A23E99EF10"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E26090912546DF9"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "0C0D4DEB1629C9D7"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			title: "Obtain Desh Ingot"
+			x: -9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56BE24C6C7A04413"]
+			id: "307AE6D3252D50C0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "108F47AE5DEF4385"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "7E089D2B87E5ACE8"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			title: "Obtain Steel Ingot"
+			x: -11.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56BE24C6C7A04413"]
+			id: "029BB4E94233252C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11B1F7258925AA1C"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 64L
+				id: "763D3200391F2A34"
+				item: "ad_astra:iron_plate"
+				type: "item"
+			}]
+			title: "Obtain Iron Plate"
+			x: -12.0d
+			y: 0.5d
+		}
+	]
+	title: " &fMoon"
+}

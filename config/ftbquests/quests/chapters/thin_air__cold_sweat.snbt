@@ -1,0 +1,586 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "thin_air__cold_sweat"
+	group: "39BD55737A7439A2"
+	icon: "cold_sweat:thermometer"
+	id: "6370C852BD4C2AF5"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_front_lit"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_front_lit"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -5.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/icebox_side_frosted"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "cold_sweat:blocks/boiler_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -0.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "30E7C0BD4E574231"
+			rewards: [{
+				id: "0AFD8E0832D46509"
+				item: "minecraft:water_bucket"
+				type: "item"
+			}]
+			subtitle: "You'll need the items above to set this up."
+			tasks: [
+				{
+					id: "3C6F9C2FDC7DE920"
+					item: "create:water_wheel"
+					type: "item"
+				}
+				{
+					id: "663D6C2A4FA02880"
+					item: "create:cogwheel"
+					type: "item"
+				}
+				{
+					id: "1B7EA3424A48C2C7"
+					item: "create:large_cogwheel"
+					type: "item"
+				}
+				{
+					id: "5E8AD6CBB24C660D"
+					item: {
+						Count: 1b
+						id: "create:copper_diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5FFBBC039B99CD38"
+					item: {
+						Count: 1b
+						id: "create:copper_backtank"
+						tag: {
+							Air: 900
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&bBreathe easier"
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			description: ["&bCreate&r provides a handy diving &bhelmet&r and &bscuba tank&r that will also work to keep you alive down in the dark or on top of a mountain. It's a very easy setup and this &cquest line&r will guide you through it.&r"]
+			id: "71D82D0A4E9A6A4C"
+			rewards: [
+				{
+					count: 5
+					id: "0050093F677CC4C5"
+					item: "create:shaft"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2878AF90290957C0"
+					item: "create:andesite_alloy"
+					type: "item"
+				}
+			]
+			subtitle: "Below &cY=0&r and above &cY=128&r, you'll slowly start running out of air. There is a solution however..&r"
+			tasks: [{
+				id: "07A12D7E3ECC1BE1"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"cold_sweat:item_insulation": { }
+					}
+					id: "thinair:respirator"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &7Respirator"
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"30E7C0BD4E574231"
+				"71D82D0A4E9A6A4C"
+			]
+			description: [
+				"1.  Dig a &e3x3 hole&r somewhere and place the &bwaterwheel&r face down in the center.&r"
+				""
+				"2.  Replace one of the &9corner blocks&r and empty your &3water bucket&r against this block. The wheel should start turning (direction doesn't matter).&r"
+				""
+				"3.  Place a &a&lshaft&r in the center of the wheel and place the &e&llarge cog&r on top of that shaft.&r"
+				""
+				"4.  Place the &e&lsmall cog&r against the &e&llarge cog&r. It might take some careful aiming, but you'll see it as a ghost when positioned correctly.&r"
+				""
+				"5.  At this point, everything should be spinning. You can now connect the &ebacktank&r underneath the &esmall cog&r and you'll see it start to suck air in.&r"
+				""
+				"Thats it! The &bTank&r will last you 15 minutes. Can be enchanted with &6Capacity 3&r which allows 30 mins of air.&r"
+			]
+			id: "4FD51239317FE960"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4DE1676C69387CDF"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "The tank can only be charged with a &a&lshaft&r connecting to the top. It doesn't matter which way it rotates.&r"
+			tasks: [{
+				id: "402057F998059E35"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						"cold_sweat:item_insulation": { }
+					}
+					id: "create:copper_backtank"
+					tag: {
+						Air: 900
+					}
+				}
+				type: "item"
+			}]
+			title: "Obtain a &6Copper Backtank"
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			description: ["The front of the block will appear &e&llit&r when valid fuel has been given, similar to a furnace; however, the &c&lBoiler&r only drains fuel if it is actively warming up one or more &e&lWaterskins&r, and will stop once they all reach their maximum temperature of &e&l38 °C&r.&r"]
+			id: "554FC8F643C46697"
+			rewards: [{
+				id: "29BD6231B2B0844D"
+				item: "minecraft:lava_bucket"
+				type: "item"
+			}]
+			subtitle: "The &cBoiler&r is a technical block that is used to heat up &eWaterskins&r. It accepts &fCoal, Charcoal, Coal Blocks, Magma Blocks, and Lava&r as fuel.&r"
+			tasks: [{
+				id: "2639725EE4448B73"
+				item: "cold_sweat:boiler"
+				type: "item"
+			}]
+			title: "Craft a &4Boiler"
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			description: ["When supplied with valid fuel, the &bIcebox&r will emit particles and show icicles forming on its sides. The Icebox only drains fuel if it is actively cooling down one or more &eWaterskins&r, and will stop once they all reach their minimum temperature of &e10 °C&r.&r"]
+			id: "768BD439E3A8384E"
+			rewards: [{
+				id: "689E2CC6ECD2073B"
+				item: "minecraft:water_bucket"
+				type: "item"
+			}]
+			subtitle: "The &bIcebox&r is a technical block that is used to cool down &eWaterskins&r. It accepts &fSnowballs, Snow, Water, Ice, and Packed Ice&r as fuel.&r"
+			tasks: [{
+				id: "4B03690201D70098"
+				item: "cold_sweat:icebox"
+				type: "item"
+			}]
+			title: "Craft a &bIcebox"
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"558BB6BD94C602B3"
+				"3448B23DF9F63302"
+			]
+			description: [
+				"The &dSoulfire Lamp&r is an item that cools down a small area around the player. The lamp only activates when the player is in &cdeadly heat&r in the Nether. With full fuel, its effects will last for &e20 minutes&r, after which the lamp will disable until more fuel is supplied.&r"
+				""
+				"It is fueled by &dSoul Sprouts&r that you can grow on &7soulsand/soil&r. It thrives in hot biomes and temperatures, easiest way to grow is to place &c&llava&r by it.&r"
+			]
+			id: "1612322BF2AA9ED8"
+			rewards: [{
+				count: 8
+				id: "3C98AA139F181AFA"
+				item: "cold_sweat:soul_sprout"
+				type: "item"
+			}]
+			subtitle: "Used to mitigate the heat in the &cNether&r.&r"
+			tasks: [{
+				id: "5C542A516804A895"
+				item: {
+					Count: 1b
+					id: "cold_sweat:soulspring_lamp"
+					tag: {
+						fuel: 64.0d
+						isOn: 1b
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &3Soulspring Lamp"
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"768BD439E3A8384E"
+				"554FC8F643C46697"
+			]
+			description: [
+				"To use them, &a&lright-click&r with it in your hand to pour its water over yourself. This will instantly change the player's body temperature depending on the temperature of the &eWaterskin&r. Alternatively, the player can keep a &eWaterskin&r in their hotbar to allow it to passively diffuse its temperature.&r"
+				"This method is much slower, but does not consume its water. "
+			]
+			id: "4F2CD9D18AB8D097"
+			rewards: [{
+				id: "6928ECB36AF93944"
+				item: "cold_sweat:thermolith"
+				type: "item"
+			}]
+			subtitle: "These are best for quick outings. To prep them, they must first be filled with water at any water source, then put into an &cIcebox&r or &cBoiler&r.&r"
+			tasks: [{
+				id: "7F13027D955117B7"
+				item: "cold_sweat:waterskin"
+				type: "item"
+			}]
+			title: "Craft a &6Waterskin"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"To function properly, it must be under a roof and maintained with the appropriate fuel; in cold situations, this would be hot items like &fCoal and Lava&, and in hot situations this would be cold items like &fSnowballs, Water, and Ice&r.&r"
+				""
+				"Be aware of its &4&l20-block radius&r when deciding where to place the &c&lhearth&r, as anything outside of its range will not be safe, even if is is within the bounds of the structure the &c&lHearth&r is placed in. It is possible to use multiple &c&lHearths&r in tandem, however, so it is possible to regulate large bases."
+				""
+				"Upon initial placement and fueling, the &c&lHearth&r will begin to "
+				"warm"
+				"up"
+				", gradually giving nearby players higher levels of the &6&lInsulated&r effect before reaching its maximum level (&6&l10&r). Players with the &6&lInsulated&r effect will experience less extreme temperatures depending on the level of the effect. When a player leaves the &c&lHearth&r's radius, they are once again exposed to the elements after the &6&lInsulated&r effect has expired."
+			]
+			id: "558BB6BD94C602B3"
+			rewards: [
+				{
+					id: "7BEFB5FB5CFF8960"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+				{
+					id: "3B6F2C1AB1A50D5D"
+					item: "minecraft:lava_bucket"
+					type: "item"
+				}
+			]
+			subtitle: "In a more permanent solution, like a base or outpost, a &c&lhearth&r is a more apt solution to stave off the elements. In the long run, it is much less &2&loperate&r and does not have to be constantly monitored."
+			tasks: [{
+				id: "64B9040AFC49B0BC"
+				item: "cold_sweat:hearth"
+				type: "item"
+			}]
+			title: "Craft a &7Hearth"
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&dolt&r can be dropped from &aChameleons&r around once per day. Found in &2jungle&r and &2deserts&r among other similar biomes."
+				""
+				"&6oats&r can be sheared and regrow their &awool&r in about a day. They can be found in &2snowy peaks&r, &2stony peaks&r, and spawn among other similar biomes."
+			]
+			id: "3448B23DF9F63302"
+			rewards: [{
+				count: 8
+				id: "6B214634320C61CE"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			subtitle: "The &c&lSewing Table&r is a crafting station that is used to combine any piece of armor with the temperature-resistant effects of &b&lleather&r, &a&lchameleon molt&r, &a&lhoglin skin&r, or &a&lgoat fur&r. This allows the armor to provide &bneutral&r, &badaptive&r, &bheat&r, or &bcold&r mitigation, respectively."
+			tasks: [{
+				id: "046FF7A6457CD3D6"
+				item: "cold_sweat:sewing_table"
+				type: "item"
+			}]
+			title: "Craft a &cSewing Table"
+			x: -2.0d
+			y: -2.0d
+		}
+	]
+	title: "&b Thin Air &8\\& &9Cold &cSweat"
+}

@@ -1,0 +1,1313 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "oddities"
+	group: "50C9D5775BEB220E"
+	icon: "minecraft:nether_star"
+	id: "537C6DB0026E6B7D"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 1.0d
+		}
+	]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4EE395F19A7AC6FF"
+			subtitle: "Used to automatically &eTrade&r with nearby &6Piglins.&r Holds &6Gold ingots&r and output barter items."
+			tasks: [{
+				id: "2D4C1E2F839FD674"
+				item: "barteringstation:bartering_station"
+				type: "item"
+			}]
+			title: "Craft a &4Bartering Station"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "4989913FFC0D56C1"
+			subtitle: "Allows you to see &eTrades&r with nearby &2Villagers."
+			tasks: [{
+				id: "482F110C2981A7F7"
+				item: "tradingpost:trading_post"
+				type: "item"
+			}]
+			title: "Craft a &3Trading Post"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			id: "0BE7832F8D2EC88E"
+			subtitle: "Same utility as a &eStone Cutter&r but for &ewoods&r."
+			tasks: [{
+				id: "3B949CD5070988AF"
+				item: "woodworks:sawmill"
+				type: "item"
+			}]
+			title: "Craft a&1 Sawmill"
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "370C7BBFD6825460"
+			subtitle: "Can be used to capture small &eanimals&r and &emobs&r."
+			tasks: [{
+				id: "61506B03AD1D6FA4"
+				item: "supplementaries:cage"
+				type: "item"
+			}]
+			title: "Craft a &5Cage"
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			id: "42D099430EBFAFFC"
+			subtitle: "Acts as a sort of upgraded &eshulker box&r that is &efire resistant&r. &eSafes&r can be locked with a key."
+			tasks: [{
+				id: "46FA4477B1E5F268"
+				item: "supplementaries:safe"
+				type: "item"
+			}]
+			title: "Craft a &7Safe"
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			id: "30F40E4353F528FB"
+			tasks: [{
+				id: "1E01A7977AF558D5"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:fancy_beds"
+					}
+				}
+				title: "Any #handcrafted:fancy_beds"
+				type: "item"
+			}]
+			title: "Craft a Fancy Bed"
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "7F00DE181AA0C9C0"
+			tasks: [{
+				id: "1166EA9804E2BE65"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:couches"
+					}
+				}
+				title: "Any #handcrafted:couches"
+				type: "item"
+			}]
+			title: "Craft a Couch"
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			id: "534A26E3F639437B"
+			tasks: [{
+				id: "017E8C046DE719A2"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:chairs"
+					}
+				}
+				title: "Any #handcrafted:chairs"
+				type: "item"
+			}]
+			title: "Craft a Chair"
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			id: "36171301E4641F91"
+			tasks: [{
+				id: "0D0CBEB2CF829F84"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:tables"
+					}
+				}
+				title: "Any #handcrafted:tables"
+				type: "item"
+			}]
+			title: "Craft a Table"
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "0172BB881A7259C8"
+			tasks: [{
+				id: "438CC4ACF9CF6211"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:wooden_benches"
+					}
+				}
+				title: "Any #handcrafted:wooden_benches"
+				type: "item"
+			}]
+			title: "Craft a Wooden Bench"
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			id: "77BC75BC0328D7A5"
+			tasks: [{
+				id: "201DD07D39474176"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:nightstands"
+					}
+				}
+				title: "Any #handcrafted:nightstands"
+				type: "item"
+			}]
+			title: "Craft a Nightstand"
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "2802A4603874C24B"
+			tasks: [{
+				id: "50E3B3E85E9137E5"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:desks"
+					}
+				}
+				title: "Any #handcrafted:desks"
+				type: "item"
+			}]
+			title: "Craft a Desk"
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "5835B89CD2B85989"
+			tasks: [{
+				id: "792F6F6675CECA54"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:side_tables"
+					}
+				}
+				title: "Any #handcrafted:side_tables"
+				type: "item"
+			}]
+			title: "Craft a Side Table"
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "57F291A269AA620E"
+			tasks: [{
+				id: "5261259E75937F0B"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:counters"
+					}
+				}
+				title: "Any #handcrafted:counters"
+				type: "item"
+			}]
+			title: "Craft a Counter"
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "76968FA917BBA6E0"
+			subtitle: "Fancy Chest"
+			tasks: [{
+				id: "49D1A6062EEF6F0D"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:drawers"
+					}
+				}
+				title: "Any #handcrafted:drawers"
+				type: "item"
+			}]
+			title: "Craft any Drawers"
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			id: "01D0C8DB2646FFC9"
+			subtitle: "Fancy Chest"
+			tasks: [{
+				id: "30BB758D22EF6D2C"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:cupboards"
+					}
+				}
+				title: "Any #handcrafted:cupboards"
+				type: "item"
+			}]
+			title: "Craft a Cupboard"
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			id: "13B914EA3AE61CFA"
+			subtitle: "Holds a book"
+			tasks: [{
+				id: "675D7F042E9B0A84"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "handcrafted:shelves"
+					}
+				}
+				title: "Any #handcrafted:shelves"
+				type: "item"
+			}]
+			title: "Craft a Shelf"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "6EF76B3194FFE529"
+			subtitle: "&3Transmutes&r any number of items into another at the cost of &aExperience.&r Explodes when broken and drops &fNether Star."
+			tasks: [{
+				id: "1F47E54ADAE5BCB5"
+				item: "alexsmobs:transmutation_table"
+				type: "item"
+			}]
+			title: "Craft &athe Transmuation Table"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "06F27C7F86FBC564"
+			subtitle: "&cIntegrated Structures&r overhauls the old &8Strongholds&r making them more vast. Used to find &5End Portal Frames&r."
+			tasks: [{
+				id: "092337026D40809E"
+				item: {
+					Count: 1b
+					id: "alexsmobs:endolocator"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft &bthe Endolocator"
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			id: "2FDD6172E8C2140A"
+			subtitle: "Used to find the world's &4Devil's Hole Chunk"
+			tasks: [{
+				id: "51D0F0965E7474D0"
+				item: {
+					Count: 1b
+					id: "alexsmobs:pupfish_locator"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft &3the Strange Fish Finder"
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			id: "70A591213EFAF475"
+			subtitle: "Used as a &4Lava Surf Board&r that can jump and is enchantable."
+			tasks: [{
+				id: "694519243F2ABB20"
+				item: {
+					Count: 1b
+					id: "alexsmobs:straddleboard"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft&5 the Straddleboard"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "5061F2F7FB54F3D0"
+			subtitle: "This compass allows you to search for any &2Biome."
+			tasks: [{
+				id: "1AB4700BD15535AC"
+				item: {
+					Count: 1b
+					id: "naturescompass:naturescompass"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Craft a &aNature's Compass"
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			id: "009EC4156DE356FD"
+			subtitle: "Used for &9Teleporting&r. 3 Minute &6cooldown&r."
+			tasks: [{
+				id: "6F0C998388FF9F57"
+				item: "tempad:tempad"
+				type: "item"
+			}]
+			title: "Craft a &6Tempad"
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			id: "6E4F1BC09EF9E17D"
+			subtitle: "Used to &5disenchant &ritems. Read the Enchanting Guide for more information."
+			tasks: [{
+				id: "1DE37F41351A94D7"
+				item: "create_enchantment_industry:disenchanter"
+				type: "item"
+			}]
+			title: "Craft a &5Disenchanter"
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			id: "09723CAF8D28FD0D"
+			rewards: [{
+				id: "1092E1AAD9ED36FF"
+				item: "sophisticatedbackpacks:crafting_upgrade"
+				type: "item"
+			}]
+			subtitle: "With the &ebackpack&r you can place it in your world, color in different &ccolor combinations&r, upgrade with more inventory and enhance with many &afunctional upgrades&r."
+			tasks: [{
+				id: "3568A217CFF34D19"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			title: "Craft a &cBackpack"
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			id: "2B318DE3A3F05557"
+			rewards: [{
+				count: 2
+				id: "34656891B76DEC18"
+				item: "quark:gunpowder_sack"
+				type: "item"
+			}]
+			subtitle: "Craft Weapons, Attachments and Ammo."
+			tasks: [{
+				id: "2041A02DAD942D34"
+				item: "cgm:workbench"
+				type: "item"
+			}]
+			title: "Craft a &6Workbench"
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			id: "0B18C0484CD23A54"
+			subtitle: "All storage in one place. Mainly placed on an &6inventory connector block&r."
+			tasks: [{
+				id: "1256210DEDE1FF6D"
+				item: "toms_storage:ts.storage_terminal"
+				type: "item"
+			}]
+			title: "Craft a &eStorage Terminal"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "43D20403034070BD"
+			subtitle: "Trade with players"
+			tasks: [{
+				id: "161CC07F9EE15FAD"
+				item: "toms_trading_network:vending_machine"
+				type: "item"
+			}]
+			title: "Craft a &aVending Machine"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: ["Requires a level &21 beacon&r for wireless access in the same dimension. Level &24 for cross dimension use."]
+			id: "3B8A3866892A896A"
+			subtitle: "Use your &bStorage&r from anywhere! (Make sure to &9forceload the Storage chunk&r) &lClick on &dquest&r for more important information."
+			tasks: [{
+				id: "2194F269B4A390F1"
+				item: "toms_storage:ts.adv_wireless_terminal"
+				type: "item"
+			}]
+			title: "Craft a &6Wireless Terminal"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "587CB5DB37C01733"
+			subtitle: "Get contracts. Deliver goods. Count profits. Wares allows you to buy and sell items in bulk."
+			tasks: [{
+				id: "66979B3DAA7CB885"
+				item: "wares:delivery_table"
+				type: "item"
+			}]
+			title: "Craft a &6Delivery Table"
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&cStorage may not be 100% safe. "
+				"Monobank Inc. is not responsible for theft or loss of personal property.&r"
+			]
+			id: "72C1C84868E474B4"
+			subtitle: "Monobank allows you to securely store a large amount of the same item."
+			tasks: [{
+				id: "02E8E133171CF220"
+				item: {
+					Count: 1b
+					id: "monobank:monobank"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Craft a &7Monobank"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "6214B22DFC054284"
+			tasks: [{
+				id: "278B7F396A9B510F"
+				item: "cccbridge:animatronic_block"
+				type: "item"
+			}]
+			title: "Craft a &9Animatronic"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "4B5754AC57713F11"
+			tasks: [{
+				id: "345A468470191105"
+				item: "chipped:botanist_workbench"
+				type: "item"
+			}]
+			title: "Craft a &aBotanist Workbench"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "3ADC11C6BA771C86"
+			tasks: [{
+				id: "541D412DCDA8DDAF"
+				item: "chipped:glassblower"
+				type: "item"
+			}]
+			title: "Craft a &7Glassblower"
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "6179E94A73B07392"
+			tasks: [{
+				id: "7C26A79A5BB7569A"
+				item: "chipped:carpenters_table"
+				type: "item"
+			}]
+			title: "Craft a &6Carpenters Table"
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			id: "024E47494F783376"
+			tasks: [{
+				id: "0A61CDFCD13EBC7B"
+				item: "chipped:mason_table"
+				type: "item"
+			}]
+			title: "Craft a &8Mason Table"
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "7726BC988874A1C3"
+			tasks: [{
+				id: "7221E5F4A7A6735D"
+				item: "chipped:loom_table"
+				type: "item"
+			}]
+			title: "Craft a &9Loom Table"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "3BFC6E6A9A3343D3"
+			tasks: [{
+				id: "46F0FAC9CACC454E"
+				item: "chipped:alchemy_bench"
+				type: "item"
+			}]
+			title: "Craft a &cAlchemy Bench"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "146B3B3D49F0E898"
+			tasks: [{
+				id: "1F73600E706F3567"
+				item: "chipped:tinkering_table"
+				type: "item"
+			}]
+			title: "Craft a &4Tinkering Table"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "1A9D4D664FAC1E2B"
+			subtitle: "Can cut down whole trees."
+			tasks: [{
+				id: "66B3B6E9C049043E"
+				item: "create:mechanical_saw"
+				type: "item"
+			}]
+			title: "Craft a &eMechanical Saw"
+			x: -4.5d
+			y: -0.5d
+		}
+	]
+	title: " &fCuriosities&f"
+}

@@ -1,0 +1,1780 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "5E3CAACB575722D6"
+	icon: "minecraft:grass_block"
+	id: "76992E019CD55E76"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coal_ore.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/stone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/deepslate.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/deepslate.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/stone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coarse_dirt.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coarse_dirt.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coarse_dirt.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coarse_dirt.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/deepslate_diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/bedrock.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: 4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:block/deepslate_diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/stone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/stone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/stone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coal_ore.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/stone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/coarse_dirt.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "irons_spellbooks:block/arcane_debris_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "irons_spellbooks:block/arcane_debris_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: 3.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "create:block/zinc_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "create:block/zinc_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -6.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/grass_block_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -6.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{@pagebreak}"]
+			id: "75A430761607DC45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BE2BE2D25725C2A"
+				table_id: 6255228297873695476L
+				type: "choice"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "Choosing &5Hardcore&5 &7will unlock more Quests in the &5Enigmatic&5 &3Legacy&3 &7Quest line. &f[Keep in mind the Modpack is already quite Difficult!]"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:grass_block"
+				id: "503F8524875C623B"
+				title: "Start your &2Journey!"
+				type: "dimension"
+			}]
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			id: "0CA8E872C0DC84B7"
+			rewards: [{
+				id: "464CAE7DC59E692B"
+				item: "aquamirae:sea_stew"
+				type: "item"
+			}]
+			subtitle: "Summoned in the &bIce Maze &rwith the &6Shell Horn"
+			tasks: [{
+				entity: "aquamirae:captain_cornelia"
+				icon: {
+					Count: 1b
+					id: "aquamirae:three_bolt_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "3A9D5F019EA6D52D"
+				title: "Defeat &3Captain Cornelia"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["14BF01C8F4D853AE"]
+			dependency_requirement: "one_completed"
+			id: "06AE42FEEF89FD7A"
+			rewards: [{
+				count: 4
+				id: "460F3DD25E2BC9E8"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			subtitle: "You can tell if a tool is able to mine a block by looking at the block and checking the tooltip in the top left of your screen."
+			tasks: [{
+				id: "3C5405A6C0C9D2B1"
+				item: {
+					Count: 1b
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &7Stone Pickaxe"
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["75A430761607DC45"]
+			id: "14BF01C8F4D853AE"
+			rewards: [{
+				id: "0F207E4BCC2C518C"
+				item: {
+					Count: 1b
+					id: "improvableskills:scroll_ability"
+					tag: {
+						Ability: "improvableskills:crafter"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "The ability page allows you to use the &9Book&9 &fof&f &6Skills&6 &ras a Crafting Table."
+			tasks: [{
+				id: "11D81F520E4AA862"
+				item: "minecraft:crafting_table"
+				title: "Obtain a &6Crafting Table"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["78948D8A2C7666ED"]
+			id: "7819DEEB2C20216A"
+			rewards: [{
+				count: 3
+				id: "065F9B378C16DF4D"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			subtitle: "Offers the highest mobility, but less effective parrying."
+			tasks: [{
+				id: "336632487D668B67"
+				item: {
+					Count: 1b
+					id: "shieldexp:iron_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft an &fIron Shield"
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7819DEEB2C20216A"]
+			dependency_requirement: "one_completed"
+			id: "546A8CC2E21D41BC"
+			rewards: [{
+				id: "3475AB695888A6D8"
+				item: {
+					Count: 1b
+					id: "improvableskills:scroll_ability"
+					tag: {
+						Ability: "improvableskills:enchanting"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Slower movement, but better parrying."
+			tasks: [{
+				id: "18018CC91E695683"
+				item: {
+					Count: 1b
+					id: "shieldexp:diamond_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &bDiamond Shield"
+			x: 14.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["546A8CC2E21D41BC"]
+			icon: {
+				Count: 1b
+				id: "shieldexp:netherite_shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "28A6E2143DAEA48E"
+			rewards: [{
+				id: "30FA5C877EF644E2"
+				item: "enigmaticlegacy:etherium_scraps"
+				type: "item"
+			}]
+			subtitle: "Longest cooldown and slow movement speed, but offers high resistance and the best parrying."
+			tasks: [{
+				id: "5C2C477C8A5F64AC"
+				item: {
+					Count: 1b
+					id: "shieldexp:netherite_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Craft a &8Netherite Shield"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["06AE42FEEF89FD7A"]
+			id: "78948D8A2C7666ED"
+			rewards: [{
+				id: "43FFED04B705CAAE"
+				item: {
+					Count: 1b
+					id: "thinair:respirator"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/iron_tools"
+				criterion: ""
+				id: "4950125F90ECC0B1"
+				title: "Craft a Iron Pickaxe"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["78948D8A2C7666ED"]
+			id: "1B1F71507A4AF8C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78C7612C0D3A4F0C"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Y level &e-59&r is the best for finding &bDiamonds&r."
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "5602E6CFE9974597"
+				title: "Acquire &bDiamonds!"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["75A430761607DC45"]
+			id: "768B8D0753D454BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28664D640CD2ACB5"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			shape: "rsquare"
+			subtitle: "Allows you to unlock skills and abilities."
+			tasks: [{
+				id: "578D3EA080025EFF"
+				item: "improvableskills:skills_book"
+				type: "item"
+			}]
+			title: "Craft the &9Book&9 &fof&f &6Skills&6"
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0F3FB6118032CD97"]
+			hide: false
+			id: "1B99093C04C57A23"
+			rewards: [{
+				id: "4FA78151F484D7D1"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							NeedWater: 0b
+						}
+					}
+					id: "create_central_kitchen:brewing_guide"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Used to create various unique foods."
+			tasks: [{
+				id: "190401565AA91CCD"
+				item: "farmersdelight:stove"
+				title: "Craft a &7Stove"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["14BF01C8F4D853AE"]
+			id: "5366FCF06C88C5F2"
+			rewards: [{
+				id: "39983A1E0C056EE8"
+				item: "sophisticatedstorage:basic_tier_upgrade"
+				type: "item"
+			}]
+			subtitle: "The &fSophisticated Storage&r mod allows you to upgrade how much your chests can fit."
+			tasks: [{
+				id: "36E974C125F393A9"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:chests/wooden"
+					}
+				}
+				title: "Any #forge:chests/wooden"
+				type: "item"
+			}]
+			title: "Craft a &6Chest"
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			id: "46DA42011F0ABC79"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EB1142461B4F1B1"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found in the &aOverworld&r during &1Night&r and inside of &8Caves&r."
+			tasks: [{
+				entity: "undead_unleashed:frenzied_knight"
+				icon: {
+					Count: 1b
+					id: "undead_unleashed:grave_metal_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "5E3A337F7E4952E9"
+				title: "Defeat the Frenzied Knight"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &cFrenzied Knight"
+			x: 16.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "0C7862B8E7E14410"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EF52D6718F66F92"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:bearclaw_inn"
+				criterion: ""
+				id: "3B640A47340FA1E9"
+				type: "advancement"
+			}]
+			title: "Discover the Bearclaw Inn"
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "08FB4F09B215676D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C20FC7C495B58A2"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:enchantingtower"
+				criterion: ""
+				id: "281E03330E78346A"
+				type: "advancement"
+			}]
+			title: "Discover an Enchanting Tower"
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "160B777F4034B3A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23517FB864223C4C"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &5rarely&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:tinkers_workshop"
+				criterion: ""
+				id: "6482DBBC67A9AE43"
+				type: "advancement"
+			}]
+			title: "Discover a Tinker's Workshop"
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "1CE203F5DCBB98DD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79D368F89B06100A"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:witches_treestump"
+				criterion: ""
+				id: "1717854AC49914FB"
+				type: "advancement"
+			}]
+			title: "Discover a Witch's Stump"
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "198A92067D1266A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "755A49C699C0646F"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &5rarely&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:ancient_mines"
+				criterion: ""
+				id: "156DC198539EB8BA"
+				type: "advancement"
+			}]
+			title: "Discover the Ancient Mines"
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "75D5C14BFC85EA78"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49CE08AD4A010693"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:redhorn_guild"
+				criterion: ""
+				id: "775AEDFDC2E3CE71"
+				type: "advancement"
+			}]
+			title: "Discover the Redhorn Guild"
+			x: 5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			hide_details_until_startable: true
+			id: "02411A5E4F0E44A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "36F283D35E7027C6"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:wizardtower"
+				criterion: ""
+				id: "31B5C38AFCE17C16"
+				type: "advancement"
+			}]
+			title: "Discover a Wizard Tower"
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "0CFBF16A26328A5A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00D6E4B2C586B0A4"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:fishermans_lodge"
+				criterion: ""
+				id: "3518AA0035F78B05"
+				type: "advancement"
+			}]
+			title: "Discover a Fisherman's Lodge"
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "2FDF7862B7DBBB1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AEFA708FA274C8A"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:castle"
+				criterion: ""
+				id: "3A87C9CD6ED75D04"
+				type: "advancement"
+			}]
+			title: "Discover the Castle"
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "4BD163BB9A797506"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6763FF7D01C8FC32"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &9uncommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:winter_wagon"
+				criterion: ""
+				id: "1C686CD68CFF1538"
+				type: "advancement"
+			}]
+			title: "Discover a Winter Wagon"
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "3110EAE1D1B26203"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5614FAB5706F186C"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Found &auncommonly&r in &bOceans&r."
+			tasks: [{
+				advancement: "idas:sunken_ship"
+				criterion: ""
+				id: "100213FF20CA3C32"
+				type: "advancement"
+			}]
+			title: "Discover a Sunken Ship"
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "2DF9F78ABA4E1AF0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5ED4A374BBBE2444"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &9uncommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:apothecary_abode"
+				criterion: ""
+				id: "63D3B760E9831C4B"
+				type: "advancement"
+			}]
+			title: "Discover the Apothecary's Abode"
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "57382A2717DBE5CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DBC588A5E8CD977"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &5rarely&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:pillager_fortress"
+				criterion: ""
+				id: "10EDECD693CCF2B4"
+				type: "advancement"
+			}]
+			title: "Discover the Pillager Fortress"
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "78D3C1C0CD2B639B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D55B31A42BABCF9"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Found &5rarely&r in &eDeserts&r."
+			tasks: [{
+				advancement: "idas:labyrinth"
+				criterion: ""
+				id: "7DC551B5776F7738"
+				type: "advancement"
+			}]
+			title: "Discover the Labyrinth of the Serpent"
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "758B6037CAECC6C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "576560DFB000F9DA"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found &acommonly&r in the &2Overworld&r."
+			tasks: [{
+				advancement: "idas:hunters_cabin"
+				criterion: ""
+				id: "0C5754BCAE2D4587"
+				type: "advancement"
+			}]
+			title: "Discover a Hunter's Cabin"
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			id: "4DA524ADB8B3F7DB"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "625FDE7C339A8E9B"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "These structures include blocks from many mods, such as Create and Quark. This makes exploring a viable option for progression through these mods."
+			tasks: [{
+				id: "682DA66B591088A9"
+				type: "checkmark"
+			}]
+			title: "Intergrated Dungeons and Structures"
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			icon: "forbidden_arcanus:obsidian_skull"
+			id: "4EED61DA4BED4297"
+			progression_mode: "flexible"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "373666FC69B60625"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Most bosses in the &2Overworld &rcan be found randomly while exploring."
+			tasks: [{
+				id: "52F9C149214BC701"
+				type: "checkmark"
+			}]
+			title: "&4Bosses"
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			id: "7FCC94D13B6205B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00C0165105945584"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Found in &aTheaters&r, which spawn in the &2Roofed Forest &rbiome."
+			tasks: [{
+				entity: "conjurer_illager:conjurer"
+				icon: {
+					Count: 1b
+					id: "conjurer_illager:conjurer_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "22F207B3AB958EC1"
+				title: "Defeat the Conjurer"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &6Conjurer"
+			x: 16.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["78948D8A2C7666ED"]
+			id: "5E4E258997D5BC0C"
+			rewards: [{
+				id: "4775D07086FB65E5"
+				item: "ad_astra:astrodux"
+				type: "item"
+			}]
+			subtitle: "Used for many recipes within the &bSpirit&r mod."
+			tasks: [{
+				id: "1E07BAD75E8B1B8D"
+				item: "spirit:soul_steel_ingot"
+				type: "item"
+			}]
+			title: "Craft a &3Soul Steel Ingot"
+			x: 13.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4DA524ADB8B3F7DB"]
+			id: "61C0C0EE7C58B3D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A46D5F4548C6E43"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Found &5rarely&r in &8Caves&r."
+			tasks: [{
+				icon: "quark:mossy_cobblestone_bricks"
+				id: "34D2C15A2F5FF44E"
+				structure: "idas:ruins_of_the_deep"
+				title: "Discover the Ruins of the Deep"
+				type: "structure"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["75A430761607DC45"]
+			id: "6F88FFE6DAE63871"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "70ECD2A6580CDDE7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			subtitle: "Sold by &3The Gatekeeper. &3Gatekeeper Houses&r spawn in most biomes. Every &3Gatekeeper House&r will have an unlit &cEverdawn&r or &bEverbright&r portal."
+			tasks: [{
+				id: "2DDD108B784CFA63"
+				item: "blue_skies:blue_journal"
+				type: "item"
+			}]
+			title: "Obtain a &bBlue &6Journal"
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["75A430761607DC45"]
+			id: "1F4CE4A15A009CB6"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "60EC138ADFC8C2E6"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			subtitle: "Can be Crafted / Information on &8Space &fTravel"
+			tasks: [{
+				id: "0109C614B305335D"
+				item: "ad_astra:astrodux"
+				type: "item"
+			}]
+			title: "Obtain a &5Astrodux"
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["75A430761607DC45"]
+			hide: false
+			id: "565B5FD936B95A88"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "77FE461987AF1D97"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			subtitle: "To enter the &3Ulterlands&r, create a portal frame made of &1Obsidian B-12&r, and ignite it using a &3Rift &5Totem&r."
+			tasks: [{
+				id: "10DCC3A9475153A6"
+				item: {
+					Count: 1b
+					id: "ulterlands:ulterlands_dimension"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Obtain a &3Rift &5Totem"
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["14BF01C8F4D853AE"]
+			id: "0F3FB6118032CD97"
+			rewards: [{
+				id: "66534FB9BC7533CA"
+				item: "tetra:rack"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Right click a Crafting Table with a Wooden Hammer"
+			tasks: [{
+				advancement: "tetra:upgrades/workbench"
+				criterion: ""
+				id: "6D44BFA426115796"
+				type: "advancement"
+			}]
+			title: "Construct a &6Workbench"
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["78948D8A2C7666ED"]
+			id: "41606A89D2BCF7F0"
+			rewards: [{
+				id: "67A35D410F6DAF8A"
+				item: "toms_trading_network:vending_machine"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Used for many crafting recipes."
+			tasks: [{
+				id: "23DAF9B53B37BEB0"
+				item: "forbidden_arcanus:obsidian_with_iron"
+				title: "Obsidian with Iron"
+				type: "item"
+			}]
+			title: "Craft an &5Obsidian &rwith &fIron"
+			x: 11.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["78948D8A2C7666ED"]
+			description: ["Andesite can be found in large veins, mostly undergound,  all over the world"]
+			id: "2597A43F66CD0B83"
+			rewards: [{
+				count: 8
+				id: "223494680D75E00E"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Andesite Alloy is a material used in Andesite Casing and simple kinetic blocks, which serves as an entry-point to the mechanical components of Create."
+			tasks: [{
+				advancement: "create:andesite_alloy"
+				criterion: ""
+				id: "69467F6319984F9A"
+				title: "Obtain some &7Andesite Alloy"
+				type: "advancement"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7819DEEB2C20216A"]
+			id: "3832D4C19DED79C6"
+			rewards: [{
+				id: "017AB49190E0E4C6"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:fire_resistance"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "499ACFB87970827F"
+				title: "Go to the &4Nether"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3832D4C19DED79C6"]
+			id: "245281E6367C3E84"
+			rewards: [{
+				id: "1A261ADE74BFA058"
+				item: "create_enchantment_industry:enchanting_guide"
+				type: "item"
+			}]
+			subtitle: "Brand New Overhauled and Detailed Stronghold"
+			tasks: [{
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+				id: "5A900C52070E6E60"
+				title: "Find the &bIntegrated &aStronghold"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7819DEEB2C20216A"]
+			description: [""]
+			id: "47BF4BF5880A7A9F"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "64D9BDE8AADCDA71"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Railguns, Tesla Coils, Revolvers, Electrifed fences, Automated turrets.  All this and more awaits us with Immersive Engineering. We begin our journey by crafting the wonderfully detailed Engineers Manual"
+			tasks: [{
+				id: "172D96ABF0FA6CF0"
+				item: "immersiveengineering:manual"
+				type: "item"
+			}]
+			title: "Obtain a &6Engineer's Manual"
+			x: 14.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			icon: "minecraft:skeleton_skull"
+			id: "5F9BDBF4518C3407"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17788C761B8499A5"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Located in the &8Catacombs, &7Found &8Underground"
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				icon: {
+					Count: 1b
+					id: "irons_spellbooks:plagued_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "784C0149C374646D"
+				title: "Awaken and Defeat the &4Dead King"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			id: "0B37FF0F8CA28AFA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B74E5EE3595305C"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Located in the &6Evoker Fort, &7Found in &aForest Biomes"
+			tasks: [{
+				entity: "irons_spellbooks:archevoker"
+				icon: {
+					Count: 1b
+					id: "irons_spellbooks:archevoker_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "7E621A546CC0FBCE"
+				title: "Defeat the &eArchevoker"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			id: "426FC5007C164230"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "147CA9673C0E15C4"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Located in the &2Mangrove Hut, &7Found in &2Swamp Biomes"
+			tasks: [{
+				entity: "irons_spellbooks:pyromancer"
+				icon: {
+					Count: 1b
+					id: "irons_spellbooks:pyromancer_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "7390DB4C2D73BFA1"
+				title: "Defeat the &cPyromancer"
+				type: "kill"
+				value: 1L
+			}]
+			x: 13.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4EED61DA4BED4297"]
+			id: "5C3AECD61E8205A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13329D602BAECE22"
+				table_id: 1511897575099731575L
+				type: "random"
+			}]
+			subtitle: "Located in the &fMountain Tower, &7Found in &fMountain Biomes"
+			tasks: [{
+				entity: "irons_spellbooks:cryomancer"
+				icon: {
+					Count: 1b
+					id: "irons_spellbooks:cryomancer_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "53A461247BFEC01D"
+				title: "&7Defeat the &fCryomancer"
+				type: "kill"
+				value: 1L
+			}]
+			x: 14.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["47BF4BF5880A7A9F"]
+			id: "3657416446CB1BD4"
+			rewards: [{
+				id: "1BA8C80BF3027EF7"
+				item: "toms_storage:ts.inventory_connector"
+				type: "item"
+			}]
+			subtitle: "Gives access to your items. Place it on an inventory. Has a &cbuiltin crafting table&r."
+			tasks: [{
+				id: "39FA65809917609D"
+				item: "toms_storage:ts.crafting_terminal"
+				type: "item"
+			}]
+			title: "Obtain a &6Crafting Terminal"
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			id: "1DE9ACADF0EA4DDD"
+			subtitle: "Used to Summon the &1Leviathan"
+			tasks: [{
+				id: "2E6A122981DC8E6D"
+				item: "cataclysm:abyssal_sacrifice"
+				title: "Craft a &5Abyssal Sacrifice"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.5d
+		}
+		{
+			id: "3C0FC4BC2928B0BF"
+			subtitle: "Found in vast &3Oceans"
+			tasks: [{
+				advancement: "cataclysm:find_sunken_city"
+				criterion: ""
+				id: "3F84F5A25765EC12"
+				title: "Find the &bSunken City"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"1DE9ACADF0EA4DDD"
+				"3C0FC4BC2928B0BF"
+				"4EED61DA4BED4297"
+			]
+			id: "5C7DA46F6E7574B0"
+			subtitle: "Summoned with &5Abyssal Sacrifice"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:altar_of_abyss"
+				id: "343E34328636AD98"
+				title: "Defeat the &1Leviathan"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			id: "76B4965345809758"
+			subtitle: "Found in &8Caves"
+			tasks: [{
+				advancement: "cataclysm:find_ancient_factory"
+				criterion: ""
+				id: "015517E25E378836"
+				title: "Find the &4Ancient Factory"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 2.5d
+		}
+		{
+			id: "42C3B2C2EF7A543E"
+			subtitle: "Used to awake thee &cHarbringer"
+			tasks: [{
+				id: "12C91353EA8D0FE7"
+				item: "minecraft:nether_star"
+				type: "item"
+			}]
+			title: "Obtain a &6Nether Star"
+			x: 15.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"76B4965345809758"
+				"42C3B2C2EF7A543E"
+				"4EED61DA4BED4297"
+			]
+			id: "52CD270652DFF01E"
+			subtitle: "Awake thee with a &6Nether Star"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:witherite_ingot"
+				id: "3E1F0EC4DF8DBA3D"
+				title: "Defeat the &cHarbringer"
+				type: "kill"
+				value: 1L
+			}]
+			x: 16.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5366FCF06C88C5F2"]
+			id: "6709540FF9CFE6A0"
+			rewards: [{
+				id: "08C106937C9FAC49"
+				item: {
+					Count: 1b
+					id: "sophisticatedstorage:iron_chest"
+					tag: {
+						accentColor: 1908001
+						mainColor: 1908001
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "With the &ebackpack&r you can place it in your world, color in different &ccolor combinations&r, upgrade with more inventory and enhance with many &afunctional upgrades&r."
+			tasks: [{
+				id: "18C89A3D8C003F4A"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			title: "Craft a &cBackpack"
+			x: 10.0d
+			y: -1.5d
+		}
+	]
+	title: " &aOverworld"
+}

@@ -1,0 +1,790 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "improvable_skills"
+	group: "50C9D5775BEB220E"
+	icon: "improvableskills:skills_book"
+	id: "0996D21AC378008C"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/abilities/auto_xp_bank_hovered.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/abilities/anvil_hovered.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/abilities/magnetism_hovered.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/abilities/enchanting_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/abilities/crafter_hovered.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/enchanter_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/soul_speed_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/health_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/xp_plus_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/dexterous_arms_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/huckster_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/silent_foot_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/growth_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/alchemist_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/obsidian_skin_hovered.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/ender_manipulator_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/generic_protection_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/treasure_sands_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -11.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/luck_of_the_sea_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -11.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "improvableskills:textures/skills/atkdmg_ranged_normal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -11.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "637AFD1D3796D681"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31143BB859741269"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "70A0DD00E18C93D8"
+				item: "improvableskills:skills_book"
+				type: "item"
+			}]
+			title: "Obtain the &9Book&9 &fof&f &6Skills&6"
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:alchemist"
+				}
+			}
+			id: "459811B9532F56AF"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "7229253150397A76"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Drops from &5Witches"
+			tasks: [{
+				id: "508FA648CA947B49"
+				type: "checkmark"
+			}]
+			title: "Obtain a &4Alchemist &fSkill Page"
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:atkdmg_ranged"
+				}
+			}
+			id: "75DD60F8265DD80B"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "33DF675ECBE4EE78"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Drops from &fSkeletons"
+			tasks: [{
+				id: "3A09FCCFBD951FF3"
+				type: "checkmark"
+			}]
+			title: "Obtain a &5Sharp Arrow &fSkill Page"
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:dexterous_arms"
+				}
+			}
+			id: "22DD2718DACAF7C8"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "33BC953592D77FC3"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &4Abandoned Mineshafts"
+			tasks: [{
+				id: "52022A2BF09C2E2D"
+				type: "checkmark"
+			}]
+			title: "Obtain a &6Dexterous Arms &fSkill Page"
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:ender_manipulator"
+				}
+			}
+			id: "6FBA5C5236AF2637"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "6907DF8D2D015881"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Drops from &8Enderman"
+			tasks: [{
+				id: "2820F90D5B4598A6"
+				type: "checkmark"
+			}]
+			title: "Obtain a &eEnder Manipulator &fSkill Page"
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:generic_protection"
+				}
+			}
+			id: "063BEE67CA765310"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "67D5C5FF3920B55D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &1Underground Spawner &7Rooms"
+			tasks: [{
+				id: "3C343015817CA007"
+				type: "checkmark"
+			}]
+			title: "Obtain a &bDense Skin &fSkill Page"
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:growth"
+				}
+			}
+			id: "171FAA5B1DACB610"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "5990C7243C480AB1"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &2Jungle Temples"
+			tasks: [{
+				id: "6D7AFD2F204686D3"
+				type: "checkmark"
+			}]
+			title: "Obtain a &2Fast Growth &fSkill Page"
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:health"
+				}
+			}
+			id: "67351DEFBC884FEF"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "2380DF8956D01075"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &dEnd Cities"
+			tasks: [{
+				id: "19486AF2EC31A50D"
+				type: "checkmark"
+			}]
+			title: "Obtain a &cExtra Health &fSkill Page"
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:huckster"
+				}
+			}
+			id: "100F080560CF8C9B"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "4E6E6E0E648D9DED"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Gifted by a &5Librarian &7after Defeating a &4Raid"
+			tasks: [{
+				id: "5A1D27F3437453FA"
+				type: "checkmark"
+			}]
+			title: "Obtain a &aHuckster &fSkill Page"
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:luck_of_the_sea"
+				}
+			}
+			id: "0821BD5FC6770D7D"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "076442104347CE84"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Drops while &9Fishing"
+			tasks: [{
+				id: "195BB6BA86ED38C2"
+				type: "checkmark"
+			}]
+			title: "Obtian a &3Luck of the Sea &fSkill Page"
+			x: -1.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:obsidian_skin"
+				}
+			}
+			id: "563BD09797194F4A"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "6401765DA040DC08"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &4Nether Fortresses"
+			tasks: [{
+				id: "624519E36E3B2539"
+				type: "checkmark"
+			}]
+			title: "Obtain a &5Obsidian Shield &fSkill Page"
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:silent_foot"
+				}
+			}
+			id: "56DBA28919D28215"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "7EECA6D846BCB1A2"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &1Ancient Cities"
+			tasks: [{
+				id: "68BA506195D42ACE"
+				type: "checkmark"
+			}]
+			title: "Obtain a &3Silent Foor Skill Page"
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:soul_speed"
+				}
+			}
+			id: "32790A30BF17BF04"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "3F6416C3FEA9021D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "&7Obtained by &eBartering &7with &6Piglins"
+			tasks: [{
+				id: "613C32B7A68AECBB"
+				title: "10"
+				type: "checkmark"
+			}]
+			title: "Obtain a &3Soul Speed &fSkill Page"
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:treasure_sands"
+				}
+			}
+			id: "5598DDE36510DD7B"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "4BAF4F5803BA0D69"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &6Desert Temples"
+			tasks: [{
+				id: "6A1F02C68DB3FC12"
+				type: "checkmark"
+			}]
+			title: "Obtain a &6Treasure of the Sands &fSkill Page"
+			x: -0.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:xp_plus"
+				}
+			}
+			id: "4B5858FDA76F235A"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "59A5E602863BF10D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Drops from &3Elder Guardian"
+			tasks: [{
+				id: "002010F4FADE9B89"
+				type: "checkmark"
+			}]
+			title: "Obtain a &aExperience Harvesting &fSkill Page"
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_ability"
+				tag: {
+					Ability: "improvableskills:anvil"
+				}
+			}
+			id: "22A0BEFBDE7FE660"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "6DC0B711CF11FFEE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			subtitle: "Drop &fParchment Fragment + &5Ender Pearl + &8Anvil + &aEmerald &7together"
+			tasks: [{
+				id: "16A0F7BD7E3B1DF6"
+				type: "checkmark"
+			}]
+			title: "Obtain a &8Blacksmith &fAbility"
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_ability"
+				tag: {
+					Ability: "improvableskills:auto_xp_bank"
+				}
+			}
+			id: "41805A82862E2B47"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "017A3513E52147CE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			subtitle: "Drop &fParchment Fragment + &5Ender Pearl + &aBottle O' Enchanting + &4Redstone &7together"
+			tasks: [{
+				id: "2022071A3D50F3E1"
+				type: "checkmark"
+			}]
+			title: "Obtain a &aAuto XP Bank &fAbility"
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_ability"
+				tag: {
+					Ability: "improvableskills:crafter"
+				}
+			}
+			id: "72A4CCE8E0774E92"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "1BD96D44AB95ABAE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			subtitle: "Drop &fParchment Fragment + &5Ender Pearl + &6Crafting Table + &fIron Ingot &7together"
+			tasks: [{
+				id: "0EC6D2590668FAB7"
+				type: "checkmark"
+			}]
+			title: "Obtain a &6Crafter &fAbility"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_ability"
+				tag: {
+					Ability: "improvableskills:enchanting"
+				}
+			}
+			id: "739B8C83B3CCA7B0"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "5FEB66259C1E540B"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			subtitle: "Drop &fParchment Fragment + &5Ender Pearl + &9Enchanting Table + &6Bookshelf &7together"
+			tasks: [{
+				id: "3D16E4D156E9680A"
+				type: "checkmark"
+			}]
+			title: "Obtain a &9Enchantment &fAbility"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_ability"
+				tag: {
+					Ability: "improvableskills:magnetism"
+				}
+			}
+			id: "2A5BE18EA0F5EBC9"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "1E72BAAA7AD6042E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			subtitle: "Drop &fParchment Fragment + &5Ender Pearl + &aEye of Ender + &fIron Ingot + Chain &7together"
+			tasks: [{
+				id: "0A27E37930F3A282"
+				type: "checkmark"
+			}]
+			title: "Obtain a &cMagnetism &fAbility"
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["637AFD1D3796D681"]
+			icon: {
+				Count: 1b
+				id: "improvableskills:scroll_normal"
+				tag: {
+					Skill: "improvableskills:enchanter"
+				}
+			}
+			id: "20F8A1676CA0059F"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "65732607B4BA835E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			subtitle: "Found in &6Stronghold Libraries"
+			tasks: [{
+				id: "49BD16C9ADFEAE2F"
+				type: "checkmark"
+			}]
+			title: "Obtain a &5Enchanter Skill &fPage"
+			x: -4.0d
+			y: -9.5d
+		}
+	]
+	title: " &9Improvable&9 &6Skills&6"
+}

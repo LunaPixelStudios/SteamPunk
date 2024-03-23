@@ -1,0 +1,831 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bcomputer_craft"
+	group: "39BD55737A7439A2"
+	icon: "computercraft:computer_normal"
+	id: "1EF5D3F6E14DA3C4"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["246C4F6A1026CE58"]
+			id: "224AE7D8A6042096"
+			rewards: [
+				{
+					id: "5B39269AF96EC1C1"
+					item: "minecraft:iron_block"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "7C7DC00A1DE18843"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 10
+					id: "42D0578BD17C2955"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "The &cComputer&r is the &amain&r block of &bComputerCraft&r. From the &cComputer&r, you will be able to make &dprograms&r, turn &eon&r and &off&r &bRedstone&r, use &bRednet&r, play &bgames&r, and much more. The &cComputer&r runs an &aOS&r called &bCraftOS&r."
+			tasks: [{
+				id: "7030F118B6697A59"
+				item: "computercraft:computer_normal"
+				type: "item"
+			}]
+			title: "Craft a &3Computer"
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["246C4F6A1026CE58"]
+			id: "12B501165E93085C"
+			rewards: [
+				{
+					id: "668F0D9A44B03FAF"
+					item: "minecraft:gold_block"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "21021F4123F4261C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 5
+					id: "202C2889A9CF350E"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "The &6Computer&r (&7pictured&r) is the &amain&r block of &bComputerCraft&r. From the &6Computer&r, you will be able to make &dprograms&r, turn &eon&r and &off&r &cRedstone&r, use &cRednet&r, play &egames&r, and much more. The &6Computer&r runs an &eOS&r called &bCraftOS&r. &6Computers&r, &6Advanced Computers&r, and &6Command Computers&r have a &aresolution&r of &e51 pixels/characters horizontally&r by &e19 pixels/characters vertically&r."
+			tasks: [{
+				id: "6836FEA4A490ED2A"
+				item: "computercraft:computer_advanced"
+				type: "item"
+			}]
+			title: "Craft a &4Advanced Computer"
+			x: -0.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["224AE7D8A6042096"]
+			id: "754B7DEEF0B52B6E"
+			rewards: [
+				{
+					id: "122F66867E95B503"
+					item: "computercraft:computer_normal"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "3AC73D6A3D0367E0"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 5
+					id: "0D4D7EB778F35B6D"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.2d
+			subtitle: "&aTurtles&r have the ability to &aplace&r, &bbreak&r, and &bdetect&r &eblocks&r, &bmove&r around and &ddrop&r &eitems&r in their &cinventory&r via their access to the &6Turtle API&r. The &6programs&r they run are stored in their &cinternal memory&r."
+			tasks: [{
+				id: "08FFE5B665260357"
+				item: "computercraft:turtle_normal"
+				type: "item"
+			}]
+			title: "Craft a &eTurtle"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			id: "414495EFD862BD9D"
+			rewards: [{
+				count: 5
+				id: "0449987131D5200C"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "25545AFD9EAE7306"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "minecraft:diamond_shovel"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			id: "14AB8F8B718B8827"
+			rewards: [{
+				count: 5
+				id: "459CA86AAFD30C63"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FFB76C9BC3BBC88"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "minecraft:crafting_table"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			id: "3997D6471DF053E5"
+			rewards: [{
+				count: 5
+				id: "559C4710A09584CC"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75CBE4D91603BE3C"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "minecraft:diamond_axe"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			hide_dependency_lines: true
+			id: "21E5CD5CDA7351E6"
+			rewards: [{
+				count: 5
+				id: "081A015EEE36F86B"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5DFD6DF8B4646282"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "minecraft:diamond_hoe"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			hide_dependency_lines: true
+			id: "3E49F1CF67463B48"
+			rewards: [{
+				count: 5
+				id: "40BD50436051274A"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15C27157E9F17567"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "computercraft:wireless_modem_advanced"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			hide_dependency_lines: true
+			id: "0D23E187A53DE271"
+			rewards: [{
+				count: 5
+				id: "2EE818F2A27D1EA4"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3774DEF4CDD4C48D"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "computercraft:wireless_modem_normal"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			hide_dependency_lines: true
+			id: "5BDC17571CE31634"
+			rewards: [{
+				count: 5
+				id: "2EC1E93187474C5A"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E73B7DCCFCE8521"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "computercraft:speaker"
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			hide_dependency_lines: true
+			id: "3C048CBD74524EF7"
+			rewards: [{
+				count: 5
+				id: "75DEF45982D17625"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5884A5C247A5A517"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "minecraft:diamond_pickaxe"
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["754B7DEEF0B52B6E"]
+			hide_dependency_lines: true
+			id: "15BABD281F621049"
+			rewards: [{
+				count: 5
+				id: "1B330B0ABF3BD063"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "56D37EAECCBFD780"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_normal"
+					tag: {
+						RightUpgrade: "minecraft:diamond_sword"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["12B501165E93085C"]
+			id: "0A3E159C07131FBC"
+			rewards: [
+				{
+					id: "7859D76053CE779C"
+					item: "computercraft:computer_advanced"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "2D8E637ADC208E48"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 8
+					id: "5DAB41E8455525A1"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.2d
+			subtitle: "&aAdvanced Turtles&r have the ability to &aplace&r, &bbreak&r, and &bdetect&r &eblocks&r, &bmove&r around and &ddrop&r &eitems&r in their &cinventory&r via their access to the &6Turtle API&r. The &6programs&r they run are stored in their &cinternal memory&r."
+			tasks: [{
+				id: "68C30D40032695A7"
+				item: "computercraft:turtle_advanced"
+				type: "item"
+			}]
+			title: "Craft a &eAdvanced Turtle"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			id: "725F741B4166A4DF"
+			rewards: [{
+				count: 5
+				id: "794EC40A1D13CEFC"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "013BD6188D2C86ED"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "minecraft:diamond_shovel"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			id: "4B0C4642DEF21158"
+			rewards: [{
+				count: 5
+				id: "0179366FB5889BA2"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60B05E1B25D928D2"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "minecraft:crafting_table"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			id: "159A0F2BF40C2B6D"
+			rewards: [{
+				count: 5
+				id: "2AE34B602CB1694D"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B28BFC1D3277093"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "minecraft:diamond_axe"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			hide_dependency_lines: true
+			id: "7B691CCC4C2FD6C6"
+			rewards: [{
+				count: 5
+				id: "3ABE37074719B869"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "32795133E8E76EE5"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "minecraft:diamond_hoe"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			hide_dependency_lines: true
+			id: "64DF44818EB31497"
+			rewards: [{
+				count: 5
+				id: "317CE1DC0BC4CCE6"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46073F210CDB2E14"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "computercraft:wireless_modem_advanced"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			hide_dependency_lines: true
+			id: "0661A0119D1E182A"
+			rewards: [{
+				count: 5
+				id: "179363E5A0472AE7"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54E761323919BDF0"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "computercraft:wireless_modem_normal"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			hide_dependency_lines: true
+			id: "2866957DE22AC9BE"
+			rewards: [{
+				count: 5
+				id: "056086D0028E45CB"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EE21D1A4A0CDF1D"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "computercraft:speaker"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			hide_dependency_lines: true
+			id: "5EA9A4298AAC757A"
+			rewards: [{
+				count: 5
+				id: "7D21994CCF157507"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73BD6EB65D0A2D76"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "minecraft:diamond_pickaxe"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0A3E159C07131FBC"]
+			hide_dependency_lines: true
+			id: "1F965AC4B5BD2EEB"
+			rewards: [{
+				count: 5
+				id: "408B41F132109F3B"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "206FF664BED3BD6A"
+				item: {
+					Count: 1b
+					id: "computercraft:turtle_advanced"
+					tag: {
+						RightUpgrade: "minecraft:diamond_sword"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			id: "246C4F6A1026CE58"
+			rewards: [{
+				id: "57EA5FCB2784217C"
+				item: "minecraft:cake"
+				type: "item"
+			}]
+			size: 1.3d
+			subtitle: "&6ComputerCraft&r is a &amodification&r for &bMinecraft&r that’s all about &ccomputer programming&r. It allows you to build &ein-game Computers&r and &dTurtle Robots&r, and write programs for them using the &9Lua programming language&r."
+			tasks: [{
+				id: "7B055777A4837079"
+				title: "Welcome to &bComputer Craft"
+				type: "checkmark"
+			}]
+			x: -1.9500000000000002d
+			y: -3.2500000000000004d
+		}
+		{
+			dependencies: ["224AE7D8A6042096"]
+			id: "0D03ACD8C4A573BA"
+			rewards: [
+				{
+					count: 3
+					id: "6E734F7614381650"
+					item: "computercraft:monitor_normal"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "6C34D69174CED35D"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "circle"
+			size: 1.2d
+			subtitle: "The &cMonitor&r is a &cblock&r that can display &etext&r on its &cfront side&r. When several &cscreen blocks&r are placed on the same &cplane&r, it will form a single &cmonitor&r."
+			tasks: [{
+				id: "3B6A53D83EFB73E3"
+				item: "computercraft:monitor_normal"
+				type: "item"
+			}]
+			title: "Craft a &8Monitor"
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["12B501165E93085C"]
+			id: "6AA4BD5C04BCEBD8"
+			rewards: [
+				{
+					count: 3
+					id: "496DDCD283047E02"
+					item: "computercraft:monitor_advanced"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "5EF6E2D0FBB01850"
+					type: "xp_levels"
+					xp_levels: 4
+				}
+			]
+			shape: "circle"
+			size: 1.2d
+			subtitle: "The &cAdvanced Monitor&r is a &cMonitor&r that has &emouse (as 'punches') support&r and can use the &aColor API&r for &escreen colors&r."
+			tasks: [{
+				id: "38ABC4CA3C555AE7"
+				item: "computercraft:monitor_advanced"
+				type: "item"
+			}]
+			title: "Craft a &cAdvanced Monitor "
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["224AE7D8A6042096"]
+			description: [
+				"- &6Wired Modems&r are blocks which can be used to transfer data between &6computers&r, using the &cRednet API&r or the &cModem API&r. To place a &6modem&r on a side of a &6computer&r, right-click to place the &6modem&r while &esneaking&r."
+				""
+				"- &6Wireless Modems&r are blocks which can be used to wirelessly transfer data between &6Computers&r and &aTurtles&r, using the &cRednet API&r or the &cModem API&r. To place a &6modem&r on a side of a &6computer&r, right-click while &esneaking&r."
+				""
+				"- &5Ender Modems&r are &6advanced versions&r of the &6Wireless Modem&r. They use the same &cModem API&r, but are capable of &ccross-dimensional transmissions&r. They have an &aextreme range&r, capable of functioning across &adistances of up to 2,147,483,647 blocks&r (2^31-1, &6unaffected by height or weather&r), and are compatible with &6regular Wireless Modem signals&r."
+			]
+			id: "6E9E94FE813946B8"
+			rewards: [
+				{
+					count: 10
+					id: "3AAAFE8DC1FD9F16"
+					item: "computercraft:cable"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "37234341C487C76A"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			size: 1.2d
+			subtitle: "&fClick!"
+			tasks: [
+				{
+					id: "1819E093E6882793"
+					item: "computercraft:wired_modem"
+					type: "item"
+				}
+				{
+					id: "1F8519E84E42E2D0"
+					item: "computercraft:wireless_modem_normal"
+					type: "item"
+				}
+				{
+					id: "6911BE0D53BA835C"
+					item: "computercraft:wireless_modem_advanced"
+					type: "item"
+				}
+			]
+			title: "Craft &cModems"
+			x: -2.4d
+			y: 0.0d
+		}
+		{
+			dependencies: ["224AE7D8A6042096"]
+			id: "2C9667ECB8EB8591"
+			rewards: [
+				{
+					count: 2
+					id: "38F94FED1C39EB60"
+					item: "minecraft:redstone_block"
+					type: "item"
+				}
+				{
+					icon: "minecraft:experience_bottle"
+					id: "7CDB78CD0D1D3CCD"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					count: 5
+					id: "50F882DA165231AE"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.2d
+			subtitle: "&6Disk Drive&r is an &eobject&r that, when placed &cadjacently&r but not &cdiagonally&r next to a &6computer&r, does the same as a &cdisk drive&r for &6real computers&r in the &6real world&r would do: &9Pocket Computers&r can also be inserted into &6disk drives&r."
+			tasks: [{
+				id: "012D43E6292CF796"
+				item: "computercraft:disk_drive"
+				type: "item"
+			}]
+			title: "Craft a &bDisck Drive"
+			x: -4.8d
+			y: -3.0d
+		}
+		{
+			dependencies: ["224AE7D8A6042096"]
+			id: "6D12388D6F3B4CBF"
+			shape: "circle"
+			size: 1.2d
+			tasks: [
+				{
+					id: "359C795BB292B70B"
+					item: "computercraft:pocket_computer_normal"
+					type: "item"
+				}
+				{
+					id: "5921B2675C2826DA"
+					item: {
+						Count: 1b
+						id: "computercraft:pocket_computer_normal"
+						tag: {
+							Upgrade: "computercraft:wireless_modem_advanced"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "430910833DC180E3"
+					item: {
+						Count: 1b
+						id: "computercraft:pocket_computer_normal"
+						tag: {
+							Upgrade: "computercraft:wireless_modem_normal"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "35CEAC1D84B38B63"
+					item: {
+						Count: 1b
+						id: "computercraft:pocket_computer_normal"
+						tag: {
+							Upgrade: "computercraft:speaker"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft &8Pockets"
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["12B501165E93085C"]
+			id: "4E96BB25B8C9A628"
+			shape: "circle"
+			size: 1.2d
+			tasks: [
+				{
+					id: "37157E92D08A3208"
+					item: "computercraft:pocket_computer_advanced"
+					type: "item"
+				}
+				{
+					id: "519FAC78FDEDF108"
+					item: {
+						Count: 1b
+						id: "computercraft:pocket_computer_advanced"
+						tag: {
+							Upgrade: "computercraft:wireless_modem_advanced"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D990D72D291578B"
+					item: {
+						Count: 1b
+						id: "computercraft:pocket_computer_advanced"
+						tag: {
+							Upgrade: "computercraft:wireless_modem_normal"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5359A9CEFF04F864"
+					item: {
+						Count: 1b
+						id: "computercraft:pocket_computer_advanced"
+						tag: {
+							Upgrade: "computercraft:speaker"
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft &6Advanced Pockets"
+			x: 0.0d
+			y: -3.0d
+		}
+	]
+	title: " &3Computer &cCraft"
+}

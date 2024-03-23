@@ -1,0 +1,658 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4mars"
+	group: "5E3CAACB575722D6"
+	icon: "ad_astra:mars_globe"
+	id: "7408CCEC3E990DEE"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "ad_astra:mars_globe"
+			id: "03B338AC5277FC20"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "4F8B321BD010DB05"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "33470D48BBAE66A9"
+					item: "ad_astra:desh_ingot"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				dimension: "ad_astra:mars"
+				icon: "ad_astra:mars_globe"
+				id: "3242106C382B0F09"
+				type: "dimension"
+			}]
+			title: "Mars"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03B338AC5277FC20"]
+			icon: "ad_astra:ostrum_ingot"
+			id: "41BB8B88C954489F"
+			rewards: [{
+				id: "276EF133D3DAAA53"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "71382C93D5A5F99B"
+				item: "ad_astra:ostrum_ingot"
+				type: "item"
+			}]
+			title: "Crafts"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03B338AC5277FC20"]
+			icon: "minecraft:spyglass"
+			id: "0771E60447729733"
+			rewards: [{
+				icon: "vitalize:experience_cubed"
+				id: "584366221E70DA6A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "379CD1A3A63DD0F5"
+				title: "Exploration"
+				type: "checkmark"
+			}]
+			title: "Exploration"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0771E60447729733"]
+			id: "2C6AC5DED1C711B5"
+			rewards: [
+				{
+					count: 3
+					id: "67AC62D648551E53"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5E1CA82FA90F6A0B"
+					table_id: 1511897575099731575L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				icon: {
+					Count: 1b
+					id: "ulterlands:ulterlands_dimension"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "6A912D7129CFA0A3"
+				structure: "ad_astra:mars_temple"
+				title: "Find the &4Mars temple"
+				type: "structure"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["41BB8B88C954489F"]
+			id: "7858FFA43A47D466"
+			rewards: [
+				{
+					count: 3
+					id: "7D99D6A14802545B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "26805CFD3B2B401C"
+					item: "ad_astra:ostrum_ingot"
+					type: "item"
+				}
+			]
+			subtitle: "The &6netherite space suit&f is an upgraded version of the &6standard space suit&r, featuring permanent fire resistance, more protection and the ability to survive on &6Venus&f and &6Mercury&f. Before you travel to these planets, you must craft the &6netherite space suit armour&f or else you will burn to death."
+			tasks: [
+				{
+					id: "143A97761621C1FA"
+					item: {
+						Count: 1b
+						id: "ad_astra:netherite_space_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "257B0306BE23B18E"
+					item: {
+						Count: 1b
+						id: "ad_astra:netherite_space_suit"
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D4B756908CA1309"
+					item: {
+						Count: 1b
+						id: "ad_astra:netherite_space_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0C33471C5137AD37"
+					item: {
+						Count: 1b
+						id: "ad_astra:netherite_space_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft a &4Netherite Space Helmet"
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["41BB8B88C954489F"]
+			id: "0627F265DD29BD9E"
+			rewards: [{
+				count: 3
+				id: "7C2831183811EEE5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			subtitle: "The &6energizer&r is a machine capable of &apowering items&r and storing large amounts of &benergy&r. To &echarge an item&r, &apower the energizer&r and then right-click on the energizer with that item. It stores 2 million &benergy&r, making it capable of &ccharging machines for a very long time&r. It also retains its &benergy&r when &bbroken&r."
+			tasks: [{
+				id: "514A8297F77535B4"
+				item: "ad_astra:energizer"
+				title: "Craft an &eEnergizer"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["41BB8B88C954489F"]
+			id: "2BAEF82B11C57314"
+			rewards: [
+				{
+					count: 3
+					id: "2046290FF1972BC8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "42DD8CFD94C4D5F2"
+					item: "ad_astra:solar_panel"
+					type: "item"
+				}
+			]
+			subtitle: "&6Fuel&r is hard to get; it &arequires venturing out&r to the ocean, looking for &boil spouts&r. The &3Cryo Freezer&r introduces a new way to obtain a better fuel &3Cryo Fuel&r. &3Cryo Fuel&r is much more efficient than &arefined fuel&r, allowing you to launch a rocket with just one &9bucket&r."
+			tasks: [{
+				id: "200EFCCAE2B8814F"
+				item: "ad_astra:cryo_freezer"
+				title: "Craft a &4Cry Freezer"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0BB6420D6F690764"]
+			id: "0C9431C254E91312"
+			rewards: [
+				{
+					count: 3
+					id: "2DCC1C422950EA3B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3F99A2BCD94AA60D"
+					item: {
+						Count: 1b
+						id: "ad_astra:oxygen_tank"
+						tag: {
+							BotariumData: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "25145920FD632673"
+					table_id: 2645938118790146101L
+					type: "choice"
+				}
+			]
+			subtitle: "&6Oxygen Sensor&r is a machine that produces a &credstone signal&r when oxygen is detected."
+			tasks: [{
+				id: "3D9148290F4408BD"
+				item: "ad_astra:oxygen_sensor"
+				title: "Craft an &bOxygen Sensor"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0BB6420D6F690764"]
+			id: "5E9A5E881BFA5A44"
+			rewards: [
+				{
+					count: 3
+					id: "6B5D0520C9621A0E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "125C02FE2F526DBF"
+					table_id: 2645938118790146101L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "40C4CA18B388EDB2"
+				item: "ad_astra:ostrum_sliding_door"
+				type: "item"
+			}]
+			title: "Craft a &5Ostrum Sliding Door"
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0BB6420D6F690764"]
+			id: "2762FEBBF9BD6F67"
+			rewards: [
+				{
+					count: 3
+					id: "68D2754CDE3E9615"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "49C582A43B140C45"
+					table_id: 2645938118790146101L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "693E7A56BF855753"
+				item: "ad_astra:solar_panel"
+				title: "Build a &4Mars-based Solar Power Station"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0771E60447729733"]
+			id: "76416A580A900385"
+			rewards: [
+				{
+					count: 3
+					id: "27DED3CF0A635F68"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "02A02D0FF3FCDEC3"
+					item: {
+						Count: 1b
+						id: "spirit:soul_steel_bow"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04FA9C8FB863E867"
+					table_id: 1511897575099731575L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				entity: "ad_astra:martian_raptor"
+				icon: "ad_astra:martian_raptor_spawn_egg"
+				id: "2555C0762391F396"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Defeat &4Martian Raptor"
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"41BB8B88C954489F"
+				"7858FFA43A47D466"
+				"13172E89C05009C7"
+			]
+			description: ["- Now that you can fly to &6Venus&r and &6Mercury&r, your new goal is to gather enough &bCalorite&r to build the ultimate rocket."]
+			id: "6A46307688B99ADE"
+			rewards: [
+				{
+					id: "00D5712780A1AEA0"
+					item: "ad_astra:raw_ostrum_block"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "17C95C37E86ECF20"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "092EA839233F2696"
+				item: {
+					Count: 1b
+					id: "ad_astra:tier_3_rocket"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				title: "Craft a &8Tier 3 &3Rocket"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7858FFA43A47D466"]
+			id: "79D51FAB1AD2E48C"
+			tasks: [{
+				count: 4L
+				id: "6535700B823D9EC3"
+				item: {
+					Count: 1b
+					id: "ad_astra:oxygen_tank"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"338050AAE5CCDD7C"
+				"14377841BB0F2875"
+				"41BB8B88C954489F"
+			]
+			id: "0BB6420D6F690764"
+			rewards: [
+				{
+					count: 2
+					id: "3238EE7345D1A510"
+					item: {
+						Count: 1b
+						id: "ad_astra:oxygen_tank"
+						tag: {
+							BotariumData: { }
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "080942437450E6CD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "389075840058C4C5"
+				item: "ad_astra:oxygen_distributor"
+				title: "Craft a &bOxygen Distributor"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2BAEF82B11C57314"]
+			id: "106B11CF15CA9948"
+			tasks: [{
+				id: "7D3BD864115B77C9"
+				item: "ad_astra:cryo_fuel_bucket"
+				type: "item"
+			}]
+			title: "Obtain &bCryo Fuel"
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A46307688B99ADE"]
+			description: [""]
+			id: "4D812F63717BFA30"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "3CF6E615B84D85DE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "529E6EE0CA42D4A0"
+					item: "create:fluid_tank"
+					type: "item"
+				}
+				{
+					id: "54FCD67F279F82FF"
+					item: "ad_astra:oxygen_bucket"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				dimension: "ad_astra:venus"
+				icon: "ad_astra:venus_globe"
+				id: "1FAAF55A4049C58A"
+				title: "Venus"
+				type: "dimension"
+			}]
+			title: "to &eVenus"
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			id: "13172E89C05009C7"
+			tasks: [{
+				count: 2L
+				id: "6D0146BC96487668"
+				item: "ad_astra:launch_pad"
+				type: "item"
+			}]
+			title: "Craft a &8Launch Pad"
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["550D00A9C64FD191"]
+			id: "013499F5C7A66875"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3350EFC48AFA8F4A"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "7D1AE8FA6F46028C"
+				item: "ad_astra:desh_plate"
+				type: "item"
+			}]
+			title: "Obtain Desh Plate"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["550D00A9C64FD191"]
+			id: "3FE773BBC807717F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "798EC4C2EFBEE01E"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "58462E375BEAE6FC"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			title: "Obtain Desh Ingot"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["550D00A9C64FD191"]
+			id: "57AD69B74D38A435"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B6892FF4D6CB172"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "7B7AA8E7EE58E5FA"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			title: "Obtain Steel Ingot"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["550D00A9C64FD191"]
+			id: "3C565E64CC795DCB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "45543C649BF4C1F8"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 64L
+				id: "5E2BF6EAF66C0F50"
+				item: "ad_astra:iron_plate"
+				type: "item"
+			}]
+			title: "Obtain Iron Plate"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A46307688B99ADE"]
+			id: "1C182FFE92C8CE36"
+			rewards: [
+				{
+					count: 5
+					id: "7AC16448A7B82BE2"
+					item: "ad_astra:calorite_ingot"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34436710FABD3B95"
+					table_id: 28026836370523306L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4768719159ACCD87"
+					table_id: 2645938118790146101L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				dimension: "ad_astra:mercury"
+				icon: "ad_astra:mercury_globe"
+				id: "33AE4B97DEF5A319"
+				title: "to &cMer&6cury"
+				type: "dimension"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["03B338AC5277FC20"]
+			description: [
+				"- A &6space station&r is a pre-built structure that is created in the planet selection screen, provided you have the necessary &bmaterials&r. Space stations are always located in a moon or planet's orbit and provide the ability to place blocks in that &6orbit dimension&r."
+				""
+				"- &6Space stations&r are designed to be expanded upon, allowing you to build the base of your dreams over a &bmoon/planet&r. They always spawn in whatever position you &6launched&r your rocket."
+				"rocket at, so remember the &6coordinates&r to avoid losing the structure."
+			]
+			icon: "ad_astra:steel_block"
+			id: "550D00A9C64FD191"
+			rewards: [
+				{
+					id: "662C7593A4FE134A"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6BF70BF93FCF57ED"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				id: "288326B97653F239"
+				title: "Collect Different Steel Blocks"
+				type: "checkmark"
+			}]
+			title: "&lSpace Station Mission"
+			x: 0.0d
+			y: -2.5d
+		}
+	]
+	title: " &4Mars"
+}

@@ -1,0 +1,97 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "short_tutorial"
+	group: ""
+	id: "20F6781DABE545B8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&bThin Air"
+				"Thin Air introduces air mechanics, making it harder and harder to breath the further you move away from the world's sea level. Both adventuring in caves as well as climbing tall moutains have suddently become quite dangerous if you don't bring a sufficient air supply! This only affects the Overworld for now. Check the Thin Air \\& Cold Sweat Questsline."
+				""
+				"&9Cold &cSweat"
+				"Cold Sweat adds a temprature mechanic to the game. Do not worry, it has been configured to be easy to deal with. It is in Celsuis so make sure to check your temprature bottom left and not make it go below 5 degrees or above 40 degrees. Check the Thin Air \\& Cold Sweat Questsline.  "
+				" "
+				"&aVillager Comfort"
+				"Villager comfort makes villagers price their trades based on how comfy is their lifestyle. This is in an effort to discourage building narrow trading halls with no daylight access and no place for villagers to walk around and meet each other, and instead reward the player for building a bigger and safer village, which makes villagers comfier, thus lowering trade prices."
+			]
+			icon: "cold_sweat:thermometer"
+			id: "2EFE0FF10CBFA746"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "3234BDC3094BB778"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "259859F14F5F7BDE"
+				title: "New Mechanics"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&6Tempad"
+				"Tempad adds a small tablet device with the ability to save locations and teleport to them from anywhere on the Sacred Timeline. This is the SteamPunk way of Teleporting. No more waystones!"
+				""
+				"&9Improvable &6Skills"
+				"Improvable Skills allows the players to upgrade themselves using experience and aquire new Skills and Abilities to add to their Book of Skills."
+				""
+				"&cMrCrayfish's Guns &f\\& &4Scorched Guns"
+				"MrCrayfish's Gun Mod is a new and exciting weapon mod with a unique vision. All can be highly customised to create your own unique variant. Using attachments and enchantments, you can increase the stats of a weapon to create an even more powerful version. SCORCHED GUNS expands on this."
+			]
+			icon: "tempad:tempad"
+			id: "5056EDEBDD15D68D"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "2474CD8848984E2C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6012C1F9C3744DAC"
+				title: "New Features"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2EFE0FF10CBFA746"
+				"5056EDEBDD15D68D"
+			]
+			description: [
+				"&3More Checkmarks"
+				"Make sure to quickly look through the other quests and also complete those checkmarks before you begin playing."
+				""
+				"&dControls"
+				"All controls can easily be found in the Controls Settings menu with search options."
+				""
+				"&9Lastly"
+				"If are unsure about a Mod or Quest then either look up the Mod and check out the projects page or join the Luna Pixel Studios Discord! &blunapixel.studio/discord"
+			]
+			icon: "minecraft:nether_star"
+			id: "7FDB00094557CAAD"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "78E3482C20FC04B8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6C9B845E081DCD9F"
+				title: "Lastly"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+	title: " Quick Tutorial"
+}

@@ -1,0 +1,957 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "5E3CAACB575722D6"
+	icon: "minecraft:obsidian"
+	id: "11C2723C4796297E"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/withered_debris_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/ancient_debris_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -8.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/chiseled_warped_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -11.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/chiseled_warped_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -10.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/chiseled_warped_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -9.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/chiseled_warped_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -8.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/chiseled_warped_nether_bricks.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.0d
+			y: -7.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "bygonenether:textures/block/withered_debris_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/ancient_debris_top.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "minecraft:textures/block/chiseled_polished_blackstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.0d
+			y: -12.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.0d
+			y: -6.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "quark:textures/block/chiseled_soul_sandstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 18.0d
+			y: -6.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "minecraft:netherrack"
+			id: "495BB279FD92BBD3"
+			rewards: [{
+				id: "7DFA507B33BD11C2"
+				item: {
+					Count: 1b
+					id: "cold_sweat:soulspring_lamp"
+					tag: {
+						fuel: 64.0d
+						isOn: 1b
+					}
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			subtitle: "Create a &4Nether Portal.&r Mind the intense heat."
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "278ABF4424C0957A"
+				title: "Enter the Nether"
+				type: "dimension"
+			}]
+			title: "Enter the &4Nether"
+			x: 6.5d
+			y: -9.5d
+		}
+		{
+			id: "3698E94FE5199C8F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E6AAE3A0483DC74"
+					table_id: 1511897575099731575L
+					type: "random"
+				}
+				{
+					id: "13920753D0AD8023"
+					item: "unusualend:wither_orb"
+					type: "item"
+				}
+			]
+			subtitle: "You can use &dSoul Sand/Soil&r or &5Soul Stone &rfrom the Bygone Nether mod. Make sure there are no obstructions like snow or grass under the arms when spawning."
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: "minecraft:wither_skeleton_skull"
+				id: "759215FA899342DE"
+				title: "Kill The Wither"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat &8&lThe Wither"
+			x: 12.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6C9D9A7F3B059EA8"]
+			id: "58FE5DCC46CD3748"
+			rewards: [{
+				id: "43A9B33FEA83B965"
+				item: "cataclysm:bulwark_of_the_flame"
+				type: "item"
+			}]
+			subtitle: "Found at the Top of the &cBurning Arena&r. Place Burning Ashes in the Altar to Summon &2Ignis"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					Count: 1b
+					id: "cataclysm:ignitium_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "1EADDF115D029B72"
+				title: "Kill Ignis"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat &2Ignis"
+			x: 6.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["500C20BAECBF3D3F"]
+			id: "5D8F422832CF0C61"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D29B8940D89B2EA"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found in Soul Blacksmiths, which rarely spawn in the &cNether&r. &4Fire resist&r is highly recommended."
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					Count: 1b
+					id: "cataclysm:monstrous_helm"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4C08A49917B9C5A4"
+				title: "Kill the Netherite Monstrosity"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &8Netherite Monstrosity"
+			x: 6.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["0C99225A8ED5ECC8"]
+			id: "1538759577E83248"
+			rewards: [{
+				id: "03A014E496A14FD6"
+				item: "minecraft:music_disc_pigstep"
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+				id: "4CFB67779F6C821A"
+				title: "Discover a Bastion Remenant"
+				type: "advancement"
+			}]
+			title: "Discover a &8Bastion Remnant"
+			x: 11.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			id: "0F837119002978E6"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "0C410ADAF501A8C4"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "idas:necromancers_spire"
+				criterion: ""
+				id: "068FE8A58DE4EFB4"
+				title: "Discover a Necromancer's Spire"
+				type: "advancement"
+			}]
+			title: "Discover the &fNecromancer's Spire"
+			x: 16.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			hide: false
+			icon: "minecraft:crying_obsidian"
+			id: "5E31AB17873EDC41"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "4E3FAFD42763AB18"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				id: "016AEF31F4A06B7E"
+				structure: "idas:ancient_portal/nether_ancient_portal"
+				title: "Disover a Acient Nether Portal"
+				type: "structure"
+			}]
+			title: "Discover an Ancient Nether Portal"
+			x: 17.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			id: "1DB6246996147E35"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "7D7B8DDA7520DDB9"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				icon: "minecraft:basalt"
+				id: "6F611125044FD8FC"
+				structure: "wabi_sabi_structures:basalt_factory_ruin"
+				title: "Discover a Factory Ruin"
+				type: "structure"
+			}]
+			x: 17.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			id: "56E28D37ADBA474A"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "4FE7463FB22A00B3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "bygonenether:catacomb"
+				criterion: ""
+				id: "473B58638F3850D9"
+				title: "Discover a Catacomb"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			hide_dependent_lines: true
+			id: "130253BF1DD88CC5"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "66C61F99460A406A"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "bygonenether:piglin_manor"
+				criterion: ""
+				id: "4FFEFCBBE2BE727A"
+				title: "Discover a Piglin Manor"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			hide_dependent_lines: true
+			id: "129F37936ECA6014"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "60D95D6F19DA96CC"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "bygonenether:citadel"
+				criterion: ""
+				id: "3389B95584A24199"
+				title: "Discover a Citadel"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["0C99225A8ED5ECC8"]
+			id: "6C9D9A7F3B059EA8"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "027AC156F9614742"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "square"
+			subtitle: "A highly impressive arena of fire and lava. Multifloored with sentries that drop &c&lBurning Ashes."
+			tasks: [{
+				advancement: "cataclysm:find_burning_arena"
+				criterion: ""
+				id: "26F36B522E7CBB4C"
+				title: "Discover the Burning Arena"
+				type: "advancement"
+			}]
+			title: "Discover the &cBurning Arena"
+			x: 9.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0C99225A8ED5ECC8"]
+			description: [
+				"{@pagebreak}"
+				"{@pagebreak}"
+			]
+			id: "500C20BAECBF3D3F"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "06F4E999429888C5"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "square"
+			subtitle: "The Soul Forge is made primarily of blackstone. On the map you will see the boss bar/icon and a big patch of &blight blue soulfire.&r"
+			tasks: [{
+				advancement: "cataclysm:find_soul_black_smith"
+				criterion: ""
+				id: "5A8D0F61F54B2C69"
+				title: "Discover the Soul Black Smith"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["495BB279FD92BBD3"]
+			id: "0C99225A8ED5ECC8"
+			rewards: [
+				{
+					id: "3D7D83CD7C00CBE6"
+					item: "handcrafted:blaze_trophy"
+					type: "item"
+				}
+				{
+					id: "43481CA97BF00A92"
+					item: "handcrafted:wither_skeleton_trophy"
+					type: "item"
+				}
+			]
+			shape: "square"
+			subtitle: "New Overhauled Nether Fortress"
+			tasks: [{
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+				id: "4FD95E4204875F0E"
+				title: "Find a &4Fortress"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: -9.5d
+		}
+		{
+			id: "43725D0342C31750"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A5ABDFA93C6C830"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found in the &5Grimstone Castle"
+			tasks: [{
+				entity: "iter_rpg:sorrowsealed"
+				icon: "iter_rpg:hollow_visage"
+				id: "2F10097AF155D576"
+				title: "Defeat the &9Sorrowsealed"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &9Sorrowsealed"
+			x: 11.0d
+			y: -8.0d
+		}
+		{
+			id: "357B226238A4BDCE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59BB1D0E57EED93B"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found in &3Nether Wastes.&r A tall skeletal being that summons minions and spouts fire. Rarely drops a &8Sharp Bone.&r"
+			tasks: [{
+				entity: "iter_rpg:carcass"
+				icon: "iter_rpg:magmanum_chunk"
+				id: "3A645AE52F388F27"
+				title: "Defeat the &5Carcass"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: -11.0d
+		}
+		{
+			id: "455EC04EB047CAED"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "0794E4B3D5D85778"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "23408EBB1B01DB6F"
+				title: "Unique Structures"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6465FCE9D868877E"]
+			id: "7BE16EB49AC68EE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B5558BC738213D6"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Found in the Ancient Battlegrounds"
+			tasks: [{
+				entity: "irons_spellbooks:citadel_keeper"
+				icon: "irons_spellbooks:armor_pile"
+				id: "3024568D003D46CD"
+				title: "Awaken and Defeat a &5Ancient Knight"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			icon: "minecraft:black_banner"
+			id: "6465FCE9D868877E"
+			tasks: [{
+				icon: "minecraft:black_banner"
+				id: "0CF800C03B9767D2"
+				structure: "irons_spellbooks:ancient_battleground"
+				title: "Discover the Ancient Battlegrounds"
+				type: "structure"
+			}]
+			x: 14.5d
+			y: -9.5d
+		}
+		{
+			id: "2BB4201056120E6D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24725B807AC5BCCC"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			subtitle: "Located in the Infernal Dunes. Home of the Hovering Inferno. Only the Brave will read the book on the Altar."
+			tasks: [{
+				advancement: "incendium:infernal_dunes/inferno/root"
+				criterion: ""
+				id: "61D4614DD55B216C"
+				title: "Discover the &6Infernal Altar"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["455EC04EB047CAED"]
+			id: "3DB32CB54059DB5F"
+			rewards: [{
+				icon: "minecraft:experience_bottle"
+				id: "5D2AA2C286C33FAB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "incendium:ash_barrens/root"
+				criterion: ""
+				icon: "minecraft:piglin_brute_spawn_egg"
+				id: "575706F802A58C3D"
+				title: "Discover the Forbidden Castle"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: -9.5d
+		}
+	]
+	title: " &4Nether&4"
+}

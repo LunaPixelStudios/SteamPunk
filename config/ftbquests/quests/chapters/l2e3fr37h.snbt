@@ -1,0 +1,608 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l2e3fr37h"
+	group: "5E3CAACB575722D6"
+	icon: "ad_astra:earth_globe"
+	id: "50342FF0C32120E0"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["20983C3D23B612F3"]
+			id: "7AF048C0042EFAE9"
+			rewards: [
+				{
+					count: 12
+					id: "0D9C66FDD7CA4A27"
+					item: "create:andesite_alloy"
+					type: "item"
+				}
+				{
+					icon: "vitalize:experience_cubed"
+					id: "019BA3ED0EBFC96A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "The &bcompressor&r is a machine that allows &aingots&r to be compressed into &eplates&r.&r"
+			tasks: [{
+				id: "0DC04860F16EAD54"
+				item: "ad_astra:compressor"
+				title: "Craft a &5Compressor"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["332F08FF38BB4259"]
+			id: "3A7E9B0ECF32A32B"
+			rewards: [
+				{
+					count: 5
+					id: "382B2CD3042DE65E"
+					item: "ad_astra:steel_ingot"
+					type: "item"
+				}
+				{
+					id: "159AE5570CC9C6C6"
+					item: {
+						Count: 1b
+						id: "ad_astra:oxygen_tank"
+						tag: {
+							BotariumData: { }
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "The &aNasa Workbench&r is used to craft rockets of all tiers.&r"
+			tasks: [{
+				id: "52878781AB050F4A"
+				item: "ad_astra:nasa_workbench"
+				title: "Build a &bNASA workbench"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0FC298D30E5ECCED"
+				"3A7E9B0ECF32A32B"
+				"7185D67A20B21FFB"
+			]
+			id: "199092092D21485E"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "10D39C505708DB50"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "01F591407F77D597"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			subtitle: "The &bTier 1 Rocket&r is the first rocket the player can craft in order to go to space.&r"
+			tasks: [{
+				id: "788AE2374588CD5B"
+				item: {
+					Count: 1b
+					id: "ad_astra:tier_1_rocket"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &4Tier 1 &6Rcoket"
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["53CD915333EE2929"]
+			id: "0FC298D30E5ECCED"
+			rewards: [{
+				id: "516D5DFAD591B16A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			subtitle: "The first suit you will craft in &aAd Astra&r is the standard &bSpace Suit&r. This suit provides the bare minimum, allowing you to travel to less dangerous locations, like the &dMoon&r.&r"
+			tasks: [
+				{
+					id: "7AE8CC8E5EE08211"
+					item: {
+						Count: 1b
+						id: "ad_astra:space_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A3166D0C41D47F8"
+					item: {
+						Count: 1b
+						id: "ad_astra:space_suit"
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52BEDB7FB4BC3E4F"
+					item: {
+						Count: 1b
+						id: "ad_astra:space_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D63F4924985F0F6"
+					item: {
+						Count: 1b
+						id: "ad_astra:space_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Craft &6Space armor"
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["332F08FF38BB4259"]
+			icon: "ad_astra:oxygen_loader"
+			id: "53CD915333EE2929"
+			rewards: [{
+				count: 5
+				id: "29757418EE67C40F"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			subtitle: "Inside the &aOxygen Loader&r, &eBuckets of Water&r can be placed inside, turning it into &bOxygen&r. This &bOxygen&r can then be placed inside &cOxygen Tanks&r and consumed as if they're a food item, which will cause them to enter your &dSpace Suit&r. Alternatively, you can directly add &bOxygen&r to a &dSpace Suit&r, which is recommended.&r"
+			tasks: [{
+				id: "06BEA07039136352"
+				item: "ad_astra:oxygen_loader"
+				title: "Craft an &2Oxygen Loader"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0729E0E98B1F4B93"]
+			icon: "minecraft:spyglass"
+			id: "77F0D17CE146C619"
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "460A76197365166C"
+				title: "Exploration"
+				type: "checkmark"
+			}]
+			title: "&lExploration"
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0729E0E98B1F4B93"]
+			description: [
+				"- A &aSpace Station&r is a pre-built structure that is created in the planet selection screen, provided you have the necessary materials. Space stations are always located in a moon or planet's orbit and provide the ability to place blocks in that orbit dimension.&r"
+				""
+				"- Space stations are designed to be expanded upon, allowing you to build the base of your dreams over a &cmoon/planet&r. They always spawn in whatever position you launched your&r."
+				"rocket at, so remember the coordinates to avoid losing the structure.&r"
+			]
+			icon: "ad_astra:steel_block"
+			id: "2C786A12D36166AF"
+			rewards: [
+				{
+					id: "002F185B0BAC83AB"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0317503AE8623FE2"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				id: "5FA1A63B000F595E"
+				title: "Collect Different Steel Blocks"
+				type: "checkmark"
+			}]
+			title: "&lSpace Station Mission"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0729E0E98B1F4B93"]
+			id: "1D952DC80615D842"
+			rewards: [{
+				icon: "vitalize:experience_cubed"
+				id: "66E8947DA763D22C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "075DE1DB5879D1CE"
+				item: "ad_astra:earth_globe"
+				type: "item"
+			}]
+			title: "&lCollect the Earth Globe"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["20983C3D23B612F3"]
+			id: "670C6423F69F1C9B"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "1F6C26BBAB9CFC9D"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					count: 12
+					id: "3EF553F4D26E5A15"
+					item: "create:iron_sheet"
+					type: "item"
+				}
+			]
+			subtitle: "The &bCoal Generator&r is a generator that allows early power generation. It burns &fcoal&r to produce energy.&r"
+			tasks: [{
+				id: "28DC506F6D2A305D"
+				item: "ad_astra:coal_generator"
+				title: "Craft a &4Coal Generator"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["77F0D17CE146C619"]
+			id: "499AF1B39F98E363"
+			rewards: [
+				{
+					count: 2
+					id: "36E3A70CCD07335B"
+					item: "ad_astra:oil_bucket"
+					type: "item"
+				}
+				{
+					icon: "vitalize:experience_cubed"
+					id: "4A6B4B9465E776D5"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			tasks: [{
+				icon: "ad_astra:oil_bucket"
+				id: "6E8042298A406E94"
+				structure: "ad_astra:oil_well"
+				title: "Find an &8Oil Well"
+				type: "structure"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["77F0D17CE146C619"]
+			id: "42D9D83F15D68181"
+			rewards: [
+				{
+					count: 5
+					id: "240F6F3A1E6A1110"
+					item: "ad_astra:steel_ingot"
+					type: "item"
+				}
+				{
+					icon: "vitalize:experience_cubed"
+					id: "31AC27B47F3BEA4E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				icon: "minecraft:blackstone"
+				id: "31C7A81432368D0A"
+				structure: "ad_astra:meteor"
+				title: "Find a Meteor"
+				type: "structure"
+			}]
+			title: "Find a &4Meteor"
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["697B725FEAC06CBF"]
+			id: "726BD93C7416B0F7"
+			rewards: [{
+				id: "404EA1886833FF73"
+				item: "ad_astra:steel_block"
+				type: "item"
+			}]
+			tasks: [{
+				id: "53022EA02420CDC5"
+				item: "ad_astra:fuel_bucket"
+				title: "Craft a fuel bucket"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			icon: "ad_astra:earth_globe"
+			id: "0729E0E98B1F4B93"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "532C7EE506A056A2"
+				title: "Earth?"
+				type: "checkmark"
+			}]
+			title: "Earth"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0729E0E98B1F4B93"]
+			id: "20983C3D23B612F3"
+			tasks: [{
+				id: "2EE2EF27B579AAC7"
+				item: {
+					Count: 1b
+					id: "ad_astra:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft a &lHammer"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["332F08FF38BB4259"]
+			id: "697B725FEAC06CBF"
+			rewards: [{
+				count: 3
+				id: "05181B636BCB47F3"
+				item: "ad_astra:oil_bucket"
+				type: "item"
+			}]
+			subtitle: "The &aFuel Refinery&r is a machine that is used to turn &coil&r into &efuel&r.&r"
+			tasks: [{
+				id: "395371C61A3454D0"
+				item: "ad_astra:fuel_refinery"
+				type: "item"
+			}]
+			title: "Craft a &dFuel Refinery"
+			x: 7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"670C6423F69F1C9B"
+				"7AF048C0042EFAE9"
+			]
+			id: "332F08FF38BB4259"
+			shape: "circle"
+			size: 1.5d
+			subtitle: "The &bSteel Ingot&r is a basic crafting component in &aAd Astra&r. In conjunction with the &bSteel Plate&r, it's mainly used for crafting the &bTier 1 Rocket&r and steel building blocks, as well as other items.&r"
+			tasks: [{
+				id: "14826373FD5B01E9"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			title: "Obtain &8&lSteel"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			description: [
+				"- To place your newly-created &crocket&r, you must build a &blaunchpad&r.&r"
+				""
+				"- After the &blaunch pad&r has been built, place the &erocket&r in the&r."
+				"center."
+			]
+			id: "7185D67A20B21FFB"
+			subtitle: "Click!"
+			tasks: [{
+				count: 2L
+				id: "1B80EF983B8ADD1C"
+				item: "ad_astra:launch_pad"
+				type: "item"
+			}]
+			title: "Craft a &8Launch Pad"
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0FC298D30E5ECCED"]
+			id: "3DA60964C329C153"
+			subtitle: "BREATH AIR!!!!"
+			tasks: [{
+				count: 2L
+				id: "7F0F6434C64A3BDA"
+				item: {
+					Count: 1b
+					id: "ad_astra:oxygen_tank"
+					tag: {
+						BotariumData: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["199092092D21485E"]
+			description: [
+				"&lPreparing to Launch Place these items in the&r"
+				""
+				"- Follow these steps very carefully! Missing even one thing here could make your life tough, or worse, cause you to be stranded on the &dmoon&r!&r"
+				""
+				"- In order to return to &aearth&r from the &dmoon&r, you need two basic things: a &blaunch pad&r and three &bbuckets of fuel&r. (inventory of your rocket, and ensure that you always have them every time you launch a rocket).&r"
+				""
+				"- Finally, you should bring multiple &ffull oxygen tanks&r, plentiful &ffood&r, &csoul torches&r or &eglowstone&r, &aweapons&r and &atools&r. Once you have this, you are ready to launch! Enter the &erocket&r and press &aSpace&r!&r"
+			]
+			icon: "ad_astra:moon_globe"
+			id: "4368A73BA98E532F"
+			rewards: [
+				{
+					icon: "vitalize:experience_cubed"
+					id: "6F5B0D235B3AF0EC"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "6845160249D811A8"
+					item: "ad_astra:steel_block"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Click!"
+			tasks: [{
+				dimension: "ad_astra:moon"
+				icon: "ad_astra:moon_globe"
+				id: "088E260A9C4358D5"
+				type: "dimension"
+			}]
+			title: "To &lThe Moon"
+			x: 11.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2C786A12D36166AF"]
+			id: "33BB9EC2A0736ED8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62095FDA44D4F61C"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "6E847B81411304CF"
+				item: "ad_astra:desh_ingot"
+				type: "item"
+			}]
+			title: "Obtain Desh Ingot"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2C786A12D36166AF"]
+			id: "0C30DFE9249B56A1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "26FF8065DFB13C2F"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "223182204132E15C"
+				item: "ad_astra:steel_ingot"
+				type: "item"
+			}]
+			title: "Obtain Steel Ingot"
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2C786A12D36166AF"]
+			id: "0581850D0D53491D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "513F74B0D47ADE50"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 64L
+				id: "0BFF2AFB292BA020"
+				item: "ad_astra:iron_plate"
+				type: "item"
+			}]
+			title: "Obtain Iron Plate"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2C786A12D36166AF"]
+			id: "62792E8FE9B62491"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "025047D92F6C7F47"
+				table_id: 28026836370523306L
+				type: "random"
+			}]
+			tasks: [{
+				count: 32L
+				id: "2B2E2DB667429201"
+				item: "ad_astra:desh_plate"
+				type: "item"
+			}]
+			title: "Obtain Desh Plate"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0729E0E98B1F4B93"]
+			id: "7F18EE63005493C2"
+			tasks: [{
+				advancement: "ad_astra:rocket_destroyed"
+				criterion: ""
+				id: "3049E2AC4A7FD22A"
+				title: "Launch a rocket with no passenger"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0729E0E98B1F4B93"]
+			id: "41CBF4D6E3A27232"
+			tasks: [{
+				advancement: "ad_astra:astro_cuisine"
+				criterion: ""
+				id: "4B90F7FBF43206F8"
+				title: "Throw raw food into the atmospere"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+	]
+	title: " &2To &bThe &fMoon"
+}
