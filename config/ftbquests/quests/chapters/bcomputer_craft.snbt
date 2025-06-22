@@ -724,7 +724,7 @@
 				item: "computercraft:disk_drive"
 				type: "item"
 			}]
-			title: "Craft a &bDisck Drive"
+			title: "Craft a &bDisk Drive"
 			x: -4.8d
 			y: -3.0d
 		}
